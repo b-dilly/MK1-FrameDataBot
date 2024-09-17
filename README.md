@@ -17,7 +17,9 @@ If no match for the character's name or input is found, the help message will be
 2. Provide the character's name, followed by either a specific input or the word "ALL."
 
 Note: To search for Kameo characters, prefix the character name with "k."
+
 Examples: 
+
 @MK1-FrameDataBot reptile b2
 @MK1-FrameDataBot k.scorpion all
     
