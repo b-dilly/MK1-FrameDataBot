@@ -8,7 +8,7 @@ Main.py handles listening for an @mention for activation, as well as managing Di
 ## Functionality
 
 After being @mentioned, the bot expects two additional words: the character name and the input you want to search for. If "ALL" is used instead of the input, the bot will return a list of all inputs found on Kombat Akademy for that character. Due to the way the data is structured, some data may display inaccurately.
-The script has some leniency with misspelling. As of this commit, you are allowed 2 mispellings.
+The script has some leniency with misspelling character names. As of this commit, you are allowed 2 mispellings.
 If no match for the character's name or input is found, the help message will be returned.
 
 ## Instructions for Use
