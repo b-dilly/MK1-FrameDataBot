@@ -25,3 +25,5 @@ Examples:
 @MK1-FrameDataBot k.scorpion all
     
 
+## Link to add bot to server
+https://discord.com/oauth2/authorize?client_id=1263851539429199872&response_type=code&redirect_uri=https%3A%2F%2Fdiscordapp.com%2Foauth2%2Fauthorize%3F%26client_id%3D1263851539429199872%26scope%3Dbot&integration_type=0&scope=guilds.join+applications.commands+activities.read
