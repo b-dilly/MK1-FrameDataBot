@@ -1,0 +1,338 @@
+kameo_name,category,subcategory,parent_command,move_name,command,hit_damage,block_damage,fblock_damage,block_type,startup,active,recovery,cancel,hit_advantage,block_advantage,fblock_advantage,properties,notes
+Cyrax,Kameo Moves,Special Moves,,Kopter Chopper,KAMEO,67.50,,,Unblockable,40,57,61,,138,,,,
+Cyrax,Kameo Moves,Special Moves,KAMEO,Horizontal Kopter Chopper,Hold KAMEO,52.50,43.000,,High,44,40,63,,90,67,67,,
+Cyrax,Kameo Moves,Special Moves,,Kopter Chopper (Away),U+KAMEO,67.50,,,Unblockable,40,57,61,,138,,,,• Final hit hurls victim away from main fighter
+Cyrax,Kameo Moves,Special Moves,U+KAMEO,Horizontal Kopter Chopper (Away),Hold KAMEO,52.50,43.000,,High,44,40,63,,90,67,67,,• Final hit hurls victim away from main fighter
+Cyrax,Kameo Moves,Special Moves,,Cyber Net,B+KAMEO,20.00,12.500,,Mid,40,,20,,220,1,1,Invulnerability,"• Has Invulnerability when performed as a Getup
+• Drains opponent's Super Meter"
+Cyrax,Kameo Moves,Special Moves,,Self-Destruct,F+KAMEO,60.00,17.500,,Mid,99,5,48,,136,71,71,,"• Main Fighter will not take damage if Cyrax is hit while holding Self-Destruct
+• Cyrax will drop his bomb if he is hit while holding Self-Destruct"
+Cyrax,Kameo Moves,Special Moves,F+KAMEO,(During) Reposition,B+KAMEO or F+KAMEO,,,,,1,,24,,,,,,
+Cyrax,Kameo Moves,Special Moves,F+KAMEO,Detonate,D+KAMEO,60.00,17.500,,Mid,23,5,28,,,,,,"• Detonation happens automatically after a duration
+• Advantage on Hit allows for Jump Attack follow-up"
+Cyrax,Kameo Moves,Special Moves,,(Behind) Self-Destruct,D+KAMEO,60.00,17.500,,Mid,99,5,48,,136,71,71,,"• Main Fighter will not take damage if Cyrax is hit while holding Self-Destruct
+• Cyrax will drop his bomb if he is hit while holding Self-Destruct"
+Cyrax,Kameo Moves,Special Moves,D+KAMEO,(During) Reposition,B+KAMEO or F+KAMEO,,,,,1,,24,,,,,,
+Cyrax,Kameo Moves,Special Moves,D+KAMEO,Detonate,D+KAMEO,60.00,17.500,,Mid,23,5,28,,,,,,"• Detonation happens automatically after a duration
+• Advantage on Hit allows for Jump Attack follow-up"
+Cyrax,Kameo Moves,Throws,,I Choose You To Die!,F+THROW or F+1+3,100.00,,,Throw,10,2,33,,9,,,,• Shove performed instead when Kameo is unavailable
+Cyrax,Kameo Moves,Throws,F+THROW or F+1+3,Not Over Yet,EX,,,,,,,,,,,,,• Costs 2 bars of Super Meter
+Cyrax,Kameo Moves,Kameo Fatality,,(Mid) Annihilation,"FBF,KAMEO",,,,,,,,,,,,,• Jump Distance
+Cyrax,Kameo Moves,Kameo Fatality,"FBF,KAMEO",Easy Fatality,Hold EX+1,,,,,,,,,,,,,• Easy Fatality Token required to perform Easy Fatality
+Darrius,Kameo Moves,Special Moves,,Tornado Kick,KAMEO,50.00,16.25,,Mid,57,7,,106,170,78,78,,
+Darrius,Kameo Moves,Special Moves,KAMEO,The Double Whammy,"KAMEO,B+KAMEO",50.00,16.25,,Mid,24,4,28,,32,0,0,,• Cancelable on Hit into Jump
+Darrius,Kameo Moves,Special Moves,KAMEO,Twister Kicks,"KAMEO,B+KAMEO,B+KAMEO",120.00,45.000,,Mid,29,52,45,,28,-7,-17,,• Kameo Gauge replenished on Hit
+Darrius,Kameo Moves,Special Moves,KAMEO,Double Daegon Kick,"KAMEO,B+KAMEO,F+KAMEO",150.00,22.500,,High,29,4,40,,25,-2,-12,,• Depletes a bar of Super Meter from opponent on Hit
+Darrius,Kameo Moves,Special Moves,KAMEO,Volleyballistic,"KAMEO,F+KAMEO",50.00,16.250,,Overhead,47,9,20,,29,-4,-4,,
+Darrius,Kameo Moves,Special Moves,KAMEO,(Delay) Eat Dirt,"KAMEO,F+KAMEO, Hold KAMEO",50.00,16.250,,Overhead,,,,,,,,,"• Darrius attacks upon command release
+• Advantage on Hit allows for Jump Attack follow-up"
+Darrius,Kameo Moves,Special Moves,KAMEO,(Delay) Ground Invitational,"KAMEO,F+KAMEO, Hold D+KAMEO",50.00,16.250,,Low,,,,,,,,,• Darrius attacks upon command release
+Darrius,Kameo Moves,Special Moves,KAMEO,(Delay) Army of Two,"KAMEO,F+KAMEO, Hold KAMEO,SS",200.00,32.500,,Low,,,,,19,8,8,,• Main fighter and Darrius must both be close to foe
+Darrius,Kameo Moves,Special Moves,,Volleyballistic,F+KAMEO,50.00,16.250,,Overhead,47,9,20,,29,-4,-4,,
+Darrius,Kameo Moves,Special Moves,F+KAMEO,(Delay) Eat Dirt,"KAMEO,F+KAMEO, Hold KAMEO",50.00,16.250,,Overhead,,,,,,,,,"• Darrius attacks upon command release
+• Advantage on Hit allows for Jump Attack follow-up"
+Darrius,Kameo Moves,Special Moves,F+KAMEO,(Delay) Ground Invitational,"KAMEO,F+KAMEO, Hold D+KAMEO",50.00,16.250,,Low,,,,,,,,,• Darrius attacks upon command release
+Darrius,Kameo Moves,Special Moves,F+KAMEO,(Delay) Army of Two,"KAMEO,F+KAMEO, Hold KAMEO,SS",200.00,32.500,,Low,,,,,19,8,8,,• Main fighter and Darrius must both be close to foe
+Darrius,Kameo Moves,Special Moves,,Twister Kicks,B+KAMEO,120.00,45.000,,Mid,29,52,45,,28,-7,-17,Invulnerability,• Has Invulnerability when performed as a Getup
+Darrius,Kameo Moves,Special Moves,,Heelturn,D+KAMEO,60.00,17.500,,Overhead,,,,,,,,,• Can only be used when opponent is being knocked down
+Darrius,Kameo Moves,Special Moves,D+KAMEO,(Delay) Heelturn,Hold KAMEO,60.00,17.500,,Overhead,,,,,,,,,• Darrius attacks upon command release
+Darrius,Kameo Moves,Special Moves,D+KAMEO,(Delay) Ground Invitational,"KAMEO,F+KAMEO, Hold D+KAMEO",50.00,16.250,,Low,,,,,,,,,• Darrius attacks upon command release
+Darrius,Kameo Moves,Special Moves,D+KAMEO,(Delay) Army of Two,"KAMEO,F+KAMEO, Hold KAMEO,SS",200.00,32.500,,Low,,,,,19,8,8,,• Main fighter and Darrius must both be close to foe
+Darrius,Kameo Moves,Throws,,"Dreamwork Teamwork, Baby!",F+THROW or F+1+3,120.00,,,Throw,10,2,33,,11,,,,• Shove performed instead when Kameo is unavailable
+Darrius,Kameo Moves,Kameo Fatality,,(Mid) Armed & Dangerous,"DBF,KAMEO",,,,,,,,,,,,,• Jump Distance
+Darrius,Kameo Moves,Kameo Fatality,"DBF,KAMEO",Easy Fatality,Hold EX+1,,,,,,,,,,,,,• Easy Fatality Token required to perform Easy Fatality
+Ferra,Kameo Moves,Special Moves,,Lackey Variation,D+KAMEO,,,,,,,,,,,,,"• Ferra cheers on main fighter from sideline
+• Increases Super Meter gained from hitting opponent
+• Getting hit depletes Super Meter"
+Ferra,Kameo Moves,Special Moves,D+KAMEO,Let Me Ride,U+KAMEO,,,,,1,,11,,,,,,"• Ferra must be close by on sideline
+• Cannot be used with less than half Kameo Gauge
+• Enters Torr Stance"
+Ferra,Kameo Moves,Special Moves,D+KAMEO,Lackey Dismissal,D+KAMEO,,,,,1,,11,,,,,,"• Ferra departs arena
+• Not possible if main fighter is under attack"
+Ferra,Kameo Moves,Torr Stance,,Torr Stance,KAMEO,,,,,1,,13,,,,,,• Enters Torr Stance
+Ferra,Kameo Moves,Torr Stance,KAMEO,Torr Stance: Move Forward,F,,,,,1,,31,,,,,,
+Ferra,Kameo Moves,Torr Stance,KAMEO,Torr Stance: Move Backward,B,,,,,1,,30,,,,,,
+Ferra,Kameo Moves,Torr Stance,KAMEO,Torr Stance: Jump,U,,,,,1,,38,,,,,,
+Ferra,Kameo Moves,Torr Stance,KAMEO,Torr Stance: Jump Forward,U+F,,,,,1,,43,,,,,,
+Ferra,Kameo Moves,Torr Stance,KAMEO,Torr Stance: Jump Backward,U+B,,,,,1,,38,,,,,,
+Ferra,Kameo Moves,Torr Stance,KAMEO,Torr Stance: Swings!,1,50.00,16.250,,,22,7,22,,44,3,-7,,"• Cancelable on Hit into Jump
+• Exits Torr Stance"
+Ferra,Kameo Moves,Torr Stance,KAMEO,Torr Stance: Potato Sack Toss,2,50.00,16.250,,Overhead,20,5,29,,64,-2,-12,,"• Exits Torr Stance
+• Faster Start-Up when used in a Kombo"
+Ferra,Kameo Moves,Torr Stance,KAMEO,Torr Stance: Slide!,3,50.00,16.250,,Low,17,29,8,,40,-12,-17,,"• Exits Torr Stance
+• Faster Start-Up when used in a Kombo"
+Ferra,Kameo Moves,Torr Stance,KAMEO,Torr Stance: Yo-Yo Throw,4,50.00,16.250,,Overhead,15,36,35,,46,15,15,,• Exits Torr Stance
+Ferra,Kameo Moves,Torr Stance,KAMEO,Torr Stance: Close Yo-Yo Throw,"4,B",50.00,16.250,,Overhead,15,36,35,,49,17,17,,• Exits Torr Stance
+Ferra,Kameo Moves,Torr Stance,KAMEO,Torr Stance: Far Yo-Yo Throw,"4,F",50.00,16.250,,Overhead,15,36,35,,47,15,15,,• Exits Torr Stance
+Ferra,Kameo Moves,Torr Stance,KAMEO,Torr Stance: Pain N Gain,DD+KAMEO,,,,,,,,,,,,"Armor, Buff","• Main fighter takes damage from Ferra
+• Briefly gives main fighter Armor
+• Increases team's damage output for a duration
+• Apply twice for doubled effect"
+Ferra,Kameo Moves,Torr Stance,KAMEO,Torr Stance: Cancel,D+KAMEO,,,,,,,,,,,,,• Exits Torr Stance
+Ferra,Kameo Moves,(Air) Torr Stance U+KAMEO,,(Air) Torr Stance,U+KAMEO,,,,,,,,,,,,,• Enters Torr Stance
+Ferra,Kameo Moves,(Air) Torr Stance U+KAMEO,,(While Jumping) Torr Stance: Improvised Flail,1 or 2,50.00,16.250,,Overhead,10,5,28,,67,2,2,,"• Advantage on Hit allows for Jump Attack follow-up
+• Exits Torr Stance"
+Ferra,Kameo Moves,Throws,,Torrn Up,F+THROW or F+1+3,110.00,,,Throw,10,2,33,,18,,,,• Shove performed instead when Kameo is unavailable
+Ferra,Kameo Moves,Throws,,(During Torr Stance) Torrn Up,THROW or 1+3,100.00,,,Throw,9,8,35,,20,,,,• Exits Torr Stance
+Frost,Kameo Moves,Special Moves,,Ice Krash,KAMEO,60.00,17.500,,Mid,24,5,27,,43,4,4,Invulnerability,"• Has Invulnerability when performed as a Getup
+• Causes extra damage if victim bounces off Ice Krash into Ice Wall"
+Frost,Kameo Moves,Special Moves,,Frosty's Revenge,Hold KAMEO,90.49,56.250,,High,30,52,19,,29,-1,-1,,
+Frost,Kameo Moves,Special Moves,,Snow Flakes,B+KAMEO,60.00,17.500,,Mid,68,240,10,58,75,11,11,,
+Frost,Kameo Moves,Special Moves,B+KAMEO,Snow Flakes Cancel,DD,,,,,1,,18,,,,,,
+Frost,Kameo Moves,Special Moves,,Ice Karpet,F+KAMEO,20.00,12.500,,Low,26,,49,,91,-28,-28,,
+Frost,Kameo Moves,Special Moves,,Ice Wall,D+KAMEO,60.00,17.500,,Mid,68,,,58,75,11,11,,
+Frost,Kameo Moves,Special Moves,D+KAMEO,Ice Krash,"D+KAMEO, KAMEO",85.50,17.500,,Mid,17,5,90,,,,,,• Causes extra damage if victim bounces off Ice Krash into Ice Wall
+Frost,Kameo Moves,Special Moves,,Glacier Goring,F+THROW or F+1+3,120.00,,,Throw,10,2,33,,5,,,,• Shove performed instead when Kameo is unavailable
+Frost,Kameo Moves,Throws,,(Mid) Breaking Point,"BDB,KAMEO",,,,,,,,,,,,,• Jump Distance
+Frost,Kameo Moves,Kameo Fatality,"BDB,KAMEO",Easy Fatality,Hold EX+1,,,,,,,,,,,,,• Easy Fatality Token required to perform Easy Fatality
+Goro,Kameo Moves,Special Moves,,(Close) Raise The Roof,KAMEO,60.00,17.500,,High,33,6,,29,67,54,54,,"• Cancelable during Start-Up into Dead Weight, Punch Walk, or Shokan Stomp"
+Goro,Kameo Moves,Special Moves,KAMEO,(Mid) Raise The Roof,D+KAMEO,60.00,17.500,,High,33,6,,29,67,54,54,,"• Cancelable during Start-Up into Dead Weight, Punch Walk, or Shokan Stomp"
+Goro,Kameo Moves,Special Moves,KAMEO,(Far) Raise The Roof,U+KAMEO,60.00,17.500,,High,33,6,,29,67,54,54,,"• Cancelable during Start-Up into Dead Weight, Punch Walk, or Shokan Stomp"
+Goro,Kameo Moves,Special Moves,,Punch Walk,F+KAMEO,120.00,37.500,,High,32,46,20,,30,10,10,Invulnerability,"• Has Invulnerability when performed as a Getup
+• Can be cancelled into Dead Weight or Shokan Stomp"
+Goro,Kameo Moves,Special Moves,F+KAMEO,Shokan Stomp,F+KAMEO,90.00,,,Unblockable,96,5,0,,,,,,
+Goro,Kameo Moves,Special Moves,F+KAMEO,Dead Weight,B+KAMEO,60.00,,,Throw,28,,51,,,,,,"• Grabs foes who are ducking or in a kombo
+• Advantage on Hit allows for Jump Attack follow-up"
+Goro,Kameo Moves,Special Moves,,Shokan Stomp,"KAMEO,KAMEO",90.00,,,Unblockable,96,5,0,,,,,,
+Goro,Kameo Moves,Special Moves,"KAMEO,KAMEO",(In Front) Shokan Stomp,"KAMEO,KAMEO+B",90.00,,,Unblockable,96,5,0,,,,,,
+Goro,Kameo Moves,Special Moves,"KAMEO,KAMEO",(Behind) Shokan Stomp,"KAMEO,KAMEO+F",90.00,,,Unblockable,96,5,0,,,,,,
+Goro,Kameo Moves,Special Moves,,Dead Weight,B+KAMEO,100.00,,,Throw,28,,51,,85,,,,"• Grabs foes who are ducking or in a kombo
+• Advantage on Hit allows for Jump Attack follow-up"
+Goro,Kameo Moves,Throws,,Rearranger,F+THROW or F+1+3,110.00,,,Throw,10,2,33,,5,,,,• Shove performed instead when Kameo is unavailable
+Goro,Kameo Moves,Kameo Fatality,,(Close) Prince Of Pain,"BFD,KAMEO",,,,,,,,,,,,,• Sweep Distance
+Goro,Kameo Moves,Kameo Fatality,"BFD,KAMEO",Easy Fatality,Hold EX+1,,,,,,,,,,,,,• Easy Fatality Token required to perform Easy Fatality
+Janet Cage,Kameo Moves,Special Moves,,Krotch Destroyer,KAMEO,60.00,17.500,,Mid,23,10,18,,34,-6,-6,Invulnerability,• Has Invulnerability when performed as a Getup or Reversal
+Janet Cage,Kameo Moves,Special Moves,,Mime Time,U+KAMEO,,,,Unblockable,25,45,9,,,,,,"• Absorbs attacks and repels opponents
+• Hold KAMEO to extend duration"
+Janet Cage,Kameo Moves,Special Moves,,Hop Punch,B+KAMEO,50.00,,,Unblockable,20,12,,,59,,,,• Repeat input just before Hit to repeat attack up to 2 times
+Janet Cage,Kameo Moves,Special Moves,,Hop Skip Punch,F+KAMEO,50.00,,,Unblockable,24,12,,,63,,,,• Repeat input just before Hit to repeat attack up to 2 times
+Janet Cage,Kameo Moves,Stung Double D+KAMEO,,Idle,Hold KAMEO,,,,,,,,,,,,,"• Prevents Janet Cage from acting
+• Hold EX instead to command Janet Cage without moving main Fighter"
+Janet Cage,Kameo Moves,Stung Double D+KAMEO,,Move Forward,F,,,,,,,,,,,,,"• During Stunt Double
+• Drains some Stunt Double time"
+Janet Cage,Kameo Moves,Stung Double D+KAMEO,,Move Backward,B,,,,,,,,,,,,,"• During Stunt Double
+• Drains some Stunt Double time"
+Janet Cage,Kameo Moves,Stung Double D+KAMEO,,Jane Diere,1,39.00,25.000,,High,,,,,,,,,"• During Stunt Double
+• Drains some Stunt Double time"
+Janet Cage,Kameo Moves,Stung Double D+KAMEO,,Caged And Konfused,2,58.500,27.500,,High,,,,,,,,,"• During Stunt Double
+• Drains some Stunt Double time"
+Janet Cage,Kameo Moves,Stung Double D+KAMEO,,Box Office Bang,3,50.00,16.250,,Mid,,,,,,,,,"• During Stunt Double
+• Drains some Stunt Double time"
+Janet Cage,Kameo Moves,Stung Double D+KAMEO,,Box Office Bomb,4,70.00,18.750,,High,,,,,,,,,"• During Stunt Double
+• Drains some Stunt Double time"
+Janet Cage,Kameo Moves,Stung Double D+KAMEO,,Forceball,F+1,50.00,16.250,,High,,,,,,,,,"• During Stunt Double
+• Drains some Stunt Double time"
+Janet Cage,Kameo Moves,Stung Double D+KAMEO,,Uppercut,D+2,90.00,21.250,,High,,,,,,,,,"• During Stunt Double
+• Drains some Stunt Double time"
+Janet Cage,Kameo Moves,Stung Double D+KAMEO,,Shadow Kick,F+3,60.00,17.500,,High,,,,,,,,,"• During Stunt Double
+• Drains some Stunt Double time"
+Janet Cage,Kameo Moves,Stung Double D+KAMEO,,Sweepstakes,B+4,70.00,18.750,,Low,,,,,,,,,"• During Stunt Double
+• Drains some Stunt Double time"
+Janet Cage,Kameo Moves,Stung Double D+KAMEO,,Roundhouse,F+4,90.00,21.250,,High,,,,,,,,,"• During Stunt Double
+• Drains some Stunt Double time"
+Janet Cage,Kameo Moves,Stung Double D+KAMEO,,Splits,SS While Holding KAMEO,,,,,,,,,,,,,"• During Stunt Double
+• Replenishes some Stunt Double time (up to 3 times per Stunt Double session)"
+Janet Cage,Kameo Moves,Throws,,Triple Whammy,F+THROW or F+1+3,140.00,,,Throw,10,2,33,,15,,,,• Shove performed instead when Kameo is unavailable
+Jax,Kameo Moves,Special Moves,,Ground Pound,KAMEO,50.00,,,Unblockable,100,4,,,0,,,,
+Jax,Kameo Moves,Special Moves,,(Close) Back Breaker,B+KAMEO,60.00,,,Unblockable,49,4,,,172,,,,
+Jax,Kameo Moves,Special Moves,,(Far) Back Breaker,F+KAMEO,60.00,,,Unblockable,49,4,,,172,,,,
+Jax,Kameo Moves,Special Moves,,Energy Wave,D+KAMEO,60.00,17.500,,Mid,25,4,21,,30,7,7,Invulnerability,• Has Invulnerability when performed as a Getup
+Jax,Kameo Moves,Special Moves,,Close Gotcha Grab,FDB+KAMEO,,,,,,,,,,,,,"• Grabs opposing Kameos
+• Hold KAMEO on success for Gotcha Punches
+• Unable to grab Goro or Motaro"
+Jax,Kameo Moves,Special Moves,FDB+KAMEO,Far Gotcha Grab,BDF+KAMEO,,,,,,,,,,,,,"• Grabs opposing Kameos
+• Hold KAMEO on success for Gotcha Punches
+• Unable to grab Goro or Motaro"
+Jax,Kameo Moves,Special Moves,FDB+KAMEO,Gotcha Punches,Hold KAMEO,,,,,,,,,,,,,
+Jax,Kameo Moves,Throws,,Multi-Slam,F+THROW or F+1+3,110.00,,,Throw,10,2,33,,4,,,,• Shove performed instead when Kameo is unavailable
+Jax,Kameo Moves,Throws,F+THROW or F+1+3,Quad-Slam,EX,160.00,,,,,,,,4,,,,"• Costs 1 bar of Super Meter
+• Can be done twice"
+Jax,Kameo Moves,Kameo Fatality,,(Far) Big Boot,"DFD,KAMEO",,,,,,,,,,,,,• Jump Distance
+Jax,Kameo Moves,Kameo Fatality,,Easy Fatality,Hold EX+1,,,,,,,,,,,,,• Easy Fatality Token required to perform Easy Fatality
+Kano,Kameo Moves,Special Moves,,Eye Laser,KAMEO,100.00,52.500,,Mid,15,52,101,35,12,-8,-8,Invulnerability,• Has Invulnerability when performed as a Getup
+Kano,Kameo Moves,Special Moves,,Knife Toss,B+KAMEO,39.00,25.000,,High,58,,,,110,90,90,,
+Kano,Kameo Moves,Special Moves,,Ball,F+KAMEO,50.00,16.250,,Mid,57,25,,,128,78,78,,
+Kano,Kameo Moves,Special Moves,F+KAMEO,Ball (Delay),F+Hold KAMEO,50.00,16.250,,Mid,175,25,,,,,,,
+Kano,Kameo Moves,Special Moves,F+KAMEO,Ball (Cancel),EX,,,,,,,,,,,,,
+Kano,Kameo Moves,Throws,,Using Your Noggin,F+THROW or F+1+3,110.00,,,Throw,10,2,33,,2,,,,• Shove performed instead when Kameo is unavailable
+Kano,Kameo Moves,Kameo Fatality,,(Mid) Heart Ripper,"BDF,KAMEO",,,,,,,,,,,,,• Jump Distance
+Kano,Kameo Moves,Kameo Fatality,"BDF,KAMEO",Easy Fatality,Hold EX+1,,,,,,,,,,,,,• Easy Fatality Token required to perform Easy Fatality
+Khameleon,Kameo Moves,Special Moves,,Change Disguise,Hold KAMEO During End Of Move,,,,,,,,,,,,,"• Hold the Kameo input at the end of any Khameleon move to force a disguise change
+• Disguise order is Jade, Kitana, Mileena
+• Automatic disguise changes occur every 7 seconds"
+Khameleon,Kameo Moves,Special Moves,,Broken Mirror,B+KAMEO,,,,,,,,,,,,,"• Halves damage of next received attack (whether Hit or Block)
+• Automatically cycles to next disguise"
+Khameleon,Kameo Moves,Special Moves,,Alternate Disguises,DD+KAMEO,,,,,,,,,,,,,"• Reverses the Disguise selection order
+• Disguise order is Mileena, Kitana, Jade"
+Khameleon,Kameo Moves,Jade Disguise,,Glaive,KAMEO,57.00,27.500,,Mid,26,92,,,81,35,35,,"• Glaive trajectory can be altered by holding Up or Down
+• Requires Jade Disguise to perform"
+Khameleon,Kameo Moves,Jade Disguise,,Glow,F+KAMEO,,,,,,,,,,,,Invulnerability,"• Invulnerable to projectiles for a duration
+• Requires Jade Disguise to perform"
+Khameleon,Kameo Moves,Mileena Disguise,,Roll,KAMEO,50.00,36.250,,Overhead,18,36,19,,60,-17,-17,,• Requires Mileena Disguise to perform
+Khameleon,Kameo Moves,Mileena Disguise,,Sai,F+KAMEO,45.00,,,Unblockable,17,,,,109,,,,• Requires Mileena Disguise to perform
+Khameleon,Kameo Moves,Kitana Disguise,,Fan Toss,KAMEO,70.00,28.750,,Mid,19,46,,,72,-6,-6,,• Requires Kitana Disguise to perform
+Khameleon,Kameo Moves,Kitana Disguise,,Fan Lift,F+KAMEO,,,,,,,,,,,,,• Requires Kitana Disguise to perform
+Khameleon,Kameo Moves,Kitana Disguise,F+KAMEO,(Close) Fan Lift,"F+KAMEO, Hold B",,,,,,,,,,,,,• Requires Kitana Disguise to perform
+Khameleon,Kameo Moves,Kitana Disguise,F+KAMEO,(Far) Fan Lift,"F+KAMEO, Hold F",,,,,,,,,,,,,• Requires Kitana Disguise to perform
+Khameleon,Kameo Moves,Throws,,The New Pink,F+THROW or F+1+3,130.00,,,Throw,10,2,33,,7,,,,"• Requires Jade Disguise to perform
+• Shove performed instead when Kameo is unavailable"
+Khameleon,Kameo Moves,Throws,,Petite Yet Saizable,F+THROW or F+1+3,90.00,,,Throw,10,2,33,,31,,,,"• Requires Mileena Disguise to perform
+• Shove performed instead when Kameo is unavailable"
+Khameleon,Kameo Moves,Throws,,Fanpleaser,F+THROW or F+1+3,110.00,,,Throw,10,2,33,,7,,,,"• Requires Kitana Disguise to perform
+• Shove performed instead when Kameo is unavailable"
+Khameleon,Kameo Moves,Kameo Fatality,,(Close) Fantasize,"DFD,KAMEO",,,,,,,,,,,,,
+Khameleon,Kameo Moves,Kameo Fatality,"DFD,KAMEO",Easy Fatality,Hold EX+1,,,,,,,,,,,,,• Easy Fatality Token required to perform Easy Fatality
+Kung Lao,Kameo Moves,Special Moves,,Away We Go,KAMEO,,,,,8,13,84,,,,,Armor,• Has Armor
+Kung Lao,Kameo Moves,Special Moves,KAMEO,Away We Go (Air),Hold KAMEO,,,,,8,13,,,,,,Armor,"• Has Armor
+• Cancelable into air attacks"
+Kung Lao,Kameo Moves,Special Moves,,Buzz Saw,B+KAMEO,60.00,17.500,,Low,24,,19,,19,-3,-3,,
+Kung Lao,Kameo Moves,Special Moves,B+KAMEO,Buzz Saw (Delay),Hold KAMEO,60.00,17.500,,Low,24,199,,,,,,,
+Kung Lao,Kameo Moves,Special Moves,,Spin,F+KAMEO,40.00,15.000,,Mid,23,15,17,,70,-15,-15,Invulnerability,• Has Invulnerability when performed as a Getup or Reversal
+Kung Lao,Kameo Moves,Special Moves,,Orbiting Hat,D+KAMEO,60.00,17.500,,Mid,21,181,22,,38,10,10,,
+Kung Lao,Kameo Moves,Special Moves,D+KAMEO,Wobbly Orbit,Hold KAMEO,60.00,17.500,,Mid,21,181,22,,37,9,9,,
+Kung Lao,Kameo Moves,Throws,,Rapid-Fire Blows,F+THROW or F+1+3,120.00,,,Throw,10,2,33,,12,,,,• Shove performed instead when Kameo is unavailable
+Kung Lao,Kameo Moves,Kameo Fatality,,(Mid) Klean Kut,"FBF,KAMEO",,,,,,,,,,,,,• Jump Distance
+Kung Lao,Kameo Moves,Kameo Fatality,"FBF,KAMEO",Easy Fatality,Hold EX+1,,,,,,,,,,,,,• Easy Fatality Token required to perform Easy Fatality
+Mavado,Kameo Moves,Special Moves,,Trap Drop,KAMEO,44.00,42.500,30.000,Mid,78,85,0,,276,0,0,,"• Trap activates if foe is nearby
+• Active trap pulls foes in briefly, then emits stunning shock
+• Trap disappears after a duration if not activated"
+Mavado,Kameo Moves,Special Moves,,Nomad's Touch,B+KAMEO,80.00,,,High,19,8,19,125,24,10,10,,"• If successful, knocks down both fighters"
+Mavado,Kameo Moves,Special Moves,,Best Feet Forward,F+KAMEO,50.00,16.500,,Mid,12,13,17,,0,0,0,,• Can only be used while foe is vulnerable to a Juggle Kombo
+Mavado,Kameo Moves,Special Moves,,Just Dessert,F+KAMEO,60.00,17.500,,Mid,12,10,16,,46,24,24,,"• Costs 2 bars of Super Meter
+• Can only be used after performing a Flawless Block"
+Mavado,Kameo Moves,Special Moves,,Sliding Home,D+KAMEO,50.00,16.500,,Low,23,14,12,,0,0,0,,"• Can only be used while foe is knocked down, being thrown, or laying prone during Delayed Getup"
+Mavado,Kameo Moves,Special Moves,,Nindrop,U+KAMEO,50.00,16.500,,Mid,8,8,1,,0,0,0,,• Can only be used while foe is vulnerable to a Juggle Kombo
+Mavado,Kameo Moves,Throws,,Dragon Killer,F+THROW or F+1+3,110.00,,,Throw,10,2,33,,4,,,,• Shove performed instead when Kameo is unavailable
+Mavado,Kameo Moves,Kameo Fatality,,(Mid) Katapult,"BDD,KAMEO",,,,,,,,,,,,,
+Mavado,Kameo Moves,Kameo Fatality,"BDD,KAMEO",Easy Fatality,Hold EX+1,,,,,,,,,,,,,• Easy Fatality Token required to perform Easy Fatality
+Motaro,Kameo Moves,Special Moves,,Centaurian Warp,KAMEO,,,,,15,1,55,,,,,,"• During Start-Up, hold B/F/U for Close/Far/Very Far Centaurian Warp"
+Motaro,Kameo Moves,Special Moves,,(Close) Centaurian Warp,"KAMEO,B",,,,,15,1,55,,,,,,
+Motaro,Kameo Moves,Special Moves,,(Far) Centaurian Warp,"KAMEO,F",,,,,15,1,55,,,,,,
+Motaro,Kameo Moves,Special Moves,,(Very Far) Centaurian Warp,"KAMEO,U",,,,,15,1,55,,,,,,
+Motaro,Kameo Moves,Special Moves,,Reflect,B+KAMEO,,,,,37,,36,,,,,Projectile Reflect,• Reflects or negates most projectiles
+Motaro,Kameo Moves,Special Moves,B+KAMEO,Moving Reflect,Hold KAMEO,,,,,,,,,,,,Projectile Reflect,• Motaro walks forward during Reflect while KAMEO is held
+Motaro,Kameo Moves,Special Moves,,Tail Shot,F+KAMEO,40.00,15.000,,Low,26,10,8,,29,13,13,Invulnerability,• Has Invulnerability when performed as a Getup or Reversal
+Motaro,Kameo Moves,Special Moves,,Tail Turret,D+KAMEO,102.90,45.000,,Mid,40,,39,,61,112,112,,
+Motaro,Kameo Moves,Fatal Blow,,Charge!,(During Fatal Blow Intro) KAMEO,350.00,22.500,,Mid,16,3,,,,,,Armor,
+Motaro,Kameo Moves,Throws,,When The Bull Grabs You,F+THROW or F+1+3,120.00,,,Throw,10,2,33,,10,,,,• Shove performed instead when Kameo is unavailable
+Motaro,Kameo Moves,Kameo Fatality,,(Mid) Brain Blast,FDD+KAMEO,,,,,,,,,,,,,• Jump Distance
+Motaro,Kameo Moves,Kameo Fatality,FDD+KAMEO,Easy Fatality,Hold EX+1,,,,,,,,,,,,,• Easy Fatality Token required to perform Easy Fatality
+Sareena,Kameo Moves,Special Moves,,Jataaka's Kurse,KAMEO,,,,Unblockable,31,,,,,,,,"• Drains opponent's Super Meter
+• Decreases damage taken from opponent"
+Sareena,Kameo Moves,Special Moves,,Jataaka's Blessing,D+KAMEO,,,,Unblockable,31,,,,,,,Buff,• Main fighter standing within Jataaka's Blessing area deals more damage and gradually gains Super Meter
+Sareena,Kameo Moves,Special Moves,,Kia's Blades,B+KAMEO,68.00,35.000,,High,26,,,,47,28,28,,
+Sareena,Kameo Moves,Special Moves,,Old Moon,F+KAMEO,60.00,17.500,,High,23,38,23,,33,-2,-2,,
+Sareena,Kameo Moves,Special Moves,,Demonic Dance,U+KAMEO,60.00,17.500,,Mid,20,6,19,,44,-3,-3,Invulnerability,• Has Invulnerability when performed as a Getup or Reversal
+Sareena,Kameo Moves,Throws,,Dark Harvest,F+THROW or F+1+3,120.00,,,Throw,10,2,33,,9,,,,• Shove performed instead when Kameo is unavailable
+Sareena,Kameo Moves,Kameo Fatality,,(Mid) Inner Demon,"BDD,KAMEO",,,,,,,,,,,,,• Jump Distance
+Sareena,Kameo Moves,Kameo Fatality,"BDD,KAMEO",Easy Fatality,Hold EX+1,,,,,,,,,,,,,• Easy Fatality Token required to perform Easy Fatality
+Scorpion,Kameo Moves,Special Moves,,Fire Breath,KAMEO,48.00,,,Unblockable,45,28,,,128,,,,
+,,,KAMEO,Aura Of Flame,Hold KAMEO,50.00,,,Unblockable,35,,4,,,,,,"• Hits nearby opponents for direct damage
+• Sets nearby main fighter aflame for a duration
+• Enflamed main fighter deals damage over time to nearby foes"
+Scorpion,Kameo Moves,Special Moves,,(Mid) Fire Breath,D+KAMEO,48.00,,,Unblockable,45,28,,,128,,,,
+,,,D+KAMEO,Aura Of Flame,Hold KAMEO,50.00,,,Unblockable,35,,4,,,,,,"• Hits nearby opponents for direct damage
+• Sets nearby main fighter aflame for a duration
+• Enflamed main fighter deals damage over time to nearby foes"
+Scorpion,Kameo Moves,Special Moves,,(Far) Fire Breath,U+KAMEO,48.00,,,Unblockable,45,28,,,128,,,,
+,,,U+KAMEO,Aura Of Flame,Hold KAMEO,50.00,,,Unblockable,35,,4,,,,,,"• Hits nearby opponents for direct damage
+• Sets nearby main fighter aflame for a duration
+• Enflamed main fighter deals damage over time to nearby foes"
+Scorpion,Kameo Moves,Special Moves,,Get Over Here,B+KAMEO,,,,,11,9,58,,,,,Armor,• Has Armor
+Scorpion,Kameo Moves,Special Moves,,Hell Blades,F+KAMEO,40.00,15.000,,Overhead,30,3,13,,78,-2,-2,,• Victim slowly collapses on Hit
+Scorpion,Kameo Moves,Throws,,Dynamic Entrance,F+THROW or F+1+3,120.00,,,Throw,10,2,33,,2,,,,• Shove performed instead when Kameo is unavailable
+Scorpion,Kameo Moves,Kameo Fatality,,(Mid) Toasty!!!,"DFD,KAMEO",,,,,,,,,,,,,• Jump Distance
+Scorpion,Kameo Moves,Kameo Fatality,"DFD,KAMEO",Easy Fatality,Hold EX+1,,,,,,,,,,,,,• Easy Fatality Token required to perform Easy Fatality
+Sektor,Kameo Moves,Special Moves,,Up Rocket,KAMEO,40.00,15.000,,Mid,40,,50,,,,,,
+Sektor,Kameo Moves,Special Moves,KAMEO,Activate Homing,Hold KAMEO,64.00,28.750,,Mid,63,,51,,,,,,
+Sektor,Kameo Moves,Special Moves,,Position Behind,U+KAMEO,40.00,15.000,,Mid,40,,50,,,,,,
+Sektor,Kameo Moves,Special Moves,U+KAMEO,Activate Homing,Hold KAMEO,64.00,28.750,,Mid,63,,51,44,136,118,118,,
+Sektor,Kameo Moves,Special Moves,,Position In Front,D+KAMEO,40.00,15.000,,Mid,40,,50,,,,,,
+Sektor,Kameo Moves,Special Moves,D+KAMEO,Activate Homing,Hold KAMEO,64.00,28.750,,Mid,63,,51,44,136,118,118,,
+Sektor,Kameo Moves,Special Moves,,Tele-Punch,B+KAMEO,60.00,17.500,,Mid,29,8,31,,57,-17,-17,,
+Sektor,Kameo Moves,Special Moves,,Flame Thrower,F+KAMEO,90.00,31.250,,Mid,21,42,30,,19,3,-7,Invulnerability,"• Has Invulnerability when performed as a Getup
+• 2nd hit is vulnerable to Up Block
+• Cancelable on block or miss by holding B+KAMEO"
+Sektor,Kameo Moves,Special Moves,F+KAMEO,Flame Thrower Cancel,"F+KAMEO, B+KAMEO",,15.000,,Mid,21,15,20,,,-3,-3,,
+Sektor,Kameo Moves,Fatal Blow,,Straight Missile,(During Fatal Blow Intro) KAMEO,350.00,22.500,,,,,,,,,,,
+Sektor,Kameo Moves,Throws,,Fourth Of Ju-Die,F+THROW or F+1+3,110.00,,,Throw,10,2,33,,13,,,,• Shove performed instead when Kameo is unavailable
+Sektor,Kameo Moves,Kameo Fatality,,(Mid) Kompactor,"BFB,KAMEO",,,,,,,,,,,,,• Jump Distance
+Sektor,Kameo Moves,Kameo Fatality,"BFB,KAMEO",Easy Fatality,Hold EX+1,,,,,,,,,,,,,• Easy Fatality Token required to perform Easy Fatality
+Shujinko,Kameo Moves,Special Moves,,Passing Time,KAMEO,,,,,,,,,,,,,"• Builds Kameo Gauge (Shujinko does not build Kameo Gauge normally)
+• Tap KAMEO to stop Passing Time"
+Shujinko,Kameo Moves,Special Moves,KAMEO,Passing Time Delay,Hold KAMEO,,,,,,,,,,,,,• Release KAMEO to begin Passing Time
+Shujinko,Kameo Moves,Special Moves,KAMEO,REALLY Passing Time,D,,,,,,,,,,,,,"• Builds Kameo Gauge (Shujinko does not build Kameo Gauge normally)
+• Tap KAMEO to stop Passing Time"
+Shujinko,Kameo Moves,Special Moves,,Peace Out,KAMEO,,,,,,,,,,,,,• Ends Passing Time or REALLY Passing Time
+Shujinko,Kameo Moves,Special Moves,,Apep Punch,F+KAMEO,60.00,17.500,,High,20,3,25,,23,-6,-6,,"• Leads into Passing Time or REALLY Passing Time
+• Cancelable into Mimic or Kopy Kat"
+Shujinko,Kameo Moves,Special Moves,F+KAMEO,REALLY Passing Time,D,,,,,,,,,,,,,"• Builds Kameo Gauge (Shujinko does not build Kameo Gauge normally)
+• Tap KAMEO to stop Passing Time"
+Shujinko,Kameo Moves,Special Moves,F+KAMEO,Kingdoms Krumble,"F+KAMEO, U+KAMEO",40.00,15.000,,Mid,8,,,,111,-13,-13,,• Victim slowly collapses on Hit
+Shujinko,Kameo Moves,Special Moves,,Konquest Kick,B+KAMEO,60.00,17.500,,Mid,20,3,32,,13,-13,-13,,"• Leads into Passing Time or REALLY Passing Time
+• Cancelable into Mimic or Kopy Kat"
+Shujinko,Kameo Moves,Special Moves,B+KAMEO,REALLY Passing Time,D,,,,,,,,,,,,,"• Builds Kameo Gauge (Shujinko does not build Kameo Gauge normally)
+• Tap KAMEO to stop Passing Time"
+Shujinko,Kameo Moves,Special Moves,B+KAMEO,Waterfall Chop,"B+KAMEO, U+KAMEO",60.00,17.500,,Overhead,24,,,,31,-7,-7,,
+Shujinko,Kameo Moves,Special Moves,,Mimic,DB+KAMEO,,,,,,,,,,,,,"• Imitate opponent's Special Moves
+• Requires full Kameo Gauge
+• Hold D During Start-Up for Alternate Special Move"
+Shujinko,Kameo Moves,Special Moves,,Kopy Kat,DF+KAMEO,,,,,,,,,,,,,"• Imitate opponent's Special Moves
+• Requires half Kameo Gauge
+• Hold U During Start-Up for Alternate Special Move"
+Shujinko,Kameo Moves,Special Moves,,Flatter,"DB+KAMEO,D",,,,,,,,,,,,,"• Imitate opponent's Special Moves
+• Requires full Kameo Gauge"
+Shujinko,Kameo Moves,Special Moves,,Steal,"DF+KAMEO,U",,,,,,,,,,,,,"• Imitate opponent's Special Moves
+• Requires half Kameo Gauge"
+Shujinko,Kameo Moves,Throws,,I Know You Are But What Am I,F+THROW or F+1+3,110.00,,,Throw,10,2,33,,5,,,,• Shove performed instead when Kameo is unavailable
+Shujinko,Kameo Moves,Kameo Fatality,,(Mid) Five Point Strike,"DBD,KAMEO",,,,,,,,,,,,,• Jump Distance
+Shujinko,Kameo Moves,Kameo Fatality,"DBD,KAMEO",Easy Fatality,Hold EX+1,,,,,,,,,,,,,• Easy Fatality Token required to perform Easy Fatality
+Sonya,Kameo Moves,Special Moves,,Square Wave,KAMEO,60.00,,,Unblockable,31,19,,,103,,,,
+Sonya,Kameo Moves,Special Moves,,Leg Grab,B+KAMEO,36.00,12.500,,Overhead,25,3,27,,84,1,1,Invulnerability,"• Has Invulnerability when performed as a Getup or Reversal
+• Vulnerable to Up Block"
+Sonya,Kameo Moves,Special Moves,,Energy Rings,F+KAMEO,60.00,17.500,,Mid,33,,20,,21,-4,-4,,
+Sonya,Kameo Moves,Special Moves,F+KAMEO,Charge,Hold KAMEO,90.00,21.250,,Mid,91,20,,,,,,,
+Sonya,Kameo Moves,Special Moves,F+KAMEO,Cancel,DD,,,,,,,,,,,,,
+Sonya,Kameo Moves,Special Moves,,(Air) Ricochet Dive Kick,D+KAMEO,50.00,16.250,,Overhead,8,24,35,,,,,,
+Sonya,Kameo Moves,Special Moves,D+KAMEO,(Air) Bicycle Kick,D+Hold KAMEO,110.00,,,Mid,13,,,,,,,,• Advantage on Hit allows for Jump Attack follow-up
+Sonya,Kameo Moves,Throws,,Blade Kutter,F+THROW or F+1+3,140.00,,,Throw,10,2,33,,2,,,,• Shove performed instead when Kameo is unavailable
+Sonya,Kameo Moves,Kameo Fatality,,(Mid) Kiss,"BFD,KAMEO",,,,,,,,,,,,,• Jump Distance
+Sonya,Kameo Moves,Kameo Fatality,"BFD,KAMEO",Easy Fatality,Hold EX+1,,,,,,,,,,,,,• Easy Fatality Token required to perform Easy Fatality
+Stryker,Kameo Moves,Special Moves,,Lethal Takedown,KAMEO,60.00,17.500,,Low,26,4,17,,52,1,1,Invulnerability,• Has Invulnerability when performed as a Getup
+Stryker,Kameo Moves,Special Moves,,Low Grenade Toss,B+KAMEO,55.50,27.500,,Mid,57,28,,,95,77,77,,
+Stryker,Kameo Moves,Special Moves,,High Grenade Toss,F+KAMEO,55.50,27.500,,Mid,59,26,,,136,79,79,,
+Stryker,Kameo Moves,Special Moves,,Kuffed,D+KAMEO,36.00,12.500,,High,22,2,22,,35,2,2,,
+Stryker,Kameo Moves,Special Moves,,Cop Bop,U+KAMEO,60.00,17.500,,Overhead,22,3,16,,32,6,6,Invulnerability,• Has Invulnerability when performed as a Getup
+Stryker,Kameo Moves,Throws,,Flashed And Banged,F+THROW or F+1+3,110.00,,,Throw,10,2,33,,11,,,,• Shove performed instead when Kameo is unavailable
+Stryker,Kameo Moves,Kameo Fatality,,(Mid) Safety Vest,"FDF,KAMEO",,,,,,,,,,,,,
+Stryker,Kameo Moves,Kameo Fatality,"FDF,KAMEO",Easy Fatality,Hold EX+1,,,,,,,,,,,,,• Easy Fatality Token required to perform Easy Fatality
+Sub-Zero,Kameo Moves,Special Moves,,Arctic Armor,KAMEO,,,,,23,1,,,,,,Projectile Immunity,"• Invulnerable to projectiles for a duration
+• Cancelable into Kold Shoulder"
+Sub-Zero,Kameo Moves,Special Moves,,(During Arctic Armor) Kold Shoulder,F+KAMEO or B+KAMEO,60.00,17.500,,Mid,23,14,19,,32,-1,-1,Invulnerability,• Has Invulnerability when performed as a Getup or Reversal
+Sub-Zero,Kameo Moves,Special Moves,,Kold Shoulder,B+KAMEO,60.00,17.500,,Mid,23,14,19,,32,-1,-1,Invulnerability,• Has Invulnerability when performed as a Getup or Reversal
+Sub-Zero,Kameo Moves,Special Moves,,Deep Freeze,D+KAMEO,10.00,,,,8,71,16,,,,,Parry,"• Parries High, Mid, Overhead, and Jumping Attacks"
+Sub-Zero,Kameo Moves,Special Moves,D+KAMEO,Cancel Deep Freeze,"D+KAMEO, B+KAMEO",,,,,,,,,,,,,
+Sub-Zero,Kameo Moves,Special Moves,D+KAMEO,Iceball Special,"D+KAMEO, F+KAMEO",60.00,17.500,,Mid,30,7,,,,,,,
+Sub-Zero,Kameo Moves,Special Moves,,Iced Out,F+KAMEO,30.00,13.750,,Mid,23,17,31,,117,-17,-17,,
+Sub-Zero,Kameo Moves,Throws,,Unhappy Feet,F+THROW or F+1+3,130.00,,,Throw,10,2,33,,11,,,,• Shove performed instead when Kameo is unavailable
+Sub-Zero,Kameo Moves,Kameo Fatality,,(Mid) Spine Rip,"FDF,KAMEO",,,,,,,,,,,,,• Jump Distance
+Sub-Zero,Kameo Moves,Kameo Fatality,"FDF,KAMEO",Easy Fatality,Hold EX+1,,,,,,,,,,,,,• Easy Fatality Token required to perform Easy Fatality
+Tremor,Kameo Moves,Special Moves,,Transmute Up,KAMEO,,,,,1,,0,48,,,,,"• Tremor cycles up through Aftershock, Metallic, and Crystalline Variations
+• Cancelable into other Kameo Attacks after Variation change"
+Tremor,Kameo Moves,Special Moves,,Transmute Down,D+KAMEO,,,,,1,,0,50,,,,,"• Tremor cycles down through Aftershock, Metallic, and Crystalline Variations
+• Cancelable into other Kameo Attacks after Variation change"
+Tremor,Kameo Moves,Aftershock Form,,Rock Punch,F+KAMEO,60.00,17.500,,High,20,8,19,,36,0,0,,• Aftershock only
+Tremor,Kameo Moves,Aftershock Form,,Rock Punch Uppercrust,U+KAMEO,50.00,16.250,,Mid,20,4,19,,60,-16,-16,,"• Aftershock only
+• Cancelable on Hit into Jump"
+Tremor,Kameo Moves,Aftershock Form,,Ground Pound,B+KAMEO,75.00,15.000,,Low,27,3,30,,22,-12,-12,,• Aftershock only
+Tremor,Kameo Moves,Metallic Form,,Lava Burst,F+KAMEO,60.00,17.500,,Mid,29,6,22,,42,4,4,,• Metallic only
+Tremor,Kameo Moves,Metallic Form,,Eruption,U+KAMEO,60.00,,,Unblockable,26,12,20,,49,,,,• Metallic only
+Tremor,Kameo Moves,Metallic Form,,Rolling Rock,B+KAMEO,50.00,16.250,,Low,38,,,,40,4,4,,• Metallic only
+Tremor,Kameo Moves,Metallic Form,B+KAMEO,Rock Toss,Hold KAMEO,50.00,16.250,,Overhead,23,38,36,,0,0,0,,• Metallic only
+Tremor,Kameo Moves,Crystalline Form,,Crystal Wall Punch,F+KAMEO,60.00,17.500,,Mid,23,24,18,,22,-8,-8,"Projectile Immunity, Invulnerability","• Crystalline only
+• Reflect or negates most projectiles
+• Has Invulnerability when performed as a Getup or Reversal"
+Tremor,Kameo Moves,Crystalline Form,,Crystal Armor,B+KAMEO,,,,,1,,76,,,,,,"• Crystalline only
+• Cannot be knocked down or thrown while Crystal Armor is active"
+Tremor,Kameo Moves,Throws,,Extinction Event,F+THROW or F+1+3,130.00,,,Throw,10,2,33,,8,,,,• Shove performed instead when Kameo is unavailable
+Tremor,Kameo Moves,Kameo Fatality,,Disembowling Ball,"DFB,KAMEO",,,,,,,,,,,,,

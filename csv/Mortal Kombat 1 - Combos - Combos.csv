@@ -1,0 +1,967 @@
+char_name,kameo_name,category,subcategory,combo,damage,difficulty,meter,kameo_meter,tags,url,notes
+Ashrah,,Midscreen,"2,1","2,1 4 DB2",212.09,Easy,,,,,
+Ashrah,,Midscreen,"2,1","2,1 DF1 FF F+4,2 BF2",275.55,Medium,,,,,Must be in Heaven Mode.
+Ashrah,,Midscreen,"2,1","2,1 DF1 FF F+4 DF3+EX 1,2,2 BF2",377.96,Medium,1,,,,Must be in Heaven Mode.
+Ashrah,,Midscreen,"2,1","2,1 DF1 FF F+4 DF3+EX 1,2,2 BF2 Hold D",367.33,Medium,1,,Sideswitch,,Must be in Heaven Mode.
+Ashrah,,Midscreen,"2,1","2,1 DF1 FF 4 DF3+EX 1,2,2 BF2",393.30,Hard,1,,,,Must be in Heaven Mode.
+Ashrah,,Midscreen,"2,1","2,1 DF1 FF F+4,2 DF3+EX 1,2,2 BF2 Hold D",382.68,Hard,1,,Sideswitch,,Must be in Heaven Mode.
+Ashrah,,Midscreen,F+3,F+3 DF3+EX 1 FF F+4 DB2,250.15,Medium,1,,Sideswitch,,Must be in Hell Mode. Jump punch must hit late.
+Ashrah,,Midscreen,F+3,"F+3 DF3+EX 1,2,2 BF2",287.61,Medium,1,,Sideswitch,,Must be in Heaven Mode.
+Ashrah,,Midscreen,F+3,"F+3 DF3+EX 1,2,2 BF2 Hold D",275.22,Medium,1,,,,
+Ashrah,,Midscreen,F+3,F+3 DF3+EX 1 4 DF3+EX 3 BF2,340.51,Medium,2,,Sideswitch,,Must be in Heaven Mode. Jump punch must hit late.
+Ashrah,,Midscreen,F+3,F+3 DF3+EX 1 4 DF3+EX 3 BF2 Hold D,331.09,Medium,2,,,,Jump punch must hit late.
+Ashrah,,Midscreen,"F+4,2","F+4,2 DF3+EX 2 FF F+4,2 DB2",287.88,Medium,1,,,,Must be in Hell Mode. Jump punch must hit late.
+Ashrah,,Midscreen,"F+4,2","F+4,2 DF3+EX 1,2,2 BF2",309.55,Medium,1,,,https://www.youtube.com/watch?v=iOQO4hVsmlk,Must be in Heaven Mode.
+Ashrah,,Midscreen,"F+4,2","F+4,2 DF3+EX 1,2,2 BF2 Hold D",296.40,Medium,1,,Sideswitch,,
+Ashrah,,Midscreen,"F+4,2","F+4,2 DF3+EX 1 4 DF3+EX 1,2,2 BF2",408.29,Medium,2,,,,Must be in Heaven Mode.
+Ashrah,,Midscreen,"F+4,2","F+4,2 DF3+EX 1 4 DF3+EX 1,2,2 BF2 Hold D",398.20,Medium,2,,Sideswitch,,
+Ashrah,,Corner,"2,1","2,1 4 DB2",212.09,Easy,,,,,
+Ashrah,,Corner,"2,1","2,1 DF1 F+4,2 DB2",266.55,Medium,,,,,Must be in Heaven Mode.
+Ashrah,,Corner,"2,1","2,1 DF1 F+4,2 DF3+EX 3 1,2,2",359.24,Medium,1,,,,Must be in Heaven Mode.
+Ashrah,,Corner,F+3,"F+3 DF3+EX 3 F+4,2 DB2",270.96,Medium,1,,,,Must be in Hell Mode. Must be cornered.
+Ashrah,,Corner,F+3,"F+3 DF3+EX 3 1,2 BF2",271.41,Medium,1,,,,Must be cornered.
+Ashrah,,Corner,"F+4,2","F+4,2 DF3+EX 3 F+4,2 DB2",291.87,Medium,1,,,,Must be in Hell Mode.
+Ashrah,,Corner,"F+4,2","F+4,2 DF3+EX 3 F+4,2 BF2",299.52,Medium,1,,,,Must be in Heaven Mode.
+Baraka,,Midscreen,"2,1","2,1 DF2+EX B+3,1 FF 2,1 DF2",358.27,Medium,1,,,,
+Baraka,,Midscreen,"2,1","2,1 DF2+EX 3 DF2+EX 2 DF2",368.82,Medium,2,,,,
+Baraka,,Midscreen,"B+3,1","B+3,1 U+F+1,2,1",232.22,Easy,,,,,
+Baraka,,Midscreen,"B+3,1","B+3,1 2,1 DF2",256.66,Easy,,,,,
+Baraka,,Midscreen,"B+3,1","B+3,1 FF B+3,1 FF 2,1 DF2",311.01,Medium,,,,https://www.youtube.com/watch?v=Nxkb01HWc3M,
+Baraka,,Midscreen,"B+3,1","B+3,1 FF 3 DF2+EX 2 DF2",324.47,Medium,1,,,,
+Baraka,Cyrax,Midscreen,"B+3,1","B+3,1 FF B+3,1 FF 2,1 DF2 KAMEO U+F+1,4 DF2",381.34,Hard,,1,,,
+Baraka,Cyrax,Midscreen,"B+3,1","B+3,1 FF 3 DF2+EX 2 DF2 KAMEO U+F+1,4 DF2",385.82,Hard,1,1,Sideswitch,,
+Baraka,,Midscreen,F+3,"F+3 B+3,1 FF 2,1 DF2",268.16,Medium,,,,,
+Baraka,,Midscreen,F+3,F+3 FF 3 DF2+EX 2 DF2,283.07,Medium,1,,,,
+Baraka,Cyrax,Midscreen,F+3,"F+3 B+3,1 FF 2,1 DF2 KAMEO U+F+1,4 DF2",346.38,Hard,,1,,,
+Baraka,Cyrax,Midscreen,F+3,"F+3 FF 3 DF2+EX 2 DF2 KAMEO U+F+1,4 DF2",351.05,Hard,1,1,Sideswitch,,
+Baraka,,Corner,"2,1","2,1 DF2+EX B+3,1 2,1 DF2",358.27,Medium,1,,,,
+Baraka,,Corner,"2,1","2,1 DF2+EX B+3,1 B+3,1 2,1 DF2",382.77,Hard,1,,,,Battle Cry must hit 2 times.
+Baraka,,Corner,"2,1","2,1 DF2+EX 3 DF2+EX 2 DF2",368.82,Medium,2,,,,
+Baraka,,Corner,"B+3,1","B+3,1 B+3,1 2,1 DF2",311.01,Medium,,,,,
+Baraka,,Corner,"B+3,1","B+3,1 B+3,1 B+3,1 2,1 DF2",342.26,Hard,,,,,Battle Cry must hit 2 times.
+Baraka,,Corner,"B+3,1","B+3,1 3 DF2+EX 2 DF2",324.47,Medium,1,,,,
+Baraka,,Corner,F+3,"F+3 B+3,1 2,1 DF2",268.16,Medium,,,,,
+Baraka,,Corner,F+3,F+3 3 DF2+EX 2 DF2,283.07,Medium,1,,,,
+Cyrax,,Midscreen,"2,1","2,1 3 BF1 DF2 DF2 DF2 FF 3 3 3 DB4",315.59,Medium,,,,,
+Cyrax,,Midscreen,"2,1","2,1 FF B+3,3 SS+EX",436.77,Medium,,,Fatal Blow,,
+Cyrax,,Midscreen,B+2,"B+2 U+F+1,2 3 BF1 DF2 DF2 DF2 FF 3 3 3 DB4",350.88,Medium,,,,,
+Cyrax,,Midscreen,B+2,"B+2 U+F+1,2 B+3,3 SS+EX",443.59,Medium,,,Fatal Blow,,
+Cyrax,,Midscreen,DF2,"DF2 U+F+1,2 BF1 DB2 DF2 DF2 FF 3 3 3 DB4",323.64,Medium,,,,,
+Cyrax,,Midscreen,"B+3,3","B+3,3 BF1 DF2 FF FF B+3,3 DF2 U+1,2 DF2 U+1,2 3 DB4",379.72,Medium,,,,,
+Cyrax,,Midscreen,"B+3,3","B+3,3 BF1 DF2 FF FF B+3,3 DF2 U+1,2 DF2 U+1,2 3 B+3,3 DB4",385.16,Medium,,,,,
+Cyrax,,Midscreen,"B+3,3","B+3,3 BF1 DF2 FF FF B+3,3 DF2 U+1,2 DF2 U+1,2 3 U+F+3,4 DB4",389.72,Medium,,,Sideswitch,,
+Cyrax,,Midscreen,"B+3,3","B+3,3 BF1 FF B+3,3 SS+EX",417.78,Medium,,,Fatal Blow,,
+Cyrax,,Corner,"2,3,4","2,3,4 2,1 B+3,3 BF1 DB2 DB2 DB2 3 3 3 DB4",373.84,Medium,,,,,
+Cyrax,,Corner,"2,3,4","2,3,4 2,1 B+3,3 SS+EX",456.73,Medium,,,Fatal Blow,,
+Cyrax,,Corner,B+2,"B+2 U+F+1,2 B+3,3 BF1 DB2 DB2 DB3 3 3 3 DB4",360.93,Medium,,,,,
+Cyrax,,Corner,DB2,"DB2 U+1,2 B+3,3 BF1 DB2 DB2 DB2 3 3 3 DB4",358.34,Medium,,,,,
+Cyrax,,Corner,"B+3,3","B+3,3 BF1 DB2 FF FF B+3,3 DB2 U+B+1,2 DB2 U+B+1,2 B+3,3 DB4",385.16,Medium,,,,,
+Ermac,,Midscreen,"1,2","1,2 BF3 FF 4 DB1",208.90,Easy,,,,,
+Ermac,,Midscreen,"1,2","1,2 BF3 FF U+F+1,2,2 2,1,1+3",328.66,Medium,,,,,
+Ermac,,Midscreen,"1,2","1,2 BF3 FF U+F+1,2,2 FF 4 DB1+EX U+F+1,2,3 DB4,D",358.47,Medium,1,,Sideswitch,,
+Ermac,,Midscreen,"1,2","1,2 BF3 FF U+F+1,2,2 FF 4 DB1+EX U+F+1,2,3 DB1",365.44,Medium,1,,,,
+Ermac,,Midscreen,"1,2","1,2 BF3 FF U+F+1,2,2 FF 4 DB1+EX U+F+1,2,3 FF F+4,3",378.16,Medium,1,,,,
+Ermac,,Midscreen,"1,2","1,2 BF3+EX FF U+F+1,2,2 FF 4 DB1+EX U+F+1,2,3 FF F+4,3",405.24,Medium,2,,,,
+Ermac,,Midscreen,"1,2","1,2 BF3 FF U+F+1,2,2 FF 4 DB1+EX U+F+1,2,3 DB4+EX,D 4 DB1",400.18,Medium,2,,Sideswitch,,
+Ermac,Janet Cage,Midscreen,"1,2","1,2 BF3 FF U+F+1,2,2 FF F+4,3 F+KAMEO F+KAMEO  U+F+1,2,3 BF2 F+KAMEO F+KAMEO DB4",395.07,Hard,,4,Sideswitch,,Last jump punch must hit late.
+Ermac,,Midscreen,"1,2","1,2 BF3 FF U+F+1,2,2 FF F+4 DB3+EX U+F+2 F+4 DB2 2 F+4 DB2",337.26,Medium,2,,Restand,,
+Ermac,,Midscreen,"1,2","1,2 BF3 FF U+F+1,2,2 FF 4 SS+EX",463.74,Medium,,,Fatal Blow,,
+Ermac,,Midscreen,"1,2","1,2 DB4+EX 4 BF3 FF 4 SS+EX",508.60,Medium,1,,"Fatal Blow, Sideswitch",,
+Ermac,,Midscreen,BF1,"BF1 Hold 1 FF 4 BF3 FF 1,2,3,1+3",322.21,Medium,,,Sideswitch,,
+Ermac,,Midscreen,BF1,"BF1 Hold 1 FF 4 BF3 FF 2,1,1+3",326.16,Medium,,,,,
+Ermac,,Midscreen,BF1,"BF1 Hold 1 FF 4 BF3 FF 4 DB1+EX U+F+1,2,3 DB1",371.44,Medium,1,,,,
+Ermac,,Midscreen,BF1,"BF1 Hold 1 FF 4 BF3 FF 4 DB1+EX U+F+1,2,3 FF F+4,3",387.10,Medium,1,,,,
+Ermac,,Midscreen,BF1,"BF1 Hold 1 FF 4 BF3 FF 4 DB1+EX U+F+1,2,3 DB4+EX,D 4 DB1",414.21,Medium,2,,Sideswitch,,
+Ermac,,Midscreen,BF1,BF1 Hold 1 FF 4 BF3 FF F+4 DB3+EX U+F+2 F+4 DB2 2 F+4 DB2,336.75,Medium,2,,Restand,,
+Ermac,,Midscreen,"2,1,2","2,1,2 4 DB1",204.36,Easy,,,Sideswitch,,
+Ermac,,Midscreen,"2,1,2","2,1,2 4 BF3 FF 1,2,3,1+3",305.38,Medium,,,,,
+Ermac,,Midscreen,"2,1,2","2,1,2 4 BF3 FF 4 DB1+EX U+F+1,2,3 DB4,D",338.21,Medium,1,,,,
+Ermac,,Midscreen,"2,1,2","2,1,2 4 BF3 FF 4 DB1+EX U+F+1,2,3 DB1",345.14,Medium,1,,Sideswitch,,
+Ermac,,Midscreen,"2,1,2","2,1,2 4 BF3 FF 4 DB1+EX U+F+1,2,3 FF F+4,3",357.78,Medium,1,,Sideswitch,,
+Ermac,,Midscreen,"2,1,2","2,1,2 4 BF3 FF 4 DB1+EX U+F+1,2,3 DB4+EX,D 4 DB1",379.68,Medium,2,,,,
+Ermac,,Midscreen,"2,1,2","2,1,2 4 BF3 FF F+4 DB3+EX U+F+2 F+4 DB2 2 F+4 DB2",317.12,Medium,2,,"Restand, Sideswitch",,
+Ermac,,Midscreen,"2,1,2","2,1,2 4 BF3 FF 4 SS+EX",442.86,Medium,,,"Fatal Blow, Sideswitch",,
+Ermac,,Midscreen,"B+2,4","B+2,4 BF3 FF U+F+1,2,3 FF 4 DB1",292.73,Medium,,,,,
+Ermac,,Midscreen,"B+2,4","B+2,4 BF3 FF U+F+1,2,3 FF 4 DB1+EX U+F+1,2,3 DB1",362.08,Medium,1,,,,
+Ermac,,Midscreen,"B+2,4","B+2,4 BF3 FF U+F+1,2,3 FF 4 DB1+EX U+F+1,2,3 BF2",365.20,Medium,1,,,,
+Ermac,,Midscreen,"B+2,4","B+2,4 BF3 FF 4 SS+EX",438.46,Medium,,,Fatal Blow,,
+Ermac,,Midscreen,F+2,"F+2 BF1 Hold 1 FF 4,2 DB2,F 2 U+F+1,2,2 FF B+2,4 DB1",283.24,Hard,,,,,
+Ermac,,Midscreen,F+2,"F+2 BF1 Hold 1 FF 1,2 DB4+EX F+4 DB2,F 1,2,3 FF 4 DB1",304.05,Medium,1,,Sideswitch,,
+Ermac,,Midscreen,F+2,"F+2 BF1 Hold 1 FF 1,2 DB4+EX F+4 DB2,F 1,2,3 FF 4 DB1+EX U+F+1,2,3 FF F+4,3",377.12,Medium,2,,Sideswitch,,
+Ermac,,Midscreen,F+2,"F+2 BF1 Hold 1 FF 1,2 DB4+EX 4 SS+EX",462.72,Medium,1,,"Fatal Blow, Sideswitch",,
+Ermac,,Midscreen,"4,2","4,2 DB2 1,2,2 2,1,1+3",290.51,Medium,,,,,
+Ermac,,Midscreen,"4,2","4,2 DB2,F 2 FF 4 BF3 FF 1,2,3,1+3",300.57,Medium,,,Sideswitch,,
+Ermac,,Midscreen,"4,2","4,2 DB4+EX,D 4 BF3 FF 1,2,3,1+3",355.52,Medium,1,,,,
+Ermac,,Midscreen,"4,2","4,2 DB4+EX,D 4 BF3 FF 4 DB1+EX U+F+1,2,3 DB4,D",392.21,Medium,2,,,,
+Ermac,,Midscreen,"4,2","4,2 DB4+EX,D 4 BF3 FF 4 DB1+EX U+F+1,2,3 DB1",399.95,Medium,2,,Sideswitch,,
+Ermac,,Midscreen,"4,2","4,2 DB4+EX,D 4 BF3 FF 4 DB1+EX U+F+1,2,3 FF F+4,3",414.08,Medium,2,,Sideswitch,,
+Ermac,,Midscreen,"4,2","4,2 DB2 1,2,2 FF 4 SS+EX",410.66,Medium,,,Fatal Blow,,
+Ermac,,Midscreen,"4,2","4,2 DB4+EX,D 4 BF3 FF 4 SS+EX",509.17,Medium,1,,"Fatal Blow, Sideswitch",,
+Ermac,,Midscreen,F+4,"F+4 DB2 2 1,2 BF3 FF U+F+1,2,2 2,1,1+3",315.96,Medium,,,,,
+Ermac,,Midscreen,F+4,"F+4 DB2 2 2,1,2 4 BF3 FF 4 DB1+EX U+F+1,2,3 DB1",327.27,Medium,1,,Sideswitch,,
+Ermac,,Midscreen,F+4,"F+4 DB2 2 2,1,2 4 BF3 FF 4 DB1+EX U+F+1,2,3 FF F+4,3",335.95,Medium,1,,Sideswitch,,
+Ermac,,Midscreen,F+4,"F+4 DB2 2 2,1,2 4 BF3 FF 4 DB1+EX U+F+1,2,3 DB4+EX,D 4 DB1",350.98,Medium,2,,,,
+Ermac,Janet Cage,Midscreen,DB4,"DB4 F+KAMEO F+KAMEO U+F+1,2,3 BF2 F+KAMEO F+KAMEO DB4",295.94,Hard,,4,,,
+Ermac,,Midscreen,DB4+EX,"DB4+EX 4 BF3 FF 1,2,3,1+3",319.52,Medium,1,,,,
+Ermac,,Midscreen,DB4+EX,"DB4+EX 4 BF3 FF 2,1,1+3",323.94,Medium,1,,Sideswitch,,
+Ermac,,Midscreen,DB4+EX,"DB4+EX 4 BF3 FF 4 DB1+EX U+F+1,2,3 DB4,D",364.96,Medium,2,,,,
+Ermac,,Midscreen,DB4+EX,"DB4+EX 4 BF3 FF 4 DB1+EX U+F+1,2,3 DB1",374.55,Medium,2,,Sideswitch,,
+Ermac,,Midscreen,DB4+EX,"DB4+EX 4 BF3 FF 4 DB1+EX U+F+1,2,3 FF F+4,3",392.06,Medium,2,,Sideswitch,,
+Ermac,,Midscreen,DB4+EX,"DB4+EX 4 BF3 FF 4 DB1+EX U+F+1,2,3 DB4+EX,D 4 DB1",422.36,Medium,3,,,,
+Ermac,,Midscreen,DB4+EX,"DB4+EX 4 BF3+EX FF U+F+1,2,3 FF 4 DB1+EX U+F+1,2,3 FF F+4,3",464.24,Hard,3,,Sideswitch,,Jump punch must hit late.
+Ermac,,Midscreen,DB4+EX,DB4+EX 4 BF3 FF 4 SS+EX,509.81,Medium,1,,"Fatal Blow, Sideswitch",,
+Ermac,Scorpion,Midscreen,DB4+EX,DB4+EX 4 BF3 FF 4 BF2 U+KAMEO FF 4 BF2 U+KAMEO FF 4 DB1+EX FF SS+EX,588.51,Medium,2,2,"Fatal Blow, Sideswitch",,
+Ermac,,Corner,"1,2","1,2 BF3 FF U+F+1,2,2 2,1,1+3",328.66,Medium,,,,,
+Ermac,,Corner,"1,2","1,2 BF3 FF U+F+1,2,2 U+F+1,2,3 4 BF2",349.24,Hard,,,,,
+Ermac,,Corner,"1,2","1,2 BF3 FF U+F+1,2,2 U+F+1,2,3 1,2,3,1+3",372.63,Hard,,,Sideswitch,,
+Ermac,,Corner,"1,2","1,2 BF3 FF U+F+1,2,2 U+F+1,2,3 4 DB1+EX U+F+1,2,3 F+4,3",410.94,Hard,1,,,,Last jump punch must hit late.
+Ermac,,Corner,"1,2","1,2 BF3 FF U+F+1,2,2 U+F+1,2,3 4 DB1+EX U+F+3 1,2,3,1+3",415.28,Hard,1,,Sideswitch,,
+Ermac,Janet Cage,Corner,"1,2","1,2 BF3 FF U+F+1,2,2 U+F+1,2,3 4 BF2 F+KAMEO F+KAMEO FF 4 BF2 F+KAMEO F+KAMEO U+F+3 BF2",441.18,Hard,,4,,,
+Ermac,,Corner,"1,2","1,2 BF3 FF U+F+1,2,2 U+F+1,2,3 DB2 2,4 DB3+EX U+2 F+4 DB2",364.60,Hard,2,,Restand,,
+Ermac,,Corner,"1,2","1,2 BF3 FF U+F+1,2,2 U+F+1,2,3 F+4 DB3+EX U+2 F+4 DB2 2 F+4 DB2",381.22,Hard,2,,Restand,,
+Ermac,,Corner,"1,2","1,2 BF3 FF U+F+1,2,2 U+F+1,2,3 4 SS+EX",473.14,Medium,,,Fatal Blow,,
+Ermac,,Corner,"1,2","1,2 BF3+EX FF U+F+1,2,2 U+F+1,2,3 4 SS+EX",500.21,Medium,1,,Fatal Blow,,
+Ermac,,Corner,"2,1","2,1 U+1,2,2 4 BF2",267.52,Easy,,,,,
+Ermac,,Corner,"2,1","2,1 U+1,2,2 U+F+1,2,3 4 BF2",326.11,Medium,,,,,
+Ermac,,Corner,"2,1","2,1 U+1,2,2 U+F+1,2,3 1,2,3,1+3",350.59,Medium,,,Sideswitch,,
+Ermac,,Corner,"2,1","2,1 U+1,2,2 U+F+1,2,3 4 DB1+EX U+F+1,2,3 F+4,3",390.68,Medium,1,,,,Last jump punch must hit late.
+Ermac,,Corner,"2,1","2,1 U+1,2,2 U+F+1,2,3 4 DB1+EX U+F+3 1,2,3,1+3",395.22,Medium,1,,Sideswitch,,
+Ermac,,Corner,"2,1","2,1 U+1,2,2 U+F+1,2,3 DB2 2,4 DB3+EX U+2 F+4 DB2",342.18,Medium,2,,Restand,,
+Ermac,,Corner,"2,1","2,1 U+1,2,2 U+F+1,2,3 F+4 DB3+EX U+2 F+4 DB2 2 F+4 DB2",359.57,Hard,2,,Restand,,
+Ermac,,Corner,"2,1","2,1 U+1,2,2 U+F+1,2,3 4 SS+EX",455.76,Medium,,,Fatal Blow,,
+Ermac,,Corner,"2,1","2,1 4 BF3+EX FF 4 SS+EX",482.85,Medium,1,,Fatal Blow,,
+Ermac,,Corner,"B+2,4","B+2,4 BF3 FF U+F+1,2,3 4 BF2",297.50,Medium,,,,,
+Ermac,,Corner,"B+2,4","B+2,4 BF3 FF U+F+1,2,3 4 DB1+EX U+F+1,2,3 F+4,3",373.46,Medium,1,,,,Last jump punch must hit late.
+Ermac,,Corner,"B+2,4","B+2,4 BF3 FF U+F+1,2,3 4 DB1+EX U+F+3 1,2,3,1+3",379.80,Medium,1,,Sideswitch,,
+Ermac,,Corner,"B+2,4","B+2,4 BF3 FF U+F+1,2,3 DB2 2,4 DB3+EX U+2 F+4 DB2",316.41,Medium,2,,Restand,,
+Ermac,,Corner,"B+2,4","B+2,4 BF3 FF U+F+1,2,3 F+4 DB3+EX U+2 F+4 DB2 2 F+4 DB2",336.86,Hard,2,,Restand,,
+Ermac,,Corner,"B+2,4","B+2,4 BF3 FF U+F+1,2,3 4 SS+EX",450.03,Medium,,,Fatal Blow,,
+Ermac,,Corner,F+2,"F+2 BF1 Hold 1 FF F+4 DB2 2 2,1 U+1,2,2 U+F+1,2,3 4 BF2",313.57,Hard,,,,,
+Ermac,,Corner,F+2,"F+2 BF1 Hold 1 FF 1,2 DB1+EX U+F+1,2,2 U+F+1,2,3 4 BF2",340.18,Medium,1,,,,
+Ermac,,Corner,F+2,"F+2 BF1 Hold 1 FF 1,2 DB1+EX U+F+1,2,2 U+F+1,2,3 1,2,3,1+3",362.41,Medium,1,,Sideswitch,,
+Ermac,,Corner,F+2,"F+2 BF1 Hold 1 FF 4,2 DB2 1,2,2 U+F+1,2,3 4 DB1+EX U+F+1,2,3 F+4,3",358.24,Hard,1,,,,Last jump punch must hit late.
+Ermac,,Corner,F+2,"F+2 BF1 Hold 1 FF F+4 DB2 2 2,1 U+1,2,2 U+F+1,2,3 DB2 2,4 DB3+EX U+2 F+4 DB2",323.53,Hard,2,,Restand,,
+Ermac,,Corner,F+2,"F+2 BF1 Hold 1 FF 1,2 DB1+EX U+F+1,2,2 U+F+1,2,3 4 SS+EX",457.89,Medium,1,,Fatal Blow,,
+Ermac,,Corner,"4,2","4,2 DB2 1,2,3 4 BF2",259.02,Easy,,,,,
+Ermac,,Corner,"4,2","4,2 DB2 1,2,2 U+F+1,2,3 4 BF2",308.82,Medium,,,,,
+Ermac,,Corner,"4,2","4,2 DB2 1,2,2 U+F+1,2,3 4 DB1+EX U+F+1,2,3 F+4,3",363.70,Medium,1,,,,Last jump punch must hit late.
+Ermac,,Corner,"4,2","4,2 DB2 1,2,2 U+F+1,2,3 4 DB1+EX U+F+3 1,2,3,1+3",367.56,Medium,1,,Sideswitch,,
+Ermac,,Corner,"4,2","4,2 DB2 1,2,2 U+F+1,2,3 DB2 2,4 DB3+EX U+2 F+4 DB2",322.48,Medium,2,,Restand,,
+Ermac,,Corner,"4,2","4,2 DB2 1,2,2 U+F+1,2,3 4 SS+EX",419.02,Medium,,,Fatal Blow,,
+Ermac,Janet Cage,Corner,DB4,"DB4 F+KAMEO F+KAMEO U+F+1,2,3 4 BF2 F+KAMEO F+KAMEO U+F+3 BF2",328.43,Hard,,4,Sideswitch,,Must be cornered.
+Ermac,,Corner,DB4+EX,"DB4+EX 4 BF3 FF U+F+1,2,3 4 DB1",346.93,Medium,1,,Sideswitch,,Must be cornered.
+Ermac,,Corner,DB4+EX,"DB4+EX 4 BF3 FF U+F+1,2,3 4 DB1+EX U+F+1,2,3 F+4,3",437.16,Medium,2,,Sideswitch,,Must be cornered. Last jump punch must hit late.
+Ermac,,Corner,DB4+EX,"DB4+EX 4 BF3 FF U+F+1,2,3 4 DB1+EX U+F+3 1,2,3,1+3",443.13,Medium,2,,,,Must be cornered.
+Ermac,Janet Cage,Corner,DB4+EX,"DB4+EX 4 BF3 FF U+F+1,2,3 4 BF2 F+KAMEO F+KAMEO FF 4 BF2 F+KAMEO F+KAMEO U+F+3 BF2",478.77,Hard,1,4,Sideswitch,,Must be cornered.
+Ermac,,Corner,DB4+EX,"DB4+EX 4 BF3 FF U+F+1,2,2 F+4 DB3+EX U+2 F+4 DB2 2 F+4 DB2",396.26,Medium,3,,"Restand, Sideswitch",,Must be cornered.
+Ermac,,Corner,DB4+EX,"DB4+EX 4 BF3 FF U+F+1,2,3 4 SS+EX",522.74,Medium,1,,"Fatal Blow, Sideswitch",,Must be cornered.
+General Shao,,Midscreen,"1,2","1,2 DF4 B+3,2 4 DF2",322.77,Medium,,,,,
+General Shao,,Midscreen,"1,2","1,2 DF4 B+3,2 B+3,2 F+4 DF4",303.39,Medium,,,,,
+General Shao,,Midscreen,"1,2","1,2 DF4 B+3,2 B+3,2 2,2 DB3",339.06,Medium,,,,,
+General Shao,,Midscreen,"F+1,2,2","F+1,2,2 DF4 FF 4 DF2",307.23,Medium,,,,,
+General Shao,,Midscreen,"F+1,2,2","F+1,2,2 DF4 B+3,2 B+3,2 F+4 DF4",328.67,Medium,,,,,
+General Shao,,Midscreen,"F+1,2,2","F+1,2,2 DF4 B+3,2 B+3,2 2,2 DB3",362.56,Medium,,,,,
+General Shao,,Midscreen,"2,2","2,2 DB3+EX DF4 2,2 DF2",341.59,Medium,1,,,,
+General Shao,,Midscreen,"2,2","2,2 DB3 B+3,2 B+3,2 F+4 DF4",319.91,Medium,,,,,Must be in No Axe stance.
+General Shao,,Midscreen,"2,2","2,2 DB3 B+3,2 B+3,2 B+3,2 FF 2,2 DB3",397.77,Medium,,,,,Must be in No Axe stance.
+General Shao,,Midscreen,"2,2","2,2 DB3 B+3,2 B+3,2 B+3,2 FF 2,2 DB3+EX DF4 2 DF2",461.51,Medium,1,,,,Must be in No Axe stance.
+General Shao,Kung Lao,Midscreen,"2,2","2,2 DB3+EX DF4 BB 2,2 B+KAMEO Hold KAMEO",264.05,Medium,1,1,Setup,,
+General Shao,,Midscreen,B+2,"B+2 B+2 U+F+1,2,2",254.38,Easy,,,,,
+General Shao,,Midscreen,B+2,"B+2 B+2 2,2 DF4 2 DF2",328.00,Medium,,,,,
+General Shao,,Midscreen,B+2,"B+2 U+F+1,2 2,2 DB3+EX DF4 2 DF2",396.08,Medium,1,,,,
+General Shao,,Midscreen,F+2,"F+2 2,2 DB3 2,2 DB3",274.86,Medium,,,,,Must be in No Axe stance.
+General Shao,,Midscreen,F+2,"F+2 DB3 B+3,2 B+3,2 2,2 DB3",315.85,Hard,,,,,Must be in No Axe stance.
+General Shao,Motaro,Midscreen,F+2,"F+2 KAMEO B+2 U+F+1,2 2,2 DB3+EX DF4 2 DB3",317.80,Medium,1,1,Sideswitch,,
+General Shao,Motaro,Midscreen,F+2,"F+2 KAMEO B+2 U+F+1,2 2,2 DB3+EX DF4 2 DF2",336.17,Medium,1,1,Sideswitch,,
+General Shao,,Midscreen,B+3,"B+3 DB3+EX DF4 2,2 DF2",327.99,Medium,1,,,,
+Geras,,Midscreen,"1,2","1,2 BF1+EX 4 B+1,2 F+2 DB4 FF B+1,2 DF2",395.61,Medium,1,,,,
+Geras,,Midscreen,"1,2","1,2 BF1+EX 4 B+1,2 F+2 DB4 FF 1,2,2,1+3",380.07,Medium,1,,Sideswitch,,Increases Countdown Charges by 1.
+Geras,,Midscreen,"1,2","1,2 BF1+EX 4 B+1,2 B+1,2 DB4 F+2 DB2",397.94,Hard,1,,,,Denial must be reversed.
+Geras,,Midscreen,"1,2","1,2 BF1+EX 4 B+1,2 B+1,2 DB4 1,2,2,1+3",403.09,Hard,1,,,,Denial must be reversed. Increases Countdown Charges by 1.
+Geras,,Midscreen,"1,2","1,2 BF1+EX B+1,2 DB3 F+2 DB4 FF B+1,2 DF2",345.07,Medium,1,,,,Increases Countdown Charges by 1.
+Geras,,Midscreen,"1,2","1,2 BF1+EX B+1,2 DB3 F+2 DB4 FF 1,2,2,1+3",339.66,Medium,1,,Sideswitch,,Increases Countdown Charges by 2.
+Geras,,Midscreen,"1,2","1,2 DB3 Hold B 4 B+1,2 F+2 DB4 FF B+1,2 DF2",368.54,Medium,,,,,Can only be done with 3 Charges of Countdown.
+Geras,,Midscreen,"1,2","1,2 BF1+EX 4 B+1,2 F+2,4 SS+EX",517.73,Medium,1,,Fatal Blow,,
+Geras,,Midscreen,"B+1,2","B+1,2 DB4 FF F+2 DB4 FF F+2 DF2",314.35,Medium,,,,https://www.youtube.com/watch?v=HQYQoqdSIgs,
+Geras,,Midscreen,"B+1,2","B+1,2 DB4 FF F+2,4 BF1+EX B+1,2 DB4 FF F+2 DB2",403.44,Medium,1,,,,Denial must be reversed.
+Geras,,Midscreen,"B+1,2","B+1,2 DB4 FF F+2,4 BF1+EX 3 DB3 F+2 DF2",361.72,Medium,1,,,,Increases Countdown Charges by 1.
+Geras,,Midscreen,"B+1,2","B+1,2 DB4 FF F+2,4 DB3 Hold B 3 DB4 F+2 DF2",375.93,Medium,,,,,Can only be done with 3 Charges of Countdown.
+Geras,,Midscreen,"B+1,2","B+1,2 DB4 FF F+2,4 BF1+EX 3 DB4 3 DB3 Hold B 3 DB4 F+2 DF2",418.44,Medium,1,,,,Can only be done with 3 Charges of Countdown.
+Geras,,Midscreen,"B+1,2","B+1,2 DB4 FF F+2,4 SS+EX",456.17,Medium,,,Fatal Blow,,
+Geras,Motaro,Midscreen,"B+1,2","B+1,2 DB4 FF F+2,4 BF1 KAMEO 4 DB4 F+2 BF1 KAMEO 4 DB4 FF F+2 DF2",393.67,Hard,,2,,,
+Geras,,Midscreen,"F+2,4","F+2,4 DF4 1,2 DB4 FF F+2 DF2",314.45,Medium,,,,,
+Geras,,Midscreen,"F+2,4","F+2,4 DF4 F+2 DB4 FF F+2 DF2",321.63,Hard,,,,,
+Geras,,Midscreen,"F+2,4","F+2,4 DF4 1 F+2,4 BF1+EX B+1,2 DB4 FF F+2 DF2",435.23,Medium,1,,,,
+Geras,,Midscreen,"F+2,4","F+2,4 DF4 1 F+2,4 BF1+EX 3 DB3 F+2 DF2",385.03,Medium,1,,,,Increases Countdown Charges by 1.
+Geras,,Midscreen,"F+2,4","F+2,4 DB3 Hold B 4 B+1,2 F+2 DB4 FF B+1,2 DF2",417.54,Medium,,,,,Can only be done with 3 Charges of Countdown.
+Geras,,Midscreen,"F+4,4","F+4,4 U+F+1,2,1+3",227.25,Easy,,,,,
+Geras,,Midscreen,"F+4,4","F+4,4 B+1,2 DF2",267.33,Easy,,,,,
+Geras,,Midscreen,"F+4,4","F+4,4 F+2 DB4 FF B+1,2 DF2",309.63,Medium,,,,,
+Geras,,Midscreen,"F+4,4","F+4,4 B+1,2 DB4 1,2,2,1+3",318.99,Medium,,,,,Denial must be reversed. Increases Countdown Charges by 1.
+Geras,,Midscreen,"F+4,4","F+4,4 B+1,2 DB4 F+2 BF1+EX 3 DB4 F+2 DB2",388.99,Medium,1,,,,Denial must be reversed.
+Geras,,Midscreen,"F+4,4","F+4,4 B+1,2 DB4 F+2 BF1+EX 3 DB3 F+2 DB2",364.28,Medium,1,,,,Denial must be reversed. Increases Countdown Charges by 1.
+Geras,,Midscreen,"F+4,4","F+4,4 B+1,2 DB4 F+2 BF1+EX B+1,2 DB4 F+2 DB2",397.96,Hard,1,,,,Denial must be reversed.
+Geras,,Midscreen,"F+4,4","F+4,4 F+2,4 DB3 Hold B 3 DB4 F+2 DF2",360.64,Medium,,,,,Can only be done with 3 Charges of Countdown.
+Geras,,Midscreen,"F+4,4","F+4,4 F+2,4 BF1+EX 3 DB4 DB3 Hold B 3 DB4 F+2 DF2",414.49,Medium,1,,,,Can only be done with 3 Charges of Countdown.
+Geras,,Corner,"1,2","1,2 BF1+EX 4 B+1,2 B+1,2 DB4 F+2 DF2",397.94,Medium,1,,,,
+Geras,,Corner,"1,2","1,2 BF1+EX 4 B+1,2 3 DB4 3 DB4 F+2 DF2",401.85,Hard,1,,,,
+Geras,,Corner,"1,2","1,2 BF1+EX B+1,2 DB3 B+1,2 DB4 F+2 DF2",347.40,Medium,1,,,,Increases Countdown Charges by 1.
+Geras,,Corner,"1,2","1,2 BF1+EX B+1,2 DB3 3 DB4 3 DB4 F+2 DF2",351.31,Hard,1,,,,Increases Countdown Charges by 1.
+Geras,,Corner,"1,2","1,2 DB3 Hold B 4 B+1,2 B+1,2 DB4 F+2 DF2",370.87,Medium,,,,,Can only be done with 3 Charges of Countdown.
+Geras,,Corner,"1,2","1,2 DB3 Hold B 4 B+1,2 3 DB4 3 DB4 F+2 DF2",374.77,Hard,,,,,Can only be done with 3 Charges of Countdown.
+Geras,,Corner,"1,2","1,2 BF1+EX 4 B+1,2 F+2,4 SS+EX",517.73,Medium,1,,Fatal Blow,,
+Geras,,Corner,"B+1,2","B+1,2 DB4 3 DB4 F+2 DF2",314.77,Medium,,,,,
+Geras,,Corner,"B+1,2","B+1,2 DB4 B+1,2 DB4 1,2 DF2",335.32,Hard,,,,,
+Geras,,Corner,"B+1,2","B+1,2 DB4 3 DB4 F+2 BF1+EX B+1,2 DB4 3 DF2",387.75,Medium,1,,,,
+Geras,,Corner,"B+1,2","B+1,2 DB4 B+1,2 DB4 1,2 BF1+EX B+1,2 DB4 3 DF2",401.18,Hard,1,,,,
+Geras,,Corner,"B+1,2","B+1,2 DB4 3 DB4 F+2 BF1+EX 3 DB3 3 DF2",352.54,Medium,1,,,,Increases Countdown Charges by 1.
+Geras,,Corner,"B+1,2","B+1,2 DB4 B+1,2 DB4 1,2 BF1+EX 3 DB3 3 DF2",369.41,Hard,1,,,,Increases Countdown Charges by 1.
+Geras,,Corner,"B+1,2","B+1,2 DB4 F+2,4 DB3 Hold B B+1,2 DB4 3 DF2",390.01,Medium,,,,,Can only be done with 3 Charges of Countdown.
+Geras,,Corner,"B+1,2","B+1,2 DB4 FF F+2,4 SS+EX",456.17,Medium,,,Fatal Blow,,
+Geras,,Corner,"F+2,4,2","F+2,4,2 DB4 3 DB4 F+2 DF2",330.98,Medium,,,,,
+Geras,,Corner,"F+2,4,2","F+2,4,2 DB4 B+1,2 DB4 1,2 DF2",350.51,Hard,,,,,
+Geras,,Corner,"F+2,4,2","F+2,4,2 DB4 3 DB4 F+2 BF1+EX B+1,2 DB4 3 DF2",400.31,Medium,1,,,,
+Geras,,Corner,"F+2,4,2","F+2,4,2 DB4 B+1,2 DB4 1,2 BF1+EX B+1,2 DB4 3 DF2",413.08,Hard,1,,,,
+Geras,,Corner,"F+2,4,2","F+2,4,2 DB4 3 DB4 F+2 BF1+EX 3 DB3 3 DF2",366.86,Medium,1,,,,Increases Countdown Charges by 1.
+Geras,,Corner,"F+2,4,2","F+2,4,2 DB4 B+1,2 DB4 1,2 BF1+EX 3 DB3 3 DF2",382.89,Hard,1,,,,Increases Countdown Charges by 1.
+Geras,,Corner,"F+2,4,2","F+2,4,2 DB4 F+2,4 DB3 Hold B B+1,2 DB4 3 DF2",402.46,Medium,,,,,Can only be done with 3 Charges of Countdown.
+Geras,,Corner,"F+4,4","F+4,4 B+1,2 DB4 F+2 DF2",312.55,Medium,,,,,
+Geras,,Corner,"F+4,4","F+4,4 3 DB4 3 DB4 F+2 DF2",317.43,Hard,,,,,
+Geras,,Corner,"F+4,4","F+4,4 B+1,2 DB4 F+2 BF1+EX B+1,2 DB4 3 DF2",400.36,Medium,1,,,,
+Geras,,Corner,"F+4,4","F+4,4 B+1,2 DB4 F+2 BF1+EX 3 DB3 3 DF2",357.99,Medium,1,,,,Increases Countdown Charges by 1.
+Geras,,Corner,"F+4,4","F+4,4 F+2,4 DB3 Hold B B+1,2 DB4 3 DF2",378.48,Medium,,,,,Can only be done with 3 Charges of Countdown.
+Ghostface,,Midscreen,"1,2","1,2 DB3+EX 2,2,1+3 U+F+2,2 F+4 U+F+2,2 B+3",292.36,Medium,1,,"Restand, Sideswitch",,
+Ghostface,,Midscreen,"1,2","1,2 DB3+EX 2,2,1+3 U+F+2,2 F+4 U+F+2,2 B+3 DF3 1",320.19,Medium,1,,Sideswitch,,
+Ghostface,,Midscreen,"1,2","1,2 DB3+EX 4,4 DB3+EX 2,2,1+3 U+F+2,2 F+4 U+F+2,2 B+3 DF3 1",373.53,Medium,2,,,,
+Ghostface,,Midscreen,"1,2","1,2 DB3+EX 4,4 DB3+EX 4,4 DB3+EX 2,2,1+3 U+F+2,2 F+4 U+F+2,2 B+3 DF3 1",412.05,Medium,3,,Sideswitch,,
+Ghostface,,Midscreen,"1,2","1,2 DB3+EX 4,4 SS+EX",441.93,Medium,1,,"Fatal Blow, Sideswitch",,
+Ghostface,,Midscreen,"1,2","1,2 DB3+EX 4,4 DB3+EX 4,4 SS+EX",461.43,Medium,2,,Fatal Blow,,
+Ghostface,,Midscreen,"1,2","1,2 DB3+EX 4,4 DB3+EX 4,4 DB3+EX 4,4 SS+EX",475.51,Medium,3,,"Fatal Blow, Sideswitch",,
+Ghostface,,Midscreen,DF1,"DF1 U+1 B+1+EX U+F+2,2 2,2,1+3 U+F+2,2 B+3",225.76,Medium,1,,"Restand, Sideswitch",,Must be in Black Dragon Enforcer
+Ghostface,,Midscreen,"2,2,1+3","2,2,1+3 U+F+2,2 F+4 U+F+2,2 B+3",237.76,Medium,,,Restand,,
+Ghostface,,Midscreen,"2,2,1+3","2,2,1+3 U+F+2,2 F+4 U+F+2,2 B+3 DF3 1",276.30,Medium,,,,,
+Ghostface,,Midscreen,"F+2,1","F+2,1 DB3+EX 2,2,1+3 U+F+2,2 F+4 U+F+2,2 B+3",322.36,Medium,1,,"Restand, Sideswitch",,
+Ghostface,,Midscreen,"F+2,1","F+2,1 DB3+EX 2,2,1+3 U+F+2,2 F+4 U+F+2,2 B+3 DF3 1",350.19,Medium,1,,Sideswitch,,
+Ghostface,,Midscreen,"F+2,1","F+2,1 DB3+EX 4,4 DB3+EX 2,2,1+3 U+F+2,2 F+4 U+F+2,2 B+3 DF3 1",403.53,Medium,2,,,,
+Ghostface,,Midscreen,"F+2,1","F+2,1 DB3+EX 4,4 DB3+EX 4,4 DB3+EX 2,2,1+3 U+F+2,2 F+4 U+F+2,2 B+3 DF3 1",442.05,Medium,3,,Sideswitch,,
+Ghostface,,Midscreen,"F+2,1","F+2,1 DB3+EX 4,4 SS+EX",471.93,Medium,1,,"Fatal Blow, Sideswitch",,
+Ghostface,,Midscreen,"F+2,1","F+2,1 DB3+EX 4,4 DB3+EX 4,4 SS+EX",501.43,Medium,2,,Fatal Blow,,
+Ghostface,,Midscreen,"F+2,1","F+2,1 DB3+EX 4,4 DB3+EX 4,4 DB3+EX 4,4 SS+EX",505.51,Medium,3,,"Fatal Blow, Sideswitch",,
+Ghostface,,Midscreen,DF4+EX,"DF4+EX 2,2 2,2,1+3 U+F+2,2 B+3",256.94,Medium,1,,"Restand, Sideswitch",,Must be in Black Dragon Enforcer
+Ghostface,,Corner,"1,2","1,2 DB3+EX 4,4 DB3+EX 2,2,1+3 U+F+2,2 F+4 U+F+2,2 B+3 DF3 1",373.53,Medium,2,,,,
+Ghostface,,Corner,"1,2","1,2 DB3+EX 4,4 DB3+EX 4,4 SS+EX",461.43,Medium,2,,Fatal Blow,,
+Ghostface,,Corner,"2,2,1+3","2,2,1+3 U+F+2,2 F+4 U+F+2,2 B+3",237.76,Medium,,,Restand,,
+Ghostface,,Corner,"2,2,1+3","2,2,1+3 U+F+2,2 F+4 U+F+2,2 B+3 DF3 1",276.30,Medium,,,,,
+Ghostface,,Corner,"F+2,1","F+2,1 DB3+EX 4,4 DB3+EX 2,2,1+3 U+F+2,2 F+4 U+F+2,2 B+3 DF3 1",403.53,Medium,2,,,,
+Ghostface,,Corner,"F+2,1","F+2,1 DB3+EX 4,4 DB3+EX 4,4 SS+EX",501.43,Medium,2,,Fatal Blow,,
+Havik,,Midscreen,DB1,DB1 FF F+1 BF1 FF F+4 BF2 Hold B,290.83,Medium,,,,,
+Havik,,Midscreen,"B+2,2","B+2,2 BF1 BF2",219.74,Easy,,,,,
+Havik,,Midscreen,"B+2,2","B+2,2 BF1 FF B+2,2 BF2 Hold B",273.23,Medium,,,,,
+Havik,,Midscreen,"B+2,2","B+2,2 BF1 FF B+2,2,1+3",283.61,Medium,,,Sideswitch,https://www.youtube.com/watch?v=meH-zRGrMl0,
+Havik,,Midscreen,"B+2,2","B+2,2 BF1 FF B+2,2 DB4",287.97,Medium,,,,https://www.youtube.com/watch?v=oVkUWu71vUo,
+Havik,Sub-Zero,Midscreen,"B+2,2","B+2,2 BF1 FF B+2,2 F+KAMEO DB1 U+F+2,4",347.80,Medium,,1,,,
+Havik,Sub-Zero,Midscreen,"B+2,2","B+2,2 BF1 FF B+2,2 F+KAMEO DB1 BF2+EX, Hold B",332.21,Medium,2,1,Setup,,
+Havik,,Corner,"B+2,2","B+2,2 BF1 3 BF1 2,2 BF2",345.68,Medium,,,,https://www.youtube.com/watch?v=c6bLHkd40eM,
+Havik,,Corner,"B+2,2","B+2,2 BF1 FF F+4 BF1 2,2 DB4",357.59,Medium,,,,https://www.youtube.com/watch?v=aZJEJQaTq-g,
+Havik,Sub-Zero,Corner,"B+2,2","B+2,2 BF1 2 BF1 2,2 F+KAMEO DB1 U+F+2,4",390.56,Medium,,1,Sideswitch,,
+Havik,Sub-Zero,Corner,"B+2,2","B+2,2 BF1 2 BF1 2,2 F+KAMEO DB1 DB4",384.51,Medium,,1,,,
+Havik,Sub-Zero,Corner,"B+2,2","B+2,2 BF1 3 BF1 2,2 F+KAMEO DB1 DB4",399.85,Hard,,1,,,
+Havik,Sub-Zero,Corner,"B+2,2","B+2,2 BF1 2 BF1 2,2 F+KAMEO DB1 BF2+EX",377.97,Medium,2,1,Setup,,
+Homelander,,Midscreen,"1,2","1,2 U+SS 4 BF2 1 U+F+4 BF2 1 1,2 BF2 1 1,2,1+3",310.63,Medium,,,,,
+Homelander,,Midscreen,"1,2","1,2 U+SS 4 BF2 1 U+F+4 BF2 1 1,2 BF2 1 1,2 BF2 2",315.44,Medium,,,,,
+Homelander,,Midscreen,"1,2","1,2 U+SS 4 BF2 1 4 BF2 1 Hold F 4 BF2 1 B+2 BF2 2",308.6,Medium,,,Sideswitch,,
+Homelander,,Midscreen,"1,2","1,2 U+SS 4 SS+EX",421.59,Medium,,,"Fatal Blow, Sideswitch",,
+Homelander,,Midscreen,"B+1,4","B+1,4 U+SS BF2 1 B+2,2 BF2 1 Hold F 1,2 BF2 1 FF 2,1,2",287.83,Medium,,,,,
+Homelander,,Midscreen,"B+1,4","B+1,4 U+SS BF2 1 B+2,2 BF2 1 Hold F 1,2 BF2 1 FF B+2,2 BF2 2",292.31,Medium,,,Sideswitch,,
+Homelander,,Midscreen,"B+1,4","B+1,4 SS+EX",403.73,Medium,,,"Fatal Blow, Sideswitch",,
+Homelander,,Midscreen,BF2,"BF2 1 Hold F 1,2 BF2 1 FF 2,1,2",223.97,Medium,,,,,
+Homelander,,Midscreen,BF2,"BF2 1 Hold F 1,2 BF2 1 FF B+2,2 BF2 2",232.17,Medium,,,Sideswitch,,
+Homelander,,Midscreen,BF2,"BF2 1 Hold F 1,2 SS+EX",355.07,Medium,,,"Fatal Blow, Sideswitch",,
+Homelander,,Midscreen,B+3,"B+3 2,1 U+SS 4 BF2 1 U+F+4 BF2 1 1,2 BF2 1 1,2,1+3",387.69,Medium,,,,,
+Homelander,,Midscreen,B+3,"B+3 2,1 U+SS 4 BF2 1 U+F+4 BF2 1 1,2 BF2 1 1,2 BF2 2",382.77,Medium,,,,,
+Homelander,,Midscreen,B+3,"B+3 2,1 U+SS 4 BF2 1 4 BF2 1 Hold F 4 BF2 1 B+2 BF2 2",376.96,Medium,,,Sideswitch,,
+Homelander,,Midscreen,B+3,"B+3 FF B+2,2 SS+EX",466.64,Medium,,,"Fatal Blow, Sideswitch",,
+Homelander,,Midscreen,F+4,"F+4 U+SS BF2 1 B+2,2 BF2 1 Hold F 1,2 BF2 1 FF 2,1,2",297.45,Medium,,,,,
+Homelander,,Midscreen,F+4,"F+4 U+SS BF2 1 B+2,2 BF2 1 Hold F 1,2 BF2 1 FF 2,1 BF2 2",302.45,Medium,,,Sideswitch,,
+Homelander,,Midscreen,F+4,"F+4 U+SS BF2 1 B+2,2 SS+EX",413.22,Medium,,,"Fatal Blow, Sideswitch",,
+Homelander,,Corner,"1,2","1,2 U+SS 4 BF2 1 F+1 B+2,2 BF2 1 1,2,1+3",307.99,Medium,,,,,
+Homelander,,Corner,"1,2","1,2 U+SS 1 BF2 1 F+4 BDF+4 F+1 B+2,2 BF2 1 1,2,1+3",332.02,Medium,,,,,
+Homelander,,Corner,"1,2","1,2 U+SS 1 BF2 1 F+4 BDF+4 F+1 B+2,2 BF2 1 1,2 BF2 2",336.59,Medium,,,,,
+Homelander,,Corner,"1,2","1,2 U+SS BF2 1 F+4 BDF+4 F+1 B+2,2 SS+EX",436.32,Medium,,,"Fatal Blow, Sideswitch",,
+Homelander,,Corner,"B+1,4","B+1,4 U+SS 4 4 BF2 1 B+2,2 BF2 1 1,2,1+3",314.66,Medium,,,,,
+Homelander,,Corner,"B+1,4","B+1,4 U+SS 4 4 SS+EX",417.77,Medium,,,"Fatal Blow, Sideswitch",,
+Homelander,,Corner,BF2,"BF2 1 4 4 4 BF2 1 2,1,2",256.68,Medium,,,,,
+Homelander,,Corner,BF2,BF2 1 4 4 4 SS+EX,371.14,Medium,,,"Fatal Blow, Sideswitch",,
+Homelander,,Corner,B+3,"B+3 B+2,2 U+SS 1 BF2 1 F+4 BDF+4 F+1 B+2,2 BF2 1 1,2,1+3",397.72,Medium,,,,,
+Homelander,,Corner,B+3,"B+3 B+2,2 U+SS 1 BF2 1 F+4 BDF+4 F+1 B+2,2 BF2 1 1,2 BF2 2",401.61,Medium,,,,,
+Homelander,,Corner,B+3,"B+3 B+2,2 U+SS BF2 1 F+4 BDF+4 F+1 B+2,2 SS+EX",486.38,Medium,,,"Fatal Blow, Sideswitch",,
+Homelander,,Corner,F+4,"F+4 BDF+4 F+1 B+2,2 U+SS 4 BF2 1 4 BF2 1 1,2,1+3",408.72,Medium,,,,,
+Homelander,,Corner,F+4,"F+4 BDF+4 F+1 B+2,2 U+SS 4 BF2 1 4 BF2 1 1,2 BF2 2",413.53,Medium,,,,,
+Homelander,,Corner,F+4,"F+4 BDF+4 F+1 B+2,2 SS+EX",506.30,Medium,,,"Fatal Blow, Sideswitch",,
+Johnny Cage,,Midscreen,"F+1,2,4","F+1,2,4 BF4",176.10,Easy,,,,,
+Johnny Cage,,Midscreen,"F+1,2,4","F+1,2,4 F+1 FF 2,1,2 FF F+1,2 BD1",276.68,Medium,,,,,
+Johnny Cage,,Midscreen,"F+1,2,4","F+1,2,4 F+1 FF 2,1,2 FF 4 BD1",283.73,Hard,,,,,
+Johnny Cage,,Midscreen,"F+1,2,4","F+1,2,4 F+1 FF 2,1,2 FF F+3,2 BF4",290.48,Medium,,,,,
+Johnny Cage,,Midscreen,"2,1,2","2,1,2 U+F+2,4,4 BF4",267.38,Easy,,,,,
+Johnny Cage,,Midscreen,"2,1,2","2,1,2 FF 2,1,2 4 BF4",300.93,Easy,,,,,
+Johnny Cage,,Midscreen,"2,1,2","2,1,2 U+F+2 2,1,2 F+1,2 BD1",316.73,Medium,,,,,
+Johnny Cage,,Midscreen,"2,1,2","2,1,2 U+F+2 2,1,2 FF 4 BD1",325.02,Hard,,,,,
+Johnny Cage,,Midscreen,"2,1,2","2,1,2 U+F+2 2,1,2 F+3,2 BF4",332.95,Medium,,,,,
+Johnny Cage,,Midscreen,B+3,"B+3 FF F+1 FF 2,1,2 FF 4 BD1",258.31,Medium,,,,,
+Johnny Cage,,Midscreen,B+3,"B+3 FF F+1 FF 2,1,2 FF F+3,2 BF4",267.10,Medium,,,,,
+Johnny Cage,,Midscreen,B+3,"B+3 FF F+3 FF 2,1,2 FF F+3,2 BF4",284.10,Hard,,,,,
+Johnny Cage,,Midscreen,"F+3,2","F+3,2 DB3+EX 2 4 BD1",279.51,Easy,1,,,,
+Johnny Cage,,Midscreen,"F+3,2","F+3,2 DB3+EX 2 4 BF4",286.43,Easy,1,,,,
+Johnny Cage,,Midscreen,"F+3,2","F+3,2 DB3+EX 2 U+F+2 2,1,2 FF F+3 BD1",362.58,Medium,1,,,https://www.youtube.com/watch?v=2X7XC5kjr4o,1st jump punch must hit late.
+Johnny Cage,,Midscreen,"F+3,2","F+3,2 DB3+EX 2 U+F+2 2,1,2 FF F+3 BF4",367.63,Medium,1,,,https://www.youtube.com/watch?v=yViRHEAwFbY,1st jump punch must hit late.
+Johnny Cage,,Midscreen,"F+3,2","F+3,2 DB3+EX 2 U+F+2 2,1,2 FF F+1,2 BD1",365.33,Hard,1,,,,1st jump punch must hit late.
+Johnny Cage,,Midscreen,"F+3,2","F+3,2 DB3+EX 2 U+F+2 2,1,2 4 BF4",378.25,Hard,1,,,,1st jump punch must hit late.
+Johnny Cage,,Midscreen,"F+3,2","F+3,2 BD1 BD1 DF3 2,1,4 DB3 2 U+F+2 2,1,2 FF F+3 BD1 BD1",405.09,Hard,,,Restand,,Wowing Out must be activated. 1st jump punch must hit late.
+Johnny Cage,,Midscreen,"F+3,2","F+3,2 BD1 BD1 DF3 2,1,4 DB3 2 U+F+2 2,1,2 FF F+3 BF4 BF4",413.96,Hard,,,,,Wowing Out must be activated. 1st jump punch must hit late.
+Johnny Cage,,Midscreen,"F+3,2","F+3,2 BD1 BD1 DF3 2,1,4 DB3 2 U+F+2 2,1,2 FF F+1,2 BD1 BD1",405.71,Hard,,,Restand,,Wowing Out must be activated. 1st jump punch must hit late.
+Johnny Cage,,Midscreen,"F+3,2","F+3,2 BD1 BD1 DF3 2,1,4 DB3 2 U+F+2 2,1,2 4 BF4 BF4",419.23,Hard,,,,,Wowing Out must be activated. 1st jump punch must hit late.
+Johnny Cage,,Midscreen,"F+3,2","F+3,2 DB3+EX 2 FF 4 SS+EX",514.90,Medium,1,,Fatal Blow,,
+Johnny Cage,,Midscreen,"F+3,4","F+3,4 B+3 FF 2,1,2 FF F+1,2 BD1",304.46,Medium,,,,,
+Johnny Cage,,Midscreen,"F+3,4","F+3,4 B+3 FF 2,1,2 FF 4 BF4",317.26,Medium,,,,,
+Johnny Cage,,Midscreen,"F+3,4","F+3,4 DB3+EX 2 FF 2,1,2 4 BF4",359.71,Medium,1,,,,
+Johnny Cage,,Midscreen,"F+3,4","F+3,4 F+3 DB3+EX 2,4,4 FF F+3,2 BF4",366.06,Hard,1,,,,
+Johnny Cage,,Midscreen,F+4,"F+4 FF F+1 FF 2,1,2 FF F+1,2 BD1",269.12,Medium,,,,,
+Johnny Cage,,Midscreen,F+4,"F+4 FF F+1 FF 2,1,2 FF 4 BF4",284.19,Medium,,,,,
+Johnny Cage,,Midscreen,F+4,"F+4 FF F+1 FF 2,1,2 FF F+3,2 BF4",287.10,Hard,,,,,
+Johnny Cage,,Corner,"F+1,2,4","F+1,2,4 F+3 2,1,2 2,1,4 BD1",309.67,Medium,,,,,
+Johnny Cage,,Corner,"F+1,2,4","F+1,2,4 F+3 2,1,2 2,1,4 BF4",313.74,Medium,,,,,
+Johnny Cage,,Corner,"2,1,2","2,1,2 4 2,1,2 2,1,4 BD1",355.53,Medium,,,,,
+Johnny Cage,,Corner,"2,1,2","2,1,2 4 2,1,2 2,1,4 BF4",360.32,Medium,,,,,
+Johnny Cage,,Corner,"2,1,2","2,1,2 4 F+1,2,4 2,1,4 BF4",360.44,Hard,,,,,
+Johnny Cage,,Corner,"2,1,2","2,1,2 4 2,1,2 4 DB3+EX 3 4 BD1",424.34,Medium,1,,,,
+Johnny Cage,,Corner,"2,1,2","2,1,2 4 2,1,2 4 DB3+EX 3 4 BF4",427.98,Medium,1,,,,
+Johnny Cage,,Corner,B+3,"B+3 4 2,1,2 2,1,4 BD1",309.12,Medium,,,,,
+Johnny Cage,,Corner,B+3,"B+3 4 2,1,2 2,1,4 BF4",314.43,Medium,,,,,
+Johnny Cage,,Corner,B+3,"B+3 4 2,1,2 4 DB3+EX 3 4 BD1",385.36,Medium,1,,,,
+Johnny Cage,,Corner,B+3,"B+3 4 2,1,2 4 DB3+EX 3 4 BF4",389.40,Medium,1,,,,
+Johnny Cage,,Corner,"F+3,2","F+3,2 DB3+EX 2 U+F+2,4,4 2,1,4 BD1",360.29,Medium,1,,,,1st jump punch must hit late.
+Johnny Cage,,Corner,"F+3,2","F+3,2 DB3+EX 2 U+F+2,4,4 2,1,4 BF4",364.58,Medium,1,,,,1st jump punch must hit late.
+Johnny Cage,,Corner,"F+3,2","F+3,2 DB3+EX 2 U+F+2 2,1,2 4 BD1",373.20,Hard,1,,,,1st and 2nd jump punch must hit late.
+Johnny Cage,,Corner,"F+3,2","F+3,2 DB3+EX 2 U+F+2 2,1,2 4 BF4",378.25,Hard,1,,,,1st and 2nd jump punch must hit late.
+Johnny Cage,,Corner,"F+3,2","F+3,2 DB3+EX 2 U+F+2 2,1,2 2,1,4 BD1",387.62,Hard,1,,,,1st and 2nd jump punch must hit late.
+Johnny Cage,,Corner,"F+3,2","F+3,2 DB3+EX 2 U+F+2 2,1,2 2,1,4 BF4",392.17,Hard,1,,,,1st and 2nd jump punch must hit late.
+Johnny Cage,,Corner,"F+3,2","F+3,2 DB3+EX 2 4 SS+EX",514.90,Medium,1,,Fatal Blow,,
+Johnny Cage,,Corner,"F+3,4","F+3,4 B+3 2 2,1,2 2,1,4 BD1",338.66,Medium,,,,,
+Johnny Cage,,Corner,"F+3,4","F+3,4 B+3 2 2,1,2 2,1,4 BF4",342.95,Medium,,,,,
+Johnny Cage,,Corner,"F+3,4","F+3,4 DB3+EX 2 2,1,2 2,1,4 BD1",368.54,Medium,1,,,,
+Johnny Cage,,Corner,"F+3,4","F+3,4 DB3+EX 2 2,1,2 2,1,4 BF4",372.83,Medium,1,,,,
+Johnny Cage,,Corner,"F+3,4","F+3,4 B+3 2,1,4 DB3+EX 3 2,1,4 BF4",377.43,Medium,1,,,,
+Johnny Cage,,Corner,F+4,"F+4 2 2,1,2 2,1,4 BD1",295.12,Medium,,,,,
+Johnny Cage,,Corner,F+4,"F+4 2 2,1,2 2,1,4 BF4",300.43,Medium,,,,,
+Johnny Cage,,Corner,F+4,"F+4 F+3 2,1,2 2,1,4 BD1",312.12,Hard,,,,,
+Johnny Cage,,Corner,F+4,"F+4 F+3 2,1,2 2,1,4 BF4",317.43,Hard,,,,,
+Johnny Cage,,Corner,F+4,"F+4 F+3,4 4 DB3+EX 3 2,1,4 BD1",378.61,Medium,1,,,,
+Johnny Cage,,Corner,F+4,"F+4 F+3,4 4 DB3+EX 3 2,1,4 BF4",382.64,Medium,1,,,,
+Kenshi,,Midscreen,"1,4,1","1,4,1 BF3 U+F+1,2,2",220.56,Easy,,,,,
+Kenshi,,Midscreen,"B+1,2","DB1 Hold KAMEO B+1,2 4 Release KAMEO 1 F+4 2  F+4",353.58,Medium,,,,,Requires Sento Stance. Spirit must be behind enemy.
+Kenshi,,Midscreen,B+2,"DB1 Hold KAMEO B+2 Release KAMEO 1 4,2 2 F+4",311.30,Medium,,,,,Requires Sento Stance. Spirit must be behind enemy.
+Kenshi,,Midscreen,B+2,"DB1 Hold KAMEO B+2 Release KAMEO 1 Hold KAMEO 4,2 DB3 Release KAMEO 2 F+4",332.50,Hard,,,,,Requires Sento Stance. Spirit must be behind enemy.
+Kenshi,,Midscreen,B+2,"DB1 Hold KAMEO B+2 Release KAMEO 1 F+2,2 2 4 DB4",345.72,Medium,,,,,Requires Sento Stance. Spirit must be behind enemy.
+Kenshi,,Midscreen,"F+2,2","F+2,2 BF3 FF 4 BF2",241.45,Easy,,,,https://www.youtube.com/watch?v=JGdsOAjOexI,
+Kenshi,,Midscreen,"F+2,2","F+2,2 DB2,B+EX FF 4 BF3 FF 4 BF3",306.01,Hard,1,,,,
+Kitana,,Midscreen,1,"1 DB1 U+F+2 U+F+1,1,2",254.43,Medium,,,,,Jump punch must hit late.
+Kitana,,Midscreen,1,"1 DB1 BF1+EX U+F+3 U+F+1,1,2",312.02,Medium,1,,,,Jump kick must hit late.
+Kitana,,Midscreen,"F+1,2","F+1,2 DB1 U+F+2 U+F+1,1,2",300.20,Medium,,,,,Jump punch must hit late.
+Kitana,,Midscreen,"F+1,2","F+1,2 DB1 BF1+EX U+F+3 U+F+1,1,2",354.92,Medium,1,,,,Jump kick must hit late.
+Kitana,,Midscreen,"2,4,1,2","2,4,1,2 DB1 U+F+2 U+F+1,1,2",313.69,Medium,,,,https://www.youtube.com/watch?v=v2dbj8IjwMo,
+Kitana,,Midscreen,"2,4,1,2","2,4,1,2 DB1 BF1+EX U+F+3 U+F+1,1,2",357.25,Medium,1,,,,
+Kitana,,Midscreen,"B+2,4","B+2,4 DB1 U+F+1,1,2",295.73,Easy,,,,,
+Kitana,,Midscreen,"B+2,4","B+2,4 DB1,B FF U+F+3 U+F+1,1,2",322.55,Medium,,,,,Jump kick must hit late.
+Kitana,,Midscreen,"B+3,4","B+3,4 DB1,B U+F+2 U+F+1,1,2",296.76,Medium,,,,,Jump punch must hit late.
+Kitana,,Midscreen,"4,F+3,3","4,F+3,3 DB1 U+F+2 U+F+1,1,2",305.19,Medium,,,,,Jump punch must hit late.
+Kung Lao,,Midscreen,"2,1,2","2,1,2 DB4+EX 2 FF B+2,4 FF 1,2,1 DB2",384.80,Medium,1,,Sideswitch,,
+Kung Lao,,Midscreen,"2,1,2","2,1,2 DB4+EX 2 FF B+2,4 FF 2,1,2 DB2",385.06,Hard,1,,Sideswitch,,
+Kung Lao,,Midscreen,"2,1,2","2,1,2 DB4+EX 2 FF B+2,4 FF 1,2,1 BF2",387.24,Medium,1,,,,
+Kung Lao,,Midscreen,"B+2,4","B+2,4 4 BF2",258.18,Easy,,,,,
+Kung Lao,,Midscreen,"B+2,4","B+2,4 B+2,4 1,2,1 BF2",339.53,Easy,,,,,
+Kung Lao,,Midscreen,"B+2,4","B+2,4 4 FF B+2,4 FF 1,2,1 DB2",382.06,Medium,,,Sideswitch,,
+Kung Lao,,Midscreen,"B+2,4","B+2,4 4 FF B+2,4 FF 1,2,1 BF2",384.91,Medium,,,,https://www.youtube.com/watch?v=ozdQURrOEfI,
+Kung Lao,,Midscreen,F+2,"F+2 DB4+EX 2 FF B+2,4 FF 2 BF2",298.45,Medium,1,,,,Jump punch must hit late.
+Kung Lao,,Midscreen,F+4,"F+4 B+2,4 FF 2,1,2 DB2",321.94,Medium,,,Sideswitch,,
+Kung Lao,,Midscreen,F+4,"F+4 B+2,4 FF 2,1,2 BF2",325.47,Medium,,,,,
+Kung Lao,,Midscreen,(Air) DB4+EX,"(Air) DB4+EX 4 FF B+2,4 FF 1,2,1 DB2",369.53,Medium,1,,Sideswitch,,
+Kung Lao,,Midscreen,(Air) DB4+EX,"(Air) DB4+EX 4 FF B+2,4 FF 1,2,1 BF2",372.53,Medium,1,,,,
+Kung Lao,,Corner,"2,1,2","2,1,2 DB4+EX 2 4 B+2,4 1,2,1 BF2",424.10,Medium,1,,,,
+Kung Lao,,Corner,"B+2,4","B+2,4 4 B+2,4 1,2,1 BF2",384.91,Medium,,,,,
+Kung Lao,,Corner,"B+2,4","B+2,4 4 B+2,4 B+2,4 1,2,1 BF2",433.49,Hard,,,,,
+Kung Lao,,Corner,F+2,"F+2 DB4+EX 2 B+2,4 1,2,1 BF2",331.18,Medium,1,,,,
+Kung Lao,,Corner,F+2,"F+2 BF1 B+2,4 1,2,1 BF2",297.32,Medium,,,,,
+Kung Lao,,Corner,F+2,"F+2 BF1 B+2,4 B+2,4 1,2,1 BF2",340.38,Hard,,,,,
+Kung Lao,,Corner,F+4,"F+4 B+2,4 B+2,4 1,2,1 BF2",378.60,Medium,,,,,
+Kung Lao,,Corner,(Air) DB4+EX,"(Air) DB4+EX 4 B+2,4 1,2,1 BF2",372.53,Medium,1,,,,
+Kung Lao,,Corner,(Air) DB4+EX,"(Air) DB4+EX 4 B+2,4 B+2,4 1,2,1 BF2",423.67,Hard,1,,,,
+Li Mei,,Midscreen,"1,2,4","DB2 1,2,4 FF 4,3,1,2 DB3",318.87,Medium,,,,,
+Li Mei,,Midscreen,"1,2,4","DB2 1,2,4 U+F+1,3,4 DB4",348.08,Medium,,,,,Sky Lantern must be behind opponent.
+Li Mei,,Midscreen,"1,2,4","DB2 1,2,4 FF 2,1 BF1+EX U+F+1,3,4 DB4",417.02,Medium,1,,,,Sky Lantern must be behind opponent.
+Li Mei,,Midscreen,"1,2,4","1,2,4 BF1+EX U+F+1,3,4 DB4",348.08,Medium,1,,,,
+Li Mei,,Midscreen,B+2,"B+2 BF1+EX U+F+1,3,4 DB4",319.23,Medium,1,,,,
+Li Mei,,Midscreen,B+2,"B+2 BF1+EX DB2 U+F+1,3,4 DB4",364.34,Hard,1,,,,Double Palm must hit at maximum range.
+Li Mei,,Midscreen,"B+2,4","B+2,4 B+2,4 U+F+1,3 DB4",291.14,Medium,,,,,
+Li Mei,,Midscreen,"B+2,4","B+2,4 FF 3 DB2 U+F+1,3,4 DB4",323.76,Hard,,,,,
+Li Mei,,Midscreen,"B+2,4","B+2,4 U+2,1,2 BF1+EX U+F+1,3 DB4",366.46,Medium,1,,,,
+Li Mei,,Midscreen,"B+2,4","B+2,4 FF 3 DB2 U+2,1,2 BF1+EX U+F+1,3 DB4",387.23,Hard,1,,,,
+Li Mei,,Midscreen,"4,3,1,2","4,3,1,2 BF1+EX U+F+1,3,4 DB4",348.55,Medium,1,,,,
+Li Mei,,Midscreen,"4,3,4","DB2 4,3,4 U+F+1,3,4 DB4",333.50,Medium,,,,,
+Li Mei,,Midscreen,"B+3,4","DB2 B+3,4 DB2 U+F+2 U+F+1,3,4 DB4",432.89,Medium,,,,,Sky Lantern must be behind opponent.
+Li Mei,,Midscreen,"F+4,3","F+4,3 U+F+1,3,4 DB4",281.23,Easy,,,,,
+Li Mei,,Midscreen,"F+4,3","F+4,3 B+3 U+F+1,3,4 DB4",312.42,Medium,,,,https://www.youtube.com/watch?v=DTolwQb9Neo,
+Li Mei,,Midscreen,"F+4,3","F+4,3 U+F+1,3,4 BF1+EX 2,1 BF4",370.77,Medium,1,,,,
+Li Mei,,Corner,"1,2,4","1,2,4 BF1 D+1 BF4",268.18,Hard,,,,,
+Li Mei,,Corner,"1,2,4","1,2,4 BF1+EX U+B+1,3,4 DB4",348.08,Medium,1,,,,
+Li Mei,,Corner,"1,2,4","DB2 1,2,4 DB2 U+3 U+1,3,4 DB4",404.39,Medium,,,,,Sky Lantern must be behind opponent.
+Li Mei,,Corner,"1,2,4","DB2 1,2,4 DB2 U+3 4 BF1+EX U+B+1,3,4 DB4",447.59,Medium,1,,,,Sky Lantern must be behind opponent.
+Li Mei,,Corner,B+2,"B+2 BF1+EX U+B+1,3,4 DB4",319.23,Medium,1,,,,
+Li Mei,,Corner,"B+2,4","B+2,4 4 DB2 DB2 U+1,3,4 DB4",376.09,Medium,,,,,
+Li Mei,,Corner,"B+2,4","B+2,4 4 DB2 DB2 U+1,3,4 BF1+EX U+1,3 DB4",434.18,Medium,1,,,,
+Li Mei,,Corner,"4,3,1,2","4,3,1,2 BF1+EX U+B+1,3,4 DB4",348.55,Medium,1,,,,
+Li Mei,,Corner,"4,3,4","DB2 4,3,4 4 DB2 U+1,3,4 DB4",386.26,Medium,,,,,Sky Lantern must be behind opponent.
+Li Mei,,Corner,"F+4,3","F+4,3 4 DB2 DB2 U+1,3,4 DB4",391.71,Medium,,,,,
+Li Mei,,Corner,"F+4,3","F+4,3 4 DB2 DB2 U+1,3,4 BF1+EX U+1,3 DB4",457.53,Medium,1,,,,
+Liu Kang,,Midscreen,"B+2,3","B+2,3 4 BF3",234.39,Easy,,,,,
+Liu Kang,,Midscreen,"B+2,3","B+2,3 U+F+1,3,4 BF1",308.55,Easy,,,,,
+Liu Kang,,Midscreen,"B+2,3","B+2,3 B+2,3 FF 3,3,3 DB4",342.71,Medium,,,,,
+Liu Kang,,Midscreen,"B+2,3","B+2,3 B+2,3 FF 3,3,3 BF3",348.30,Medium,,,,,
+Liu Kang,,Midscreen,"B+2,3","B+2,3 F B+2,3 U+F+1,3,4 BF1",357.18,Hard,,,,,
+Liu Kang,,Midscreen,"B+2,3","B+2,3 B+2,3 FF 3,3,3 BF3+EX BF3",387.43,Medium,1,,,,
+Liu Kang,,Midscreen,"B+2,3","B+2,3 F B+2,3 FF 3,3 BF3+EX FF 3,3 BF3",402.01,Hard,1,,,,
+Liu Kang,,Midscreen,"F+4,3","F+4,3 BF3+EX FF B+2,3 FF 3,3,3 DB4",360.92,Medium,1,,,,
+Liu Kang,,Midscreen,"F+4,3","F+4,3 BF3+EX FF B+2,3 FF 3,3,3 BF3",365.37,Medium,1,,,https://www.youtube.com/watch?v=StQmOE59M2Q,
+Liu Kang,,Midscreen,"F+4,3","F+4,3 BF3+EX FF B+2,3 FF 3,3 BF3+EX FF 4 BF3",399.82,Medium,2,,,,
+Liu Kang,Kung Lao,Midscreen,THROW,"THROW KAMEO B+2,3 FF 3,3 DB4",202.65,Easy,,1,,,
+Liu Kang,Kung Lao,Midscreen,THROW,"THROW KAMEO B+2,3 FF 3,3,3 BF3",220.00,Easy,,1,,,
+Liu Kang,Kung Lao,Midscreen,THROW,"THROW KAMEO B+2,3 FF 3,3 BF3+EX FF 4 BF3",242.76,Medium,1,1,,,
+Liu Kang,,Corner,"B+2,3","B+2,3 3 B+2,3 3,3,3 BF3",377.08,Medium,,,,,
+Liu Kang,,Corner,"B+2,3","B+2,3 3 B+2,3 3,3,3 BF4",382.39,Hard,,,,,
+Liu Kang,,Corner,"F+4,3","F+4,3 BF3+EX B+2,3 1 3,3,3 BF3",370.28,Medium,1,,,,
+Liu Kang,,Corner,"F+4,3","F+4,3 BF3+EX B+2,3 1 3,3,3 BF4",374.51,Hard,1,,,,
+Mileena,,Midscreen,"1,2","1,2 BD4 U+F+1,2,2 DB2",276.58,Easy,,,,,
+Mileena,,Midscreen,"1,2","1,2 BD4 U+F+2,2 DB4 FF F+4",320.09,Medium,,,Sideswitch,,
+Mileena,,Midscreen,"1,2","1,2 BD4 FF U+F+2,2 DB4 FF U+F+1,2,2 DB2",344.56,Hard,,,Sideswitch,,
+Mileena,,Midscreen,"1,2","1,2 DF2+EX 1,2,2 FF 2,1 BD4 U+F+2,2 DB4 FF F+4",412.10,Medium,1,,,https://www.youtube.com/watch?v=Q8Kth28lmek,
+Mileena,,Midscreen,"1,2","1,2 DF2+EX 2,2 1,2 BD4 U+F+2,2 DB4 FF F+4",426.86,Hard,1,,,https://www.youtube.com/watch?v=_tPJBnY65zA,Jump punch must hit late.
+Mileena,,Midscreen,"F+1,4,4","F+1,4,4 BD4 U+F+2,2 DB4 FF F+4",312.04,Medium,,,Sideswitch,,
+Mileena,,Midscreen,"F+1,4,4","F+1,4,4 BD4 FF U+F+2,2 DB4 FF U+F+1,2,2 DB2",336.51,Hard,,,Sideswitch,,
+Mileena,,Midscreen,BF1+EX,"BF1+EX BD4 U+F+2,2 DB4 FF F+4",339.79,Medium,2,,Sideswitch,,
+Mileena,,Midscreen,BF1+EX,"BF1+EX BD4 FF U+F+2,2 DB4 FF U+F+1,2,2 DB2",362.84,Hard,2,,Sideswitch,,
+Mileena,,Midscreen,(Air) DB4,"(Air) DB4 BD4 U+F+1,2,2 BD4",208.22,Medium,,,,,
+Mileena,,Corner,"1,2","1,2 BD4 U+F+2,2 DB4 U+F+1,2,2 DB2",343.24,Medium,,,,,
+Mileena,,Corner,"1,2","1,2 DF2+EX 1,2,2 2,1 BD4 U+F+2,2 DB4 U+F+1,2,2 DB2",425.01,Medium,1,,,,
+Mileena,,Corner,"1,2","1,2 DF2+EX 2,2 1,2 BD4 U+F+2,2 DB4 U+F+1,2,2 DB2",441.29,Hard,1,,,,Jump punch must hit late.
+Mileena,,Corner,"F+1,4,4","F+1,4,4 BD4 U+F+2,2 DB4 U+F+1,2,2 DB2",335.19,Medium,,,,,
+Mileena,,Corner,BF1+EX,"BF1+EX FF 2,1 BD4 U+F+2,2 DB4 U+F+1,2,2 DB2",401.25,Medium,2,,,,
+Mileena,,Corner,(Air) DB4,"(Air) DB4 BD4 U+F+1,2,2 DB2",208.22,Medium,,,,,
+Nitara,,Midscreen,"1,2,1,2","(Air) F+SS 2 1,2,1,2 3 DB4 2,2,1 BF2",284.38,Medium,,,,,
+Nitara,,Midscreen,"1,2,1,2","1,2,1,2 U+F+2,4,2 BF2",292.69,Easy,,,,,
+Nitara,,Midscreen,"1,2,1,2","1,2,1,2 U+F+1,2,4 D+F+SS 2,4,2 BF2",345.49,Medium,,,,https://www.youtube.com/watch?v=qt9-TLEb9W0,
+Nitara,,Midscreen,"2,2,1","2,2,1 DB4 2,2,1 BF2",275.54,Medium,,,,,
+Noob Saibot,,Midscreen,"1,2,1","1,2,1 BF3 2,1 DU",224.26,Easy,,,Sideswitch,,
+Noob Saibot,,Midscreen,"1,2,1","1,2,1 BF3 2,1 DU+EX U+F+2,3,4 B+4",327.56,Medium,1,,Sideswitch,,
+Noob Saibot,,Midscreen,"1,2,1","1,2,1 BF3+EX U+F+2,3,4 U+F+1,2,4,4 DU",342.80,Medium,1,,,,
+Noob Saibot,,Midscreen,"1,2,1","1,2,1 BF3+EX U+F+2,3,4 4 DU+EX U+F+2,3,4 B+4",379.18,Medium,2,,,,
+Noob Saibot,,Midscreen,"1,2,1","1,2,1 BF3+EX U+F+2,3,4 U+F+1,2,4,4 DU+EX U+F+1,2,4,4 DU",387.53,Medium,2,,Sideswitch,,
+Noob Saibot,,Midscreen,"1,2,1","1,2,1 BF3+EX U+F+2,3,4 4 DU+EX U+F+1,2,4,4 DU+EX U+F+2,3,4 DU",407.85,Medium,3,,,,
+Noob Saibot,,Midscreen,"1,2,1","1,2,1 BF3+EX U+F+2,3,4 SS+EX",433.36,Medium,1,,"Fatal Blow, Sideswitch",,
+Noob Saibot,,Midscreen,"1,2,1","1,2,1 BF3 U+F+2,3,4 4,4 DB4 B+4",364.20,Medium,,,,,Requires Embrace Khaos
+Noob Saibot,,Midscreen,"1,2,1","1,2,1 BF3 2,1 DF1 U+F+2,3,4 B+4",327.82,Medium,,,,,Requires Ghost Ball
+Noob Saibot,,Midscreen,"2,1,2","2,1,2 BF3 2,1 DU",233.26,Easy,,,Sideswitch,,
+Noob Saibot,,Midscreen,"2,1,2","2,1,2 BF3 2,1 DU+EX U+F+2,3,4 B+4",336.56,Medium,1,,Sideswitch,,
+Noob Saibot,,Midscreen,"2,1,2","2,1,2 BF3+EX U+F+2,3,4 U+F+1,2,4,4 DU",351.80,Medium,1,,,,
+Noob Saibot,,Midscreen,"2,1,2","2,1,2 BF3+EX U+F+2,3,4 4 DU+EX U+F+2,3,4 B+4",388.18,Medium,2,,,,
+Noob Saibot,,Midscreen,"2,1,2","2,1,2 BF3+EX U+F+2,3,4 U+F+1,2,4,4 DU+EX U+F+1,2,4,4 DU",396.53,Medium,2,,Sideswitch,,
+Noob Saibot,,Midscreen,"2,1,2","2,1,2 BF3+EX U+F+2,3,4 4 DU+EX U+F+1,2,4,4 DU+EX U+F+2,3,4 DU",416.85,Medium,3,,,,
+Noob Saibot,,Midscreen,"2,1,2","2,1,2 BF3+EX U+F+2,3,4 SS+EX",442.36,Medium,1,,"Fatal Blow, Sideswitch",,
+Noob Saibot,,Midscreen,"2,1,2","2,1,2 BF3 U+F+2,3,4 4,4 DB4 B+4",373.20,Medium,,,,,Requires Embrace Khaos
+Noob Saibot,,Midscreen,"2,1,2","2,1,2 BF3 2,1 DF1 U+F+2,3,4 B+4",336.82,Medium,,,,,Requires Ghost Ball
+Noob Saibot,,Midscreen,BF2,"BF2 U+F+2,3,4 4,4 DB4 B+4",329.66,Medium,,,,,Requires Embrace Khaos
+Noob Saibot,,Midscreen,"B+3,3","B+3,3 BF3 D+1 DU",192.94,Medium,,,Sideswitch,,Must be at max range.
+Noob Saibot,,Midscreen,"B+3,3","B+3,3 DU+EX U+F+2,3,4 U+F+1,2,4,4 DU",340.23,Medium,1,,,,Shadow Klone unavailable
+Noob Saibot,,Midscreen,"B+3,3","B+3,3 DU+EX U+F+2,3,4 U+F+1,2,4,4 DU+EX U+F+1,2,4,4 DU",387.32,Medium,2,,Sideswitch,,Shadow Klone unavailable
+Noob Saibot,,Midscreen,"B+3,3","B+3,3 DU+EX U+F+2,3,4 U+F+1,2,4,4 DU+EX U+F+1,2,4,4 DU+EX U+F+1,2,4,4 DU",410.59,Medium,3,,,,Shadow Klone unavailable
+Noob Saibot,,Midscreen,"B+3,3","B+3,3 BF3+EX U+F+2,3,4 U+F+1,2,4,4 DU",349.26,Medium,1,,,,
+Noob Saibot,,Midscreen,"B+3,3","B+3,3 BF3+EX U+F+2,3,4 4 DU+EX U+F+2,3,4 B+4",387.56,Medium,1,,,,
+Noob Saibot,,Midscreen,"B+3,3","B+3,3 BF3+EX U+F+2,3,4 U+F+1,2,4,4 DU+EX U+F+1,2,4,4 DU",396.34,Medium,2,,Sideswitch,,
+Noob Saibot,,Midscreen,"B+3,3","B+3,3 BF3+EX U+F+2,3,4 4 DU+EX U+F+1,2,4,4 DU+EX U+F+2,3,4 DU",417.74,Medium,3,,,,
+Noob Saibot,,Midscreen,"B+3,3","B+3,3 BF3+EX U+F+2,3,4 SS+EX",444.59,Medium,1,,"Fatal Blow, Sideswitch",,
+Noob Saibot,,Midscreen,"B+3,3","B+3,3 BF3 U+F+2,3,4 4,4 DB4 B+4",371.79,Medium,,,,,Requires Embrace Khaos
+Noob Saibot,,Midscreen,"B+3,3","B+3,3 DF1 U+2,3,4 U+F+1,2,4,4 DU",343.06,Medium,,,Sideswitch,,Requires Ghost Ball
+Noob Saibot,,Midscreen,"B+3,3","B+3,3 DF1 U+2,3,4 U+F+1,2,4,4 DU+EX U+F+1,2,4,4 DU",393.08,Medium,1,,,,Requires Ghost Ball
+Noob Saibot,,Corner,"1,2,1","1,2,1 DB3 4 DB3 U+2,3,4 B+4",319.14,Medium,,,,,
+Noob Saibot,,Corner,"1,2,1","1,2,1 DB3 4,4 SS+EX",455.22,Easy,,,Fatal Blow,,
+Noob Saibot,,Corner,"1,2,1","1,2,1 DB3 4 4,4 DB3+EX SS+EX",478.78,Medium,1,,Fatal Blow,,
+Noob Saibot,,Corner,"1,2,1","1,2,1 DB3 4,4 DF1 U+2,3,4 B+4",356.97,Medium,,,,,Requires Ghost Ball
+Noob Saibot,,Corner,"2,1,2","2,1,2 DB3 4 DB3 U+2,3,4 B+4",328.14,Medium,,,,,
+Noob Saibot,,Corner,"2,1,2","2,1,2 DB3 4,4 SS+EX",464.22,Easy,,,Fatal Blow,,
+Noob Saibot,,Corner,"2,1,2","2,1,2 DB3 4 4,4 DB3+EX SS+EX",487.78,Medium,1,,Fatal Blow,,
+Noob Saibot,,Corner,"2,1,2","2,1,2 DB3 4,4 DF1 U+2,3,4 B+4",365.97,Medium,,,,,Requires Ghost Ball
+Omni-Man,,Midscreen,"1,2","1,2 DB3 1 U+F+2,1,2 F+SS 1,2,1+3",319.87,Medium,,,,https://www.youtube.com/watch?v=XLfgwYqXeQc,
+Omni-Man,,Midscreen,"1,2","1,2 DB3 1 U+F+2,1,2 F+SS 1,2 B+4",329.29,Hard,,,,https://www.youtube.com/watch?v=QdSy-EQmDI8,
+Omni-Man,,Midscreen,"1,2","1,2 DB3 1 U+F+2,1,2 F+SS 2 U+F+1,2,1+3",333.19,Medium,,,Sideswitch,https://www.youtube.com/watch?v=Pa-t_QrLIOA,2nd jump punch must hit late.
+Omni-Man,,Midscreen,"1,2","1,2 DB3 1 U+F+1 3 BF4 B+4",344.80,Hard,,,Sideswitch,https://www.youtube.com/watch?v=nxgPidDQAGw,Jump punch must hit late.
+Omni-Man,,Midscreen,"1,2","1,2 DB3 1 FF 3 SS+EX",447.04,Easy,,,"Sideswitch, Fatal Blow",https://www.youtube.com/watch?v=vcY6hxqu06M,
+Omni-Man,,Midscreen,"B+1,1","B+1,1 U+F+1,2,1+3",236.70,Easy,,,,https://www.youtube.com/watch?v=p-xfBCFcl0A,
+Omni-Man,,Midscreen,"B+1,1","B+1,1 F+4 2,2 DB3 1 U+F+2,1,2 F+SS 1,2,1+3",370.93,Medium,,,,https://www.youtube.com/watch?v=QzTjleUdHNY,
+Omni-Man,,Midscreen,"B+1,1","B+1,1 F+4 2,2 DB3 1 U+F+1,2 F+SS 1,2,1+3",371.48,Medium,,,Sideswitch,https://www.youtube.com/watch?v=o2MFC-RPzF4,
+Omni-Man,,Midscreen,"B+1,1","B+1,1 1,2 3 BF4 F+3 DB3 1 U+F+2,1,2 F+SS 1,2,1+3",425.95,Hard,,,,https://www.youtube.com/watch?v=2TNQmyjbyNk,3rd hit must miss.
+Omni-Man,,Midscreen,"B+1,1","B+1,1 1,2 3 BF4 F+3 DB3 1 U+F+1,2 F+SS 1,2,1+3",426.35,Hard,,,Sideswitch,https://www.youtube.com/watch?v=ewxflCEdc4s,3rd hit must miss.
+Omni-Man,,Midscreen,"B+1,1","B+1,1 F+4 2,2 DB3 1 SS+EX",452.15,Medium,,,"Sideswitch, Fatal Blow",https://www.youtube.com/watch?v=6ex9zY6JFbA,
+Omni-Man,,Midscreen,"B+1,1","B+1,1 FF 3 DB3 1 FF 3 SS+EX",456.64,Hard,,,"Sideswitch, Fatal Blow",https://www.youtube.com/watch?v=6MPqGuOTz10,
+Omni-Man,,Midscreen,(Air) BF4,"(Air) BF4 3 DB3 1 U+F+2,1,2 F+SS 1,2,1+3",345.31,Medium,,,,https://www.youtube.com/watch?v=GoNLP4odZWY,2nd jump punch must hit late.
+Omni-Man,,Midscreen,(Air) BF4,"(Air) BF4 3 DB3 1 U+F+1,2 F+SS 1,2,1+3",345.95,Medium,,,Sideswitch,https://www.youtube.com/watch?v=9nVc7jbL-Lc,
+Omni-Man,,Midscreen,(Air) BF4,"(Air) BF4 3 BF4 F+3 DB3 1 U+F+2,1,2 F+SS 1,2,1+3",419.25,Hard,,,,https://www.youtube.com/watch?v=xBCQ7QdEhwk,
+Omni-Man,,Midscreen,(Air) BF4,"(Air) BF4 3 BF4 F+3 DB3 1 U+F+1,2 F+SS 1,2,1+3",419.70,Hard,,,Sideswitch,https://www.youtube.com/watch?v=zo2u37hIKJw,
+Omni-Man,,Midscreen,(Air) BF4,(Air) BF4 3 DB3 1 SS+EX,440.04,Medium,,,"Sideswitch, Fatal Blow",https://www.youtube.com/watch?v=EhbkVyNdk4E,
+Omni-Man,,Midscreen,(Air) BF4,(Air) BF4 3 DB3 1 FF 3 SS+EX,459.09,Hard,,,"Sideswitch, Fatal Blow",https://www.youtube.com/watch?v=yJ_kwOsAz48,
+Omni-Man,,Midscreen,"F+4,1","F+4,1 1,2 DB3 1 U+F+2,1,2 F+SS 1,2,1+3",336.80,Medium,,,,https://www.youtube.com/watch?v=Pl4YaUas8NY,2nd jump punch must hit late.
+Omni-Man,,Midscreen,"F+4,1","F+4,1 1,2 DB3 1 U+F+1,2 F+SS 1,2,1+3",337.38,Medium,,,Sideswitch,https://www.youtube.com/watch?v=O3VmWQnb8Zs,
+Omni-Man,,Midscreen,"F+4,1","F+4,1 D+1 BF4 F+3 DB3 1 U+F+2,1,2 F+SS 1,2,1+3",395.56,Hard,,,,https://www.youtube.com/watch?v=QMCgpSEBzxk,3rd hit must hit late.
+Omni-Man,,Midscreen,"F+4,1","F+4,1 D+1 BF4 F+3 DB3 1 U+F+1,2 F+SS 1,2,1+3",395.99,Hard,,,Sideswitch,https://www.youtube.com/watch?v=nocKxwV3dsQ,3rd hit must hit late.
+Omni-Man,,Midscreen,"F+4,1","F+4,1 DB3 1 FF 3 SS+EX",435.09,Medium,,,"Sideswitch, Fatal Blow",https://www.youtube.com/watch?v=wwDv7oQMI0M,
+Omni-Man,,Corner,"1,2","1,2 DB3 1 U+F+2,1,2 F+SS 1,2,1+3",319.87,Medium,,,,,
+Omni-Man,,Corner,"1,2","1,2 DB3 1 U+F+2,1,2 F+SS 1,2 B+4",329.29,Hard,,,,,
+Omni-Man,,Corner,"1,2","1,2 DB3 1 FF 3 SS+EX",447.04,Easy,,,"Sideswitch, Fatal Blow",,
+Omni-Man,,Corner,"B+1,1","B+1,1 U+F+1,2,1+3",236.70,Easy,,,,,
+Omni-Man,,Corner,"B+1,1","B+1,1 U+F+1,2 3 DB3 1 U+F+2,1,2 F+SS 1,2,1+3",370.93,Medium,,,,,
+Omni-Man,,Corner,"B+1,1","B+1,1 U+F+1,2 3 DB3 1 U+F+1,2 F+SS 1,2,1+3",384.32,Medium,,,Sideswitch,,
+Omni-Man,,Corner,"B+1,1","B+1,1 F+4 2,2 DB3 1 SS+EX",452.15,Medium,,,"Sideswitch, Fatal Blow",,
+Omni-Man,,Corner,"B+1,1","B+1,1 FF 3 DB3 1 FF 3 SS+EX",456.64,Hard,,,"Sideswitch, Fatal Blow",,
+Omni-Man,,Corner,(Air) BF4,"(Air) BF4 3 DB3 1 U+F+2,1,2 F+SS 1,2,1+3",345.31,Medium,,,,,2nd jump punch must hit late.
+Omni-Man,,Corner,(Air) BF4,(Air) BF4 3 DB3 1 SS+EX,440.04,Medium,,,"Sideswitch, Fatal Blow",,
+Omni-Man,,Corner,(Air) BF4,(Air) BF4 3 DB3 1 FF 3 SS+EX,459.09,Hard,,,"Sideswitch, Fatal Blow",,
+Omni-Man,,Corner,"F+4,1","F+4,1 1,2 DB3 1 U+F+2,1,2 F+SS 1,2,1+3",336.80,Medium,,,,,2nd jump punch must hit late.
+Omni-Man,,Corner,"F+4,1","F+4,1 DB3 1 FF 3 SS+EX",435.09,Medium,,,"Sideswitch, Fatal Blow",,
+Peacemaker,,Midscreen,"1,2","1,2 BF3 FF F+4,1,2 BF2",259.81,Medium,,,,,
+Peacemaker,,Midscreen,"1,2","1,2 BF3 FF F+4,1,2 DF4 B+2 BF2",306.98,Medium,,,Sideswitch,,
+Peacemaker,,Midscreen,"1,2","1,2 BF3+EX U+F+2,1,2 2,2,1+3",277.34,Medium,1,,Restand,,
+Peacemaker,,Midscreen,"1,2","1,2 BF3+EX U+F+2,1,2 2,2 BF3 BF2",308.54,Medium,1,,,,
+Peacemaker,,Midscreen,"1,2","1,2 BF3 FF F+4,1,2 SS+EX",437.04,Medium,,,Fatal Blow,,
+Peacemaker,,Midscreen,"1,2","1,2 BF3+EX U+F+2,1,2 2,2 SS+EX",438.35,Medium,1,,Fatal Blow,,
+Peacemaker,,Midscreen,"2,2,1+3","2,2,1+3 DB4 BF2",231.18,Medium,,,,,
+Peacemaker,,Midscreen,"2,2,1+3","2,2,1+3 BF1+EX DF4 2,2 BF3 FF F+4 BF2",300.78,Medium,1,,,,
+Peacemaker,,Midscreen,"2,2,1+3","2,2,1+3 SS+EX",386.40,Easy,,,Fatal Blow,,
+Peacemaker,,Midscreen,"2,2,1+3","2,2,1+3 BF1+EX DF4 2,2 SS+EX",366.37,Medium,1,,Fatal Blow,,
+Peacemaker,,Midscreen,"B+2,4","B+2,4 DB1 FF F+4,1,2 BF3 BF2",287.01,Medium,,,,,
+Peacemaker,,Midscreen,"B+2,4","B+2,4 DB1 FF 2,2,1+3 BF3+EX U+F+2,1,2 3 BF2",324.46,Medium,1,,,,
+Peacemaker,,Midscreen,"B+2,4","B+2,4 DB1 FF 2,2,1+3 BF3+EX U+F+2,1,2 4 BF2",330.16,Medium,1,,,,Jump punch must hit late.
+Peacemaker,,Midscreen,"B+2,4","B+2,4 DB1 FF 2,2 SS+EX",431.46,Medium,,,Fatal Blow,,
+Peacemaker,,Midscreen,"F+4,1","F+4,1 BF3 FF F+4,1,2 BF2",289.81,Medium,,,,,
+Peacemaker,,Midscreen,"F+4,1","F+4,1 BF3 FF B+2,4 DB1 FF B+2,4 BF2",325.80,Medium,,,,,Does not work from max distance.
+Peacemaker,,Midscreen,"F+4,1","F+4,1 BF3 FF 2,2 DF4 2,2,1+3",309.42,Hard,,,"Restand, Sideswitch",,Does not work from max distance.
+Peacemaker,,Midscreen,"F+4,1","F+4,1 BF3+EX U+F+2,1,2 2,2,1+3",307.34,Medium,1,,Restand,,
+Peacemaker,,Midscreen,"F+4,1","F+4,1 BF3+EX U+F+2,1,2 2,2 BF3 BF2",338.54,Medium,1,,,,
+Peacemaker,,Midscreen,"F+4,1","F+4,1 BF3 FF 2,2,1+3 BF3+EX U+F+2,1,2 3 BF2",359.39,Medium,1,,,,Does not work from max distance.
+Peacemaker,,Midscreen,"F+4,1","F+4,1 BF3 FF 2,2,1+3 BF3+EX U+F+2,1,2 4 BF2",364.76,Medium,1,,,,Does not work from max distance. Jump punch must hit late.
+Peacemaker,,Midscreen,"F+4,1","F+4,1 BF3 FF 2,2 DF4 2,2,1+3 BF3+EX U+F+2,1,2 1 BF2",386.87,Hard,1,,Sideswitch,,Does not work from max distance.
+Peacemaker,,Midscreen,"F+4,1","F+4,1 BF3 FF F+4 SS+EX",468.02,Medium,,,Fatal Blow,,
+Peacemaker,,Midscreen,"F+4,1","F+4,1 BF3 FF B+2,4 SS+EX",474.54,Medium,,,Fatal Blow,,Does not work from max distance.
+Peacemaker,,Midscreen,"F+4,1,2","F+4,1,2 DF4 FF 1 DB1 B+2 DB1 2,2 BF3 BF2",351.40,Hard,,,,,Does not work from max distance. Silent And Deadly must be reversed.
+Peacemaker,,Corner,"1,2","1,2 DB4 FF 2 DB1 2,2 DB1 2,2 BF3 2,2 BF2",348.08,Medium,,,,,
+Peacemaker,,Corner,"1,2","1,2 DB4 FF 2 DB1 2,2 DB1 2,2 BF3 4 BF3",348.99,Medium,,,,,
+Peacemaker,,Corner,"1,2","1,2 DB4 FF 2,2 DB1 2,2 DB1 2,2 BF3 2,2 BF2",358.37,Hard,,,,,
+Peacemaker,,Corner,"1,2","1,2 DB4 FF 2 DB1 2,2 DB1 2,2 BF3 4 BF3+EX 2,2 BF2",392.11,Medium,1,,,,
+Peacemaker,,Corner,"1,2","1,2 DB4 FF 2 DB1 2,2 DB1 2,2 BF3 4 BF3+EX 4 BF3",392.81,Medium,1,,,,
+Peacemaker,,Corner,"1,2","1,2 DB4 FF 2,2 DB1 2,2 DB1 2,2 BF3 4 BF3+EX 4 BF2",403.50,Hard,1,,,,
+Peacemaker,,Corner,"1,2","1,2 DB4 FF 2,2 DB1 2,2 BF3 2,2 SS+EX",454.91,Medium,,,Fatal Blow,,
+Peacemaker,,Corner,"2,2,1+3","2,2,1+3 DB4 FF 2 DB1 2,2 DB1 2,2 BF3 2,2 BF2",339.44,Medium,,,,,
+Peacemaker,,Corner,"2,2,1+3","2,2,1+3 DB4 FF 2 DB1 2,2 DB1 2,2 BF3 4 BF3",340.05,Medium,,,,,
+Peacemaker,,Corner,"2,2,1+3","2,2,1+3 DB4 FF 2,2 DB1 2,2 DB1 2,2 BF3 2,2 BF2",346.30,Hard,,,,,
+Peacemaker,,Corner,"2,2,1+3","2,2,1+3 DB4 FF 2 DB1 2,2 DB1 2,2 BF3 4 BF3+EX 2,2 BF2",368.79,Medium,1,,,,
+Peacemaker,,Corner,"2,2,1+3","2,2,1+3 DB4 FF 2 DB1 2,2 DB1 2,2 BF3 4 BF3+EX 4 BF3",369.26,Medium,1,,,,
+Peacemaker,,Corner,"2,2,1+3","2,2,1+3 DB4 FF 2,2 DB1 2,2 DB1 2,2 BF3 4 BF3+EX 4 BF2",376.39,Hard,1,,,,
+Peacemaker,,Corner,"2,2,1+3","2,2,1+3 DB4 FF 2,2 DB1 2,2 BF3 2,2 SS+EX",410.66,Medium,,,Fatal Blow,,
+Peacemaker,,Corner,"B+2,4","B+2,4 DB1 2,2 DB1 2,2 BF3 2,2 BF2",320.69,Medium,,,,,
+Peacemaker,,Corner,"B+2,4","B+2,4 DB1 2,2 DB1 2,2 BF3 4 BF3",321.77,Medium,,,,,
+Peacemaker,,Corner,"B+2,4","B+2,4 DB1 4 DB1 2,2 DB1 2,2 BF3 2,2 BF2",363.49,Hard,,,,,
+Peacemaker,,Corner,"B+2,4","B+2,4 DB1 2,2 DB1 2,2 BF3 2,2 BF3+EX 2,2 BF2",367.30,Medium,1,,,,
+Peacemaker,,Corner,"B+2,4","B+2,4 DB1 2,2 DB1 2,2 BF3 4 BF3+EX 4 BF3",373.35,Medium,1,,,,
+Peacemaker,,Corner,"B+2,4","B+2,4 DB1 4 DB1 FF 2,2 DB1 2,2 BF3 4 BF3+EX 2,2 BF2",407.82,Hard,1,,,,
+Peacemaker,,Corner,"B+2,4","B+2,4 DB1 4 DB1 2,2 BF3 2,2 SS+EX",465.79,Medium,,,Fatal Blow,,
+Peacemaker,,Corner,"F+4,1","F+4,1 DB4 FF 2 DB1 2,2 DB1 2,2 BF3 2,2 BF2",378.08,Medium,,,,,
+Peacemaker,,Corner,"F+4,1","F+4,1 DB4 FF 2 DB1 2,2 DB1 2,2 BF3 4 BF3",378.99,Medium,,,,,
+Peacemaker,,Corner,"F+4,1","F+4,1 DB4 FF 2,2 DB1 2,2 DB1 2,2 BF3 2,2 BF2",388.37,Hard,,,,,
+Peacemaker,,Corner,"F+4,1","F+4,1 DB4 FF 2 DB1 2,2 DB1 2,2 BF3 4 BF3+EX 2,2 BF2",422.11,Medium,1,,,,
+Peacemaker,,Corner,"F+4,1","F+4,1 DB4 FF 2 DB1 2,2 DB1 2,2 BF3 4 BF3+EX 4 BF3",422.81,Medium,1,,,,
+Peacemaker,,Corner,"F+4,1","F+4,1 DB4 FF 2,2 DB1 2,2 DB1 2,2 BF3 4 BF3+EX 4 BF2",433.50,Hard,1,,,,
+Peacemaker,,Corner,"F+4,1","F+4,1 DB4 FF 2,2 DB1 2,2 BF3 2,2 SS+EX",484.91,Medium,,,Fatal Blow,,
+Quan Chi,,Midscreen,"1,2","1,2 DB1+EX 4 DB4",272.57,Medium,1,,,,
+Quan Chi,,Midscreen,"1,2","1,2 DB1+EX 4 SS+EX",505.19,Medium,1,,Fatal Blow,,
+Quan Chi,,Midscreen,"1,3","1,3 3 U+F+1,2,2",232.54,Easy,,,,,
+Quan Chi,,Midscreen,"1,3","1,3 3 U+F+2 3 U+F+2,1 F+4,4",276.50,Medium,,,,,
+Quan Chi,,Midscreen,"1,3","1,3 3 U+F+2 3 U+F+2,1 F+4 DB4",276.50,Medium,,,,,
+Quan Chi,,Midscreen,"1,3","1,3 3 U+F+2 3 U+F+2,1 F+4 DB4+EX U+F+1,2,2",321.17,Medium,2,,,,
+Quan Chi,,Midscreen,"1,3","1,3 3 U+F+2 3 U+F+2,1 F+4 DB4+EX U+F+1,2 BF4",321.17,Medium,2,,,,
+Quan Chi,,Midscreen,"1,3","1,3 3 U+F+2,1 4 DB4+EX U+F+1,2 BF4",328.08,Hard,2,,,,1st jump punch must hit late.
+Quan Chi,,Midscreen,"1,3","1,3 4 1,2 SS+EX",475.89,Medium,,,Fatal Blow,,
+Quan Chi,,Midscreen,Hold B+2,"Hold B+2 FF 1,3 FF 3 U+F+3 BF4",283.31,Medium,,,,,
+Quan Chi,,Midscreen,Hold B+2,"Hold B+2 FF 1,3 FF 3 U+F+2,1 F+4,4",291.64,Medium,,,,,
+Quan Chi,,Midscreen,Hold B+2,"Hold B+2 FF 1,3 FF 3 U+F+2,1 F+4 DB4",291.64,Medium,,,,,
+Quan Chi,,Midscreen,Hold B+2,Hold B+2 4 SS+EX,477.35,Easy,,,Fatal Blow,,
+Quan Chi,,Midscreen,"B+3,4","B+3,4 4 SS+EX",465.48,Easy,,,Fatal Blow,,
+Quan Chi,,Midscreen,"B+3,4,2","B+3,4,2 1,3 FF F+4,4",274.09,Medium,,,,,
+Quan Chi,,Midscreen,"B+3,4,2","B+3,4,2 1,3 FF F+2,1",277.97,Medium,,,,,
+Quan Chi,,Midscreen,"B+3,4,2","B+3,4,2 1,3 4 DB4",289.05,Medium,,,,,
+Quan Chi,,Midscreen,"B+3,4,2","B+3,4,2 1,3 4 DB4+EX 3 U+F+1,2 BF4",369.99,Medium,2,,,,
+Quan Chi,,Midscreen,DB4+EX,"DB4+EX FF 1,3 FF 3 U+F+2,1 F+4,4",271.64,Medium,2,,,,
+Quan Chi,,Midscreen,DB4+EX,"DB4+EX FF 1,3 FF 3 U+F+2,1 F+4 DB4",271.64,Medium,2,,,,
+Quan Chi,,Midscreen,DB4+EX,"DB4+EX 4 1,2 SS+EX",479.89,Medium,2,,Fatal Blow,,
+Quan Chi,,Corner,"1,2","1,2 DB1+EX 3 U+3 1,3 3 U+3 BF4",372.64,Medium,1,,,,
+Quan Chi,,Corner,"1,2","1,2 DB1+EX 1,3 4 DB4+EX 3 U+F+1,2,2",402.40,Medium,3,,,,
+Quan Chi,,Corner,"1,2","1,2 DB1+EX 2 1,3 4 DB4+EX 3 U+F+1,2,2",412.80,Hard,3,,,,
+Quan Chi,,Corner,"1,2","1,2 DB1+EX 4 SS+EX",505.19,Medium,1,,Fatal Blow,,
+Quan Chi,,Corner,"1,3","1,3 3 U+F+1,2,2",232.54,Easy,,,,,
+Quan Chi,,Corner,"1,3","1,3 3 U+F+3 3 U+F+2,1 F+4,4",283.82,Medium,,,,,Jump kick must hit late.
+Quan Chi,,Corner,"1,3","1,3 3 U+F+3 3 U+F+2,1 F+4 DB4+EX U+F+1,2,2",326.01,Medium,2,,,,Jump kick must hit late.
+Quan Chi,,Corner,"1,3","1,3 4 1,2 SS+EX",475.89,Medium,,,Fatal Blow,,
+Quan Chi,,Corner,Hold B+2,"Hold B+2 3 U+3 1,3 3 U+3 BF4",322.74,Medium,,,,,Jump kick must hit late.
+Quan Chi,,Corner,Hold B+2,"Hold B+2 2 1,3 4 DB4+EX 3 U+F+1,2,2",369.58,Medium,2,,,,Jump kick must hit late.
+Quan Chi,,Corner,Hold B+2,Hold B+2 4 SS+EX,477.35,Easy,,,Fatal Blow,,
+Quan Chi,,Corner,"B+3,4","B+3,4 3 U+3 1,3 3 U+3 BF4",318.61,Medium,,,,,1st jump kick must hit late.
+Quan Chi,,Corner,"B+3,4","B+3,4 1,3 4 DB4+EX 3 U+F+1,2,2",351.58,Medium,2,,,,
+Quan Chi,,Corner,"B+3,4","B+3,4 2 1,3 4 DB4+EX 3 U+F+1,2,2",363.10,Hard,2,,,,
+Quan Chi,,Corner,"B+3,4","B+3,4 4 SS+EX",465.48,Easy,,,Fatal Blow,,
+Raiden,,Midscreen,"3,4","3,4 U+F+2,1,2 BF3",273.95,Easy,,,,,
+Raiden,,Midscreen,"3,4","3,4 F+3,4 F+2,2 DF2",325.02,Medium,,,,,
+Raiden,,Midscreen,"3,4","3,4 FF 3,4 U+F+2,1,2 BF3",337.72,Medium,,,,,
+Raiden,,Midscreen,DB3+EX,"DB3+EX 3 F+3,4 3 BF3",238.58,Medium,1,,,,Electromagnetic Storm must hit 3 or less times.
+Raiden,,Midscreen,DB3+EX,"DB3+EX 3 F+3,4 F+2,2 DF2",252.39,Medium,1,,,,Electromagnetic Storm must hit 3 or less times.
+Raiden,,Midscreen,DB3+EX,"DB3+EX 3 F+3,4 F+2,2 DF2+EX BF3",290.99,Medium,2,,,,Electromagnetic Storm must hit 3 or less times.
+Raiden,,Midscreen,DB3+EX,"DB3+EX 3 F+3,4 F+2,2 DF2+EX F+2 DF2",306.65,Medium,2,,,,Electromagnetic Storm must hit 3 or less times.
+Raiden,,Midscreen,"F+3,4","F+3,4 F+3,4 3 BF3",326.18,Medium,,,,,
+Raiden,,Midscreen,"F+3,4","F+3,4 F+3,4 F+2,2 DF2",340.72,Medium,,,,,
+Raiden,,Midscreen,"F+3,4","F+3,4 F+3,4 F+2,2 DF2+EX BF3",381.35,Medium,1,,,,
+Raiden,,Midscreen,"F+3,4","F+3,4 F+3,4 F+2,2 DF2+EX F+2 DF2",397.84,Medium,1,,,,
+Raiden,,Midscreen,"F+4,3","F+4,3 DF2+EX F+3,4 BF3",294.28,Medium,1,,,,
+Raiden,,Midscreen,"F+4,3","F+4,3 DF2+EX F+3,4 F+2,2 DF2",327.32,Medium,1,,,https://www.youtube.com/watch?v=lQHJgwt4rF4,
+Raiden,Scorpion,Corner,"F+3,4","F+3,4 F+2,2 DB2+EX KAMEO FF F+2,2 DF2+EX SS+EX",512.36,Medium,2,1,Fatal Blow,,
+Rain,,Midscreen,"1,1,4","1,1,4 DB3,F",142.70,Easy,,,,,
+Rain,,Midscreen,"2,1,1","2,1,1 D+1 DB3,F",193.21,Easy,,,,,
+Rain,,Midscreen,"F+2,1","F+2,1 DB1+EX U+F+2,4,3 FF 1,1,2",345.02,Medium,1,,,,
+Rain,,Midscreen,"F+2,1","F+2,1 DB1+EX U+F+2,4,3 2 DB3,F",351.85,Medium,1,,,https://www.youtube.com/watch?v=9z7kOo61s50,
+Rain,,Midscreen,"F+2,1","F+2,1 DB1+EX U+F+2,4,3 FF F+2,1 DB3",363.00,Hard,1,,,,Jump punch must hit late.
+Rain,Scorpion,Midscreen,"F+2,1","F+2,1 DB1+EX U+F+2,4,3 U+KAMEO Hold 4 B+2 DB3",390.64,Medium,1,1,Sideswitch,,
+Rain,,Midscreen,"F+3,2","F+3,2 U+F+2,4,3 DB3",269.55,Easy,,,,,
+Rain,,Midscreen,"F+3,2","F+3,2 U+F+2,4,3 FF 1,1,2",292.54,Medium,,,,,
+Rain,,Midscreen,"F+3,2","F+3,2 U+F+2,4,3 2 DB3,F",299.74,Medium,,,,,
+Rain,,Midscreen,"F+3,2","F+3,2 U+F+2,4,3 F+2,1 DB3",311.47,Hard,,,,,Jump punch must hit late.
+Rain,,Midscreen,Hold 4,"Hold 4 2,1,1 DB3,F",224.09,Medium,,,,,
+Rain,,Midscreen,BF4,"BF4 FF FF Hold 4 2,1,1 DB3,F",260.47,Medium,,,,,
+Reiko,,Midscreen,"1,2","1,2 BF3 Hold U 3,4 DB3",250.60,Easy,,,Sideswitch,,
+Reiko,,Midscreen,"1,2","1,2 BF3 Hold U FF 1 3 BDF1 Hold B",239.61,Medium,,,,,
+Reiko,,Midscreen,"F+1,2,4","F+1,2,4 U+2,1,4",249.34,Easy,,,,,
+Reiko,,Midscreen,"F+1,2,4","F+1,2,4 FF 3,4 DB3",242.55,Easy,,,Sideswitch,,
+Reiko,,Midscreen,"F+1,2,4","F+1,2,4 BF3 Hold U 3 BDF1",258.07,Medium,,,Sideswitch,,
+Reiko,,Midscreen,"F+1,2,4","F+1,2,4 BF3 Hold U 3 BDF1 Hold B",258.07,Medium,,,,https://www.youtube.com/watch?v=Tca49Hn_WyM,
+Reiko,Darrius,Midscreen,BDF1,"BDF1 KAMEO Hold 3,4 BF3+EX FF 3 BDF1",327.44,Medium,1,1,,,Kameo must be called late.
+Reiko,Darrius,Midscreen,BDF1,"BDF1+EX KAMEO Hold B 3,4 BF3+EX FF 3 BDF1",427.44,Medium,2,1,,,Kameo must be called late.
+Reiko,,Midscreen,BF3+EX,BF3+EX BF3 Hold U 1 BDF1,219.45,Medium,1,,,,Opponent must be close.
+Reiko,,Midscreen,BF3+EX,"BF3+EX U+2,1,4",231.46,Easy,1,,,,Opponent must be far.
+Reiko,,Midscreen,BF3+EX,"BF3+EX FF 3,4 DB3",223.93,Easy,1,,Sideswitch,,
+Reiko,,Midscreen,BF3+EX,"BF3+EX U+F+1 1,2 BDF1",225.55,Medium,1,,,,Opponent must be far. Jump punch must hit late.
+Reiko,,Corner,"1,2","1,2 BF3 Hold U 2,1 2,1 1,2 BDF1 Hold B",289.39,Medium,,,,,
+Reptile,,Midscreen,"2,3","2,3 U+F+2,3,3 DB4",283.02,Easy,,,,,
+Reptile,,Midscreen,"2,3","2,3 FF 4 DF3 FF 4 DF3,F F+3,2 DU4",315.47,Medium,,,Setup,,
+Reptile,,Midscreen,"2,3","2,3 FF 4 DF3 FF 4 DF3,F F+3,2 BF4",346.99,Medium,,,,,
+Reptile,,Midscreen,"2,3","2,3 FF 4 DF3 FF F+2 DF3,F U+F+2,3,3 DB4",362.72,Medium,,,,,
+Reptile,,Midscreen,"2,3","2,3 FF 4 DF3 FF 4 DF3,F U+F+2,3,3 DB4",375.76,Hard,,,,,
+Reptile,,Midscreen,Hold B+2,"Hold B+2 F+2,3 F+3,2 DU4",268.99,Medium,,,Setup,,
+Reptile,,Midscreen,Hold B+2,"Hold B+2 F+2,3 F+3,2 BF4",310.07,Medium,,,,,
+Reptile,,Midscreen,"F+2,3","F+2,3 U+F+2,3,3 DB4",303.02,Easy,,,,,
+Reptile,,Midscreen,"F+2,3","F+2,3 FF 4 DF3 FF 4 DF3,F F+3,2 DU4",335.47,Medium,,,Setup,,
+Reptile,,Midscreen,"F+2,3","F+2,3 FF 4 DF3 FF 4 DF3,F F+3,2 BF4",366.99,Medium,,,,,
+Reptile,,Midscreen,"F+2,3","F+2,3 FF 4 DF3 FF F+2 DF3,F U+F+2,3,3 DB4",382.72,Medium,,,,,
+Reptile,,Midscreen,"F+2,3","F+2,3 FF 4 DF3 FF 4 DF3,F U+F+2,3,3 DB4",395.76,Hard,,,,,
+Reptile,,Midscreen,"B+3,1","B+3,1 DF3,F 4 BF4",233.89,Easy,,,,,
+Reptile,,Midscreen,"B+3,1","B+3,1 DF3,F U+F+2,3,3 DB4",291.80,Easy,,,,,
+Reptile,,Midscreen,"B+3,1","B+3,1 DF3,F F+2,3 FF F+2 DF3 F+3,2 DU4",316.76,Medium,,,Setup,https://www.youtube.com/watch?v=OzfxiM22I6s,
+Reptile,,Midscreen,"B+3,1","B+3,1 DF3 F+2,3 FF 4 DF3,F F+3,2 DU4",329.15,Medium,,,Setup,,Does not work from max distance.
+Reptile,,Midscreen,"B+3,1","B+3,1 DF3,F F+2,3 FF F+2 DF3 F+3,2 BF4",346.69,Medium,,,,https://www.youtube.com/watch?v=tSsahTWrWXg,
+Reptile,,Midscreen,"B+3,1","B+3,1 DF3 F+2,3 FF 4 DF3,F F+3,2 BF4",359.08,Medium,,,,,Does not work from max distance.
+Reptile,,Midscreen,"B+3,1","B+3,1 DF3,F F+2,3 FF F+2 DF3 U+F+2,3,3 DB4",374.03,Medium,,,,,
+Reptile,,Corner,"B+3,1","B+3,1 DF3 BB 2,3 4 DF3,F F+3,2 DU4",313.80,Medium,,,Setup,,
+Reptile,,Corner,"B+3,1","B+3,1 DF3 U+B+2,3,3 2 DF3,F F+3,2 DU4",337.55,Hard,,,Setup,,
+Reptile,,Corner,"B+3,1","B+3,1 DF3 BB 2,3 4 DF3,F U+2,3,3 DB4",371.07,Medium,,,,,
+Reptile,,Corner,"B+3,1","B+3,1 DF3 B F+2,3 4 DF3,F U+2,3,3 DB4",386.41,Hard,,,,,
+Scorpion,,Midscreen,"2,1","2,1 BF1 3,3 DB2",219.16,Easy,,,,,
+Scorpion,,Midscreen,"2,1","2,1 BF1 F+3,2 4 BF1",236.39,Easy,,,,,
+Scorpion,,Midscreen,"2,1","2,1 BF1 F+3,2 F F+3,2 F F+3,2 4 BF1",319.11,Medium,,,,https://www.youtube.com/watch?v=YzP-xC3avJc,
+Scorpion,,Midscreen,"2,1","2,1 BF1 F+3,2 F F+3,2 F F+3,2 FF 3,3 BF2",330.41,Medium,,,Sideswitch,,
+Scorpion,,Midscreen,"2,1","2,1 BF1 F+3,2 F F+3,2 U+F+1,2 DB2+EX 1,1,1 DB2",377.52,Medium,1,,,,
+Scorpion,,Midscreen,"F+3,2","F+3,2 4 BF1 3,3 DB2",290.58,Easy,,,,,
+Scorpion,,Midscreen,"F+3,2","F+3,2 F F+3,2 F F+3,2 4 BF1 3,3 DB3",344.23,Medium,,,"Restand, Sideswitch",,
+Scorpion,,Midscreen,"F+3,2","F+3,2 F F+3,2 F F+3,2 4 BF1 3,3 BF4",348.07,Medium,,,Restand,,
+Scorpion,,Midscreen,"F+3,2","F+3,2 F F+3,2 F F+3,2 4 BF1 F+3,2 1 BF1",358.09,Medium,,,,,
+Scorpion,,Midscreen,"F+3,2","F+3,2 F F+3,2 F F+3,2 4 BF1 3,3 DB2",365.71,Medium,,,,https://www.youtube.com/watch?v=VfnsMmBHMLU,
+Scorpion,,Midscreen,"F+3,2","F+3,2 F F+3,2 F F+3,2 4 BF1 F+3,2 4 BF2",383.25,Medium,,,Sideswitch,,
+Scorpion,,Midscreen,"F+3,2","F+3,2 F F+3,2 U+F+1,2 DB2+EX 1,1,1 BF1 3,3 DB3",394.46,Hard,1,,"Restand, Sideswitch",,
+Scorpion,,Midscreen,"F+3,2","F+3,2 F F+3,2 U+F+1,2 DB2+EX 1,1,1 BF1 3,3 BF4",396.82,Hard,1,,Restand,,
+Scorpion,,Midscreen,"F+3,2","F+3,2 F F+3,2 U+F+1,2 DB2+EX 1,1,1 BF1 F+3,2 1 BF2",407.92,Hard,1,,,https://www.youtube.com/watch?v=qPxLVqEZSOo,
+Scorpion,Scorpion,Midscreen,"F+3,2","F+3,2 FF 4 FF 4 BF1 F+3,2 U+F+1,2 DB3+EX 1,2 BF2+EX 1,1,1 U+KAMEO B+2 BF4+EX",541.96,Hard,3,1,Sideswitch,,
+Scorpion,Sonya,Midscreen,"F+3,2","F+3,2 F F+3,2 U+F+1,2 DB2+EX 1,2 DB2+EX 1,1 KAMEO 1 BF1 3,3 SS+EX",489.57,Hard,3,1,Fatal Blow,https://www.youtube.com/watch?v=avvjkm72dNc,
+Scorpion,Cyrax,Corner,"F+3,2","F+3,2 U+1,2 DB2+EX 1,2 DB2+EX 1,1,1 KAMEO U+2,1+3",426.91,Medium,2,1,Sideswitch,,
+Sektor,,Midscreen,"1,1","1,1 DB4 U+F+2,1,2 DB2 U+F+2,1,2 DB4",313.75,Medium,,,,,
+Sektor,,Midscreen,"1,1","1,1 DB4 U+F+2,1,2 DB2 U+F+1,3,4 DB4+EX U+F+3,2",346.32,Medium,,,,,
+Sektor,,Midscreen,"1,1","1,1 DB4 FF 4,2 SS+EX",443.96,Easy,,,"Fatal Blow, Sideswitch",,
+Sektor,,Midscreen,"F+2,1,2","F+2,1,2 F+SS 2,1,2 DB2 U+F+2,1,2 DB4",283.06,Medium,,,Sideswitch,,
+Sektor,,Midscreen,"F+2,1,2","F+2,1,2 F+SS 2,1,2 DB2 U+F+1,3,4 DB4+EX U+F+3,2",310.74,Medium,,,Sideswitch,,
+Sektor,,Corner,"1,1","1,1 DB4 FF 4,2 DB2 4 DB2 4 DB2",348.91,Medium,,,,,
+Sektor,,Corner,"1,1","1,1 DB4 FF 4 DB2 4 SS+EX",469.40,Medium,,,Fatal Blow,,
+Sektor,,Corner,"F+2,1,2","F+2,1,2 DB1,B FF 4,2 DB2 4 DB2 1 DB2 1",377.30,Medium,,,,,
+Sektor,,Corner,"F+2,1,2","F+2,1,2 DB1,B FF 4,2 SS+EX",473.89,Medium,,,Fatal Blow,,
+Sektor,,Corner,F+4,"F+4 DB1,B FF 4,2 DB2 4 DB2 1 DB2 1",353.24,Medium,,,,,
+Sektor,,Corner,F+4,"F+4 DB1,B FF 4,2 SS+EX",460.27,Medium,,,Fatal Blow,,
+Shang Tsung,,Midscreen,"B+1,2","B+1,2 4 DB1",220.76,Easy,,,,,Must be in Young Form.
+Shang Tsung,,Midscreen,"B+1,2","B+1,2 D+SS 4 DF1 4 DF1 F+4 DF1 F+4 DB3",359.08,Medium,,,,,Must be in Young Form.
+Shang Tsung,,Midscreen,"B+1,2","B+1,2 D+SS 4 DF1 4 DF1 4 DF1 F+4 DB3",369.61,Hard,,,,,Must be in Young Form.
+Shang Tsung,,Midscreen,"F+4,1,2,1","F+4,1,2,1 DF1 4 DB3",271.53,Easy,,,,,Must be in Old Form.
+Shang Tsung,,Midscreen,"F+4,1,2,1","F+4,1,2,1 DF1 4 DF1 4 DF1 F+4 DF1 F+4 DB3",388.15,Medium,,,,https://www.youtube.com/watch?v=rHKTYSAIyHg,Must be in Old Form.
+Shang Tsung,,Midscreen,"F+4,1,2,1","F+4,1,2,1 DF1 BB 4 DF1 4 DF1 4 DF1 F+4 DB3",397.18,Hard,,,,,Must be in Old Form.
+Shang Tsung,,Midscreen,"F+4,3","F+4,3 DF1 D+SS 4 DF1 4 DF1 F+4 DF1 F+4 DB3",363.10,Medium,,,,,Must be in Young Form.
+Shang Tsung,,Midscreen,"F+4,3","F+4,3 DF1 D+SS BB 4 DF1 4 DF1 4 DF1 F+4 DB3",373.10,Hard,,,,,Must be in Young Form.
+Sindel,,Midscreen,F+1,"F+1 BF2 F+4,3 U+F+2,4,4",274.26,Easy,,,,,
+Sindel,,Midscreen,F+1,"F+1 BF2 FF B+2 DB2 2 F+4,3 U+F+2 DB2 Hold F 2 FF 2,4 DF4",322.23,Medium,,,,,
+Sindel,,Midscreen,B+2,"B+2 DB2 Hold F 2 F+4,3 U+F+2 2,4 BF2 FF F+4 DF1",292.39,Medium,,,Restand,,
+Sindel,,Midscreen,B+2,"B+2 DB2 Hold F 2 F+4,3 U+F+2 2,4 BF2 FF B+2,3 DF4",308.27,Medium,,,,,
+Sindel,,Midscreen,"B+2,3","B+2,3 2,4 BF2 FF FF B+2 DB2 Hold F 2 F+4 DF1",300.40,Hard,,,Restand,,
+Sindel,,Midscreen,"B+2,3","B+2,3 2,4 BF2 FF FF B+2 DB2 Hold F 2 B+2,3 DF4",317.99,Hard,,,,,
+Sindel,,Midscreen,"F+4,3","F+4,3 U+F+2,4,4",200.08,Easy,,,,,
+Sindel,,Midscreen,"F+4,3","F+4,3 U+F+2 2,4 BF2 FF F+4 DF1",294.32,Medium,,,Restand,,
+Sindel,,Midscreen,"F+4,3","F+4,3 U+F+2 2,4 BF2 FF B+2,3 DF4",317.46,Medium,,,,,
+Sindel,,Midscreen,"F+4,3","F+4,3 U+F+2 2,4 BF2 FF FF B+2 DB2 Hold F 2 F+4 DF1",325.10,Hard,,,Restand,,
+Sindel,,Midscreen,"F+4,3","F+4,3 U+F+2 2,4 BF2 FF FF B+2 DB2 Hold F 2 B+2,3 DF4",340.97,Hard,,,,https://www.youtube.com/watch?v=OnW45uSQR2Q,
+Smoke,Sektor,Midscreen,1,"1 B+KAMEO 3,2 F+1,2,1+3 DB1",263.83,Medium,,1,,,
+Smoke,Sektor,Midscreen,1,"1 B+KAMEO 3,2 U+F+1,1,2",269.58,Medium,,1,,,
+Smoke,Sektor,Midscreen,1,"1 B+KAMEO 3,2 F+1,2,1+3 DB2",267.78,Medium,,1,Sideswitch,,
+Smoke,Sektor,Midscreen,1,"1 B+KAMEO 3,2 F+1,2,1+3 DB4+EX U+F+1,1,2",330.30,Medium,1,1,Sideswitch,,
+Smoke,Sektor,Midscreen,1,"1 B+KAMEO U+1,1 DB4+EX 1,1 DB4+EX 1,1,2",383.33,Medium,2,1,,,Jump punch after 1st and 2nd (Air) Enhanced Smoke-Port must hit late.
+Smoke,Sektor,Midscreen,1,"1 B+KAMEO U+1,1 DB4+EX 1,1 DB4+EX 1,1 DB4+EX 1,1,2",440.79,Medium,3,1,Sideswitch,,Jump punch after 1st and 2nd (Air) Enhanced Smoke-Port must hit late.
+Smoke,,Midscreen,"1,1","1,1 BF3+EX,B+EX 3,2 FF 3,2 F+1,2,1+3 DB1",313.08,Medium,1,,,,
+Smoke,,Midscreen,"1,1","1,1 BF3+EX,B+EX 3,2 FF 3,2 U+F+1,1,2",318.10,Medium,1,,,,
+Smoke,,Midscreen,"1,1","1,1 BF3+EX,B+EX 3,2 FF 3,2 F+1,2,1+3 DB2",316.53,Medium,1,,Sideswitch,,
+Smoke,,Midscreen,"1,1","1,1 BF3+EX,B+EX 3,2 FF 3,2 F+1,2,1+3 DB4+EX 1,1,2",371.20,Medium,2,,Sideswitch,,
+Smoke,,Midscreen,"1,1","1,1 BF3+EX,B+EX 3,2 U+F+1,1 DB4+EX 1,1 DB4+EX 1,1,2",417.58,Medium,3,,,,Jump punch after 2nd (Air) Enhanced Smoke-Port must hit late.
+Smoke,Kung Lao,Midscreen,"1,1,1,4","1,1,1,4 F+KAMEO 3,2 F+1,2,1+3 DB1",319.02,Medium,,1,,,
+Smoke,Kung Lao,Midscreen,"1,1,1,4","1,1,1,4 F+KAMEO 3,2 U+F+1,1,2",324.90,Medium,,1,,,
+Smoke,Kung Lao,Midscreen,"1,1,1,4","1,1,1,4 F+KAMEO 3,2 F+1,2,1+3 DB2",323.06,Medium,,1,Sideswitch,,
+Smoke,Kung Lao,Midscreen,"1,1,1,4","1,1,1,4 F+KAMEO 3,2 F+1,2,1+3 DB4+EX 1,1,2",387.01,Medium,1,1,Sideswitch,,
+Smoke,Kung Lao,Midscreen,"1,1,1,4","1,1,1,4 F+KAMEO U+1,1 DB4+EX 1,1 DB4+EX 1,1,2",441.24,Medium,2,1,,,Jump punch after 1st and 2nd (Air) Enhanced Smoke-Port must hit late.
+Smoke,Kung Lao,Midscreen,"1,1,1,4","1,1,1,4 F+KAMEO U+1,1 DB4+EX 1,1 DB4+EX 1,1 DB4+EX 1,1,2",500.02,Medium,3,1,Sideswitch,,Jump punch after 1st and 2nd (Air) Enhanced Smoke-Port must hit late.
+Smoke,,Midscreen,"F+1,2","F+1,2 BF3,B+EX 3,2 FF 3,2 F+1,2,1+3 DB1",323.08,Medium,,,,,
+Smoke,,Midscreen,"F+1,2","F+1,2 BF3,B+EX 3,2 FF 3,2 U+F+1,1,2",328.10,Medium,,,,,
+Smoke,,Midscreen,"F+1,2","F+1,2 BF3,B+EX 3,2 FF 3,2 F+1,2,1+3 DB2",326.53,Medium,,,Sideswitch,,
+Smoke,,Midscreen,"F+1,2","F+1,2 BF3,B+EX 3,2 FF 3,2 F+1,2,1+3 DB4+EX 1,1,2",381.20,Medium,1,,Sideswitch,,
+Smoke,,Midscreen,"F+1,2","F+1,2 BF3,B+EX 3,2 U+F+1,1 DB4+EX 1,1 DB4+EX 1,1,2",427.58,Medium,2,,,,Jump punch after 2nd (Air) Enhanced Smoke-Port must hit late.
+Smoke,,Midscreen,"F+1,2","F+1,2 BF3,B+EX 3,2 U+F+1,1 DB4+EX 1,1 DB4+EX 1,1 DB4+EX 1,1,2",477.83,Medium,3,,Sideswitch,,Jump punch after 2nd (Air) Enhanced Smoke-Port must hit late.
+Smoke,,Midscreen,"F+1,2","F+1,2 BF3,B+EX 3,2 4 SS+EX",443.63,Medium,,,Fatal Blow,,
+Smoke,Kung Lao,Midscreen,"F+1,2","F+1,2 BF3,B+EX 3,2 FF 3,2 F+1,2,1+3 B+KAMEO Hold KAMEO",295.47,Medium,,1,Setup,,
+Smoke,,Midscreen,"2,1,2","2,1,2 BF3+EX,B+EX 3,2 FF 3,2 F+1,2,1+3 DB1",373.97,Medium,1,,,,
+Smoke,,Midscreen,"2,1,2","2,1,2 BF3+EX,B+EX 3,2 FF 3,2 U+F+1,1,2",378.75,Medium,1,,,,
+Smoke,,Midscreen,"2,1,2","2,1,2 BF3+EX,B+EX 3,2 FF 3,2 F+1,2,1+3 DB2",377.25,Medium,1,,Sideswitch,,
+Smoke,,Midscreen,"2,1,2","2,1,2 BF3+EX,B+EX 3,2 FF 3,2 F+1,2,1+3 DB4+EX 1,1,2",429.19,Medium,2,,Sideswitch,,
+Smoke,,Midscreen,"2,1,2","2,1,2 BF3+EX,B+EX 3,2 U+F+1,1 DB4+EX 1,1 DB4+EX 1,1,2",473.25,Medium,3,,,,Jump punch after 2nd (Air) Enhanced Smoke-Port must hit late.
+Smoke,,Midscreen,B+2,"B+2 BF3,B+EX 3,2 FF 3,2 F+1,2,1+3 DB1",328.50,Medium,,,,,
+Smoke,,Midscreen,B+2,"B+2 BF3,B+EX 3,2 FF 3,2 U+F+1,1,2",333.79,Medium,,,,,
+Smoke,,Midscreen,B+2,"B+2 BF3,B+EX 3,2 FF 3,2 F+1,2,1+3 DB2",332.13,Medium,,,Sideswitch,,
+Smoke,,Midscreen,B+2,"B+2 BF3,B+EX 3,2 FF 3,2 F+1,2,1+3 DB4+EX 1,1,2",389.69,Medium,1,,Sideswitch,,
+Smoke,,Midscreen,B+2,"B+2 BF3,B+EX 3,2 U+F+1,1 DB4+EX 1,1 DB4+EX 1,1,2",438.50,Medium,2,,,,Jump punch after 2nd (Air) Enhanced Smoke-Port must hit late.
+Smoke,,Midscreen,B+2,"B+2 BF3,B+EX 3,2 U+F+1,1 DB4+EX 1,1 DB4+EX 1,1 DB4+EX 1,1,2",491.40,Medium,3,,Sideswitch,,Jump punch after 2nd (Air) Enhanced Smoke-Port must hit late.
+Smoke,,Midscreen,B+2,"B+2 BF3,B+EX 3,2 4 SS+EX",455.40,Medium,,,Fatal Blow,,
+Smoke,Kung Lao,Midscreen,B+2,"B+2 BF3,B+EX 3,2 FF 3,2 F+1,2,1+3 B+KAMEO Hold KAMEO",299.44,Medium,,1,Setup,,
+Smoke,,Midscreen,"3,2","3,2 F+1,2,1+3 DB1",262.22,Easy,,,,,
+Smoke,,Midscreen,"3,2","3,2 U+F+1,1,2",270.29,Easy,,,,,
+Smoke,,Midscreen,"F+3,2","F+3,2 BF3,B+EX 3,2 FF 3,2 F+1,2,1+3 DB1",342.08,Medium,,,,https://www.youtube.com/watch?v=DXuwNLXdqug,
+Smoke,,Midscreen,"F+3,2","F+3,2 BF3,B+EX 3,2 FF 3,2 U+F+1,1,2",347.10,Medium,,,,,
+Smoke,,Midscreen,"F+3,2","F+3,2 BF3,B+EX 3,2 FF 3,2 F+1,2,1+3 DB2",345.53,Medium,,,Sideswitch,,
+Smoke,,Midscreen,"F+3,2","F+3,2 BF3,B+EX 3,2 FF 3,2 F+1,2,1+3 DB4+EX 1,1,2",400.20,Medium,1,,Sideswitch,,
+Smoke,,Midscreen,"F+3,2","F+3,2 BF3,B+EX 3,2 U+F+1,1 DB4+EX 1,1 DB4+EX 1,1,2",446.58,Medium,2,,,,Jump punch after 2nd (Air) Enhanced Smoke-Port must hit late.
+Smoke,,Midscreen,"F+3,2","F+3,2 BF3,B+EX 3,2 U+F+1,1 DB4+EX 1,1 DB4+EX 1,1 DB4+EX 1,1,2",496.83,Medium,3,,Sideswitch,,Jump punch after 2nd (Air) Enhanced Smoke-Port must hit late.
+Smoke,,Midscreen,"F+3,2","F+3,2 BF3,B+EX 3,2 4 SS+EX",462.63,Medium,,,Fatal Blow,,
+Smoke,Kung Lao,Midscreen,"F+3,2","F+3,2 BF3,B+EX 3,2 FF 3,2 F+1,2,1+3 B+KAMEO Hold KAMEO",314.47,Medium,,1,Setup,,
+Smoke,,Midscreen,F+4,"F+4 DB4+EX 1,1,2",302.71,Easy,1,,Sideswitch,,
+Smoke,,Midscreen,F+4,"F+4 DB4+EX 1,1 DB4+EX 1,1,2",413.04,Medium,2,,,,Jump punch after 2nd (Air) Enhanced Smoke-Port must hit late.
+Smoke,,Midscreen,F+4,"F+4 DB4+EX 1,1 DB4+EX 1,1 DB4+EX 1,1,2",498.17,Medium,3,,Sideswitch,,Jump punch after 2nd and 3rd (Air) Enhanced Smoke-Port must hit late.
+Smoke,Sektor,Corner,1,"1 B+KAMEO U+3 F+1,2,1+3 DB1",235.55,Medium,,1,,,
+Smoke,Sektor,Corner,1,"1 B+KAMEO 3,2 F+1,2,1+3 DB1",263.83,Hard,,1,,,
+Smoke,,Corner,"1,1","1,1 BF3+EX,B+EX 3,2 4 F+1,2,1+3 DB1",293.93,Medium,1,,,,
+Smoke,,Corner,"1,1","1,1 BF3+EX,B+EX 3,2 4 F+1,2,1+3 1,1,1,4",323.74,Medium,1,,,,
+Smoke,,Corner,"1,1","1,1 BF3+EX,B+EX 3,2 4 F+1,2,1+3 DB4+EX 1,1,2",362.12,Medium,2,,Sideswitch,,
+Smoke,,Corner,"1,1","1,1 BF3+EX,B+EX 3,2 4 F+1,2,1+3 DB4+EX 1,1 DB4+EX 1,1,2",411.62,Medium,3,,,,
+Smoke,Kung Lao,Corner,"1,1,1,4","1,1,1,4 F+KAMEO 4 F+1,2,1+3 DB1",296.62,Medium,,1,,,
+Smoke,Kung Lao,Corner,"1,1,1,4","1,1,1,4 F+KAMEO BB 3,2 F+1,2,1+3 DB1",319.02,Hard,,1,,,
+Smoke,Kung Lao,Corner,"1,1,1,4","1,1,1,4 F+KAMEO 4 F+1,2,1+3 DB4+EX 1,1,2",376.38,Medium,1,1,Sideswitch,,
+Smoke,Kung Lao,Corner,"1,1,1,4","1,1,1,4 F+KAMEO 4 F+1,2,1+3 DB4+EX 1,1 DB4+EX 1,1,2",434.28,Medium,2,1,,,
+Smoke,Kung Lao,Corner,"1,1,1,4","1,1,1,4 F+KAMEO U+1,1 DB4+EX 1,1 DB4+EX 1,1 DB4+EX 1,1,2",500.02,Medium,3,1,Sideswitch,,Jump punch after 2nd (Air) Enhanced Smoke-Port must hit late.
+Smoke,,Corner,"F+1,2","F+1,2 BF3,B+EX 3,2 4 F+1,2,1+3 DB1",303.93,Medium,,,,,
+Smoke,,Corner,"F+1,2","F+1,2 BF3,B+EX 3,2 4 F+1,2,1+3 1,1,1,4",333.74,Medium,,,,,
+Smoke,,Corner,"F+1,2","F+1,2 BF3,B+EX 3,2 4 F+1,2,1+3 DB4+EX 1,1,2",372.12,Medium,1,,,,
+Smoke,,Corner,"F+1,2","F+1,2 BF3,B+EX 3,2 4 F+1,2,1+3 DB4+EX 1,1 DB4+EX 1,1,2",421.62,Medium,2,,,,
+Smoke,,Corner,"F+1,2","F+1,2 BF3,B+EX 3,2 U+F+1,1 DB4+EX 1,1 DB4+EX 1,1 DB4+EX 1,1,2",477.83,Medium,3,,Sideswitch,,Jump punch after 2nd (Air) Enhanced Smoke-Port must hit late.
+Smoke,,Corner,"F+1,2","F+1,2 BF3,B+EX 3,2 4 F+1,2,1+3 SS+EX",435.92,Medium,,,Fatal Blow,,
+Smoke,Kung Lao,Corner,"F+1,2","F+1,2 BF3,B+EX 3,2 4 F+1,2,1+3 1,1,1,4 B+KAMEO Hold KAMEO",309.44,Medium,,1,Setup,,
+Smoke,Kung Lao,Corner,"F+1,2,2,4","F+1,2,2,4 F+KAMEO U+3 F+1,2,1+3 DB1",330.63,Medium,,,,,Jump kick must hit late.
+Smoke,,Corner,"2,1,2","2,1,2 BF3+EX,B+EX 3,2 4 F+1,2,1+3 DB1",355.78,Medium,1,,,,
+Smoke,,Corner,"2,1,2","2,1,2 BF3+EX,B+EX 3,2 4 F+1,2,1+3 1,1,1,4",384.11,Medium,1,,,,
+Smoke,,Corner,"2,1,2","2,1,2 BF3+EX,B+EX 3,2 4 F+1,2,1+3 DB4+EX 1,1,2",420.57,Medium,2,,Sideswitch,,
+Smoke,,Corner,"2,1,2","2,1,2 BF3+EX,B+EX 3,2 4 F+1,2,1+3 DB4+EX 1,1 DB4+EX 1,1,2",467.59,Medium,3,,,,
+Smoke,,Corner,B+2,"B+2 BF3,B+EX 3,2 4 F+1,2,1+3 DB1",308.35,Medium,,,,,
+Smoke,,Corner,B+2,"B+2 BF3,B+EX 3,2 4 F+1,2,1+3 1,1,1,4",339.73,Medium,,,,,
+Smoke,,Corner,B+2,"B+2 BF3,B+EX 3,2 4 F+1,2,1+3 DB4+EX 1,1,2",380.13,Medium,1,,Sideswitch,,
+Smoke,,Corner,B+2,"B+2 BF3,B+EX 3,2 4 F+1,2,1+3 DB4+EX 1,1 DB4+EX 1,1,2",432.23,Medium,2,,,,
+Smoke,,Corner,B+2,"B+2 BF3,B+EX 3,2 U+F+1,1 DB4+EX 1,1 DB4+EX 1,1 DB4+EX 1,1,2",491.40,Medium,3,,Sideswitch,,Jump punch after 2nd (Air) Enhanced Smoke-Port must hit late.
+Smoke,,Corner,B+2,"B+2 BF3,B+EX 3,2 4 F+1,2,1+3 SS+EX",447.29,Medium,,,Fatal Blow,,
+Smoke,Kung Lao,Corner,B+2,"B+2 BF3,B+EX 3,2 4 F+1,2,1+3 1,1,1,4 B+KAMEO Hold KAMEO",314.15,Medium,,1,Setup,,
+Smoke,,Corner,"3,2","3,2 F+1,2,1+3 DB1",262.22,Easy,,,,,
+Smoke,,Corner,"F+3,2","F+3,2 BF3,B+EX 3,2 4 F+1,2,1+3 DB1",322.93,Medium,,,,,
+Smoke,,Corner,"F+3,2","F+3,2 BF3,B+EX 3,2 4 F+1,2,1+3 1,1,1,4",352.74,Medium,,,,,
+Smoke,,Corner,"F+3,2","F+3,2 BF3,B+EX 3,2 4 F+1,2,1+3 DB4+EX 1,1,2",391.12,Medium,1,,,,
+Smoke,,Corner,"F+3,2","F+3,2 BF3,B+EX 3,2 4 F+1,2,1+3 DB4+EX 1,1 DB4+EX 1,1,2",440.62,Medium,2,,,,
+Smoke,,Corner,"F+3,2","F+3,2 BF3,B+EX 3,2 U+F+1,1 DB4+EX 1,1 DB4+EX 1,1 DB4+EX 1,1,2",496.83,Medium,3,,Sideswitch,,Jump punch after 2nd (Air) Enhanced Smoke-Port must hit late.
+Smoke,,Corner,"F+3,2","F+3,2 BF3,B+EX 3,2 4 F+1,2,1+3 SS+EX",454.92,Medium,,,Fatal Blow,,
+Smoke,Kung Lao,Corner,"F+3,2","F+3,2 BF3,B+EX 3,2 4 F+1,2,1+3 1,1,1,4 B+KAMEO Hold KAMEO",328.44,Medium,,1,Setup,,
+Sub-Zero,,Midscreen,"F+1,2","F+1,2 DF4+EX B+2 B+2 U+F+2,1 1,2 BF3",325.48,Medium,1,,,https://www.youtube.com/watch?v=oCtS_LKtk1A,
+Sub-Zero,,Midscreen,"F+1,2","F+1,2 DF4+EX B+2 B+2 U+F+2,1 DB1 U+F+2 4 BF3",339.74,Hard,1,,,,2nd jump punch must hit late.
+Sub-Zero,,Midscreen,"F+1,2","F+1,2 DF4+EX B+2 B+2 FF 4 SS+EX",426.67,Medium,1,,Fatal Blow,,
+Sub-Zero,,Midscreen,B+2,"B+2 B+2 U+F+1,3,4",276.62,Easy,,,,,
+Sub-Zero,,Midscreen,B+2,"B+2 B+2 F+1,2 BF3",279.73,Easy,,,,,
+Sub-Zero,,Midscreen,B+2,"B+2 B+2 U+F+2,1 1,2 BF3",326.36,Medium,,,,,
+Sub-Zero,,Midscreen,B+2,"B+2 B+2 U+F+2,1 DB1 U+F+2 4 BF3",347.43,Hard,,,,,2nd jump punch must hit late.
+Sub-Zero,,Midscreen,B+2,B+2 B+2 FF 4 SS+EX,475.85,Medium,,,Fatal Blow,,
+Sub-Zero,,Midscreen,(Air) DB4,"(Air) DB4 F+1,2 DF4+EX B+2 B+2 U+F+2,1 1,2 BF3",326.66,Medium,1,,,,Diving Glacier must hit bottom of opponent's hurtbox.
+Sub-Zero,,Midscreen,(Air) DB4,"(Air) DB4 F+1,2 DF4+EX B+2 B+2 U+F+2,1 DB1 U+F+2 4 BF3",338.78,Hard,1,,,,Diving Glacier must hit bottom of opponent's hurtbox. 2nd jump punch must hit late.
+Sub-Zero,,Midscreen,(Air) DB4,(Air) DB4 4 SS+EX,440.58,Easy,,,Fatal Blow,,Diving Glacier must hit bottom of opponent's hurtbox.
+Sub-Zero,,Midscreen,(Air) DB4+EX,"(Air) DB4+EX B+2 U+F+1,2 F+1,2 BF3",269.07,Medium,1,,,,
+Sub-Zero,,Midscreen,(Air) DB4+EX,(Air) DB4+EX B+2 FF 4 SS+EX,448.26,Medium,1,,Fatal Blow,,
+Sub-Zero,,Corner,"1,2","1,2 DB1 U+F+2 B+2 B+2 U+F+2,1 1,2 BF3",302.94,Medium,,,,,2nd Spinal Tap must be delayed.
+Sub-Zero,,Corner,"1,2","1,2 DF4+EX B+2 B+2 B+2 4 DB1 U+F+3 4 BF3",324.38,Hard,1,,,,2nd Spinal Tap must be delayed. Jump kick must hit late.
+Sub-Zero,,Corner,"1,2","1,2 DF4+EX B+2 B+2 B+2 4 DB1 U+F+2,1 DB4+EX U+F+2,1 DB4",345.27,Hard,2,,,,2nd Spinal Tap must be delayed.
+Sub-Zero,,Corner,"1,2","1,2 DB1 FF B+2 B+2 4 SS+EX",410.11,Medium,,,Fatal Blow,,2nd Spinal Tap must be delayed.
+Sub-Zero,,Corner,"F+1,2","F+1,2 DB1 U+F+2 B+2 B+2 U+F+2,1 1,2 BF3",331.94,Medium,,,,,2nd Spinal Tap must be delayed.
+Sub-Zero,,Corner,"F+1,2","F+1,2 DF4+EX B+2 B+2 B+2 4 DB1 U+F+3 4 BF3",353.38,Hard,1,,,,2nd Spinal Tap must be delayed. Jump kick must hit late.
+Sub-Zero,,Corner,"F+1,2","F+1,2 DF4+EX B+2 B+2 B+2 4 DB1 U+F+2,1 DB4+EX U+F+2,1 DB4",374.27,Hard,2,,,,2nd Spinal Tap must be delayed.
+Sub-Zero,,Corner,"F+1,2","F+1,2 DB1 FF B+2 B+2 4 SS+EX",439.11,Medium,,,Fatal Blow,,2nd Spinal Tap must be delayed.
+Sub-Zero,,Corner,B+2,B+2 B+2 4 DB1 U+F+3 4 BF3,334.45,Medium,,,,,2nd Spinal Tap must be delayed. Jump kick must hit late.
+Sub-Zero,,Corner,B+2,B+2 B+2 B+2 4 DB1 U+F+2 4 BF3,362.68,Hard,,,,,2nd Spinal Tap must be delayed. Jump punch must hit late.
+Sub-Zero,,Corner,B+2,B+2 B+2 B+2 4 DB1 U+F+3 4 BF3,367.57,Hard,,,,,2nd Spinal Tap must be delayed. Jump kick must hit late.
+Sub-Zero,,Corner,B+2,"B+2 B+2 B+2 4 DB1 U+F+2,1 DB4+EX U+F+2,1 DB4",398.44,Hard,1,,,,2nd Spinal Tap must be delayed.
+Sub-Zero,,Corner,B+2,B+2 B+2 4 SS+EX,475.85,Medium,,,Fatal Blow,,2nd Spinal Tap must be delayed.
+Sub-Zero,,Corner,B+2,B+2 B+2 B+2 4 SS+EX,481.75,Hard,,,Fatal Blow,,2nd Spinal Tap must be delayed.
+Sub-Zero,,Corner,(Air) DB4,"(Air) DB4 F+1,2 DB1 U+F+2 B+2 B+2 U+F+2,1 1,2 BF3",332.15,Medium,,,,,2nd Spinal Tap must be delayed. Jump kick must hit late.
+Sub-Zero,,Corner,(Air) DB4,"(Air) DB4 F+1,2 DF4+EX B+2 B+2 B+2 4 DB1 U+F+3 4 BF3",350.37,Hard,1,,,,2nd Spinal Tap must be delayed. Jump kick must hit late.
+Sub-Zero,,Corner,(Air) DB4,"(Air) DB4 F+1,2 DF4+EX B+2 B+2 B+2 4 DB1 U+F+2,1 DB4+EX U+F+2,1 DB4",368.13,Hard,2,,,,2nd Spinal Tap must be delayed.
+Sub-Zero,,Corner,(Air) DB4,(Air) DB4 4 SS+EX,440.58,Easy,,,Fatal Blow,,
+Sub-Zero,,Corner,(Air) DB4+EX,(Air) DB4+EX B+2 B+2 4 SS+EX,454.47,Medium,1,,Fatal Blow,,
+Takeda,,Midscreen,"1,2","1,2 BF2+EX,F U+F+2,4 BF3 2,1 DB4,F",306.55,Medium,1,,,,
+Takeda,,Midscreen,"1,2","1,2 BF2+EX,F U+F+2,4 BF3 2,4 DB3",323.03,Medium,1,,,,
+Takeda,,Midscreen,"1,2","1,2 BF2+EX U+F+2,4 BF3 2,4 DB3",323.03,Medium,1,,Sideswitch,,
+Takeda,,Midscreen,"1,2","1,2 BF2+EX U+F+2,4 BF3 2,4,1+3",330.49,Medium,1,,,,
+Takeda,,Midscreen,"1,2","1,2 BF2+EX U+F+2,4 BF3 2,4 DB2",332.35,Medium,1,,,,
+Takeda,,Midscreen,"1,2","1,2 BF2+EX U+F+2,4 BF3 2,4 DB2+EX 1 U+F+2,4 DB2",421.75,Hard,2,,,,Jump punch after (Air) Enhanced Spear Ryu must hit late.
+Takeda,,Midscreen,"1,2","1,2 BF2+EX U+F+2,4 BF3 2,4 DB2+EX 1 U+F+2,4 DB2+EX 2,4 DB2",471.04,Hard,3,,,,Jump punch after (Air) Enhanced Spear Ryu must hit late.
+Takeda,,Midscreen,"1,2","1,2 BF2+EX U+F+2 3 SS+EX EX",441.39,Medium,1,,"Fatal Blow, Sideswitch",,
+Takeda,,Midscreen,DF1,"DB1 DF1 U+F+2,4 BF3 2,1 DB4,F",283.71,Medium,,,,,
+Takeda,,Midscreen,DF1,"DB1 DF1 U+F+2,4 BF3 2,4 DB3",303.04,Medium,,,,,
+Takeda,,Midscreen,DF1,"DB1 DF1 U+F+2,4 BF3 2,4,1+3",311.79,Medium,,,Sideswitch,,
+Takeda,,Midscreen,DF1,"DB1 DF1 U+F+2,4 BF3 2,4 DB2",313.97,Medium,,,Sideswitch,,
+Takeda,,Midscreen,DF1,"DB1 DF1 U+F+2,4 BF3 2,4 DB2+EX 1 U+F+2,4 DB2",418.86,Hard,1,,Sideswitch,,Jump punch after (Air) Enhanced Spear Ryu must hit late.
+Takeda,,Midscreen,DF1,"DB1 DF1 U+F+2,4 BF3 2,4 DB2+EX 1 U+F+2,4 DB2+EX 2,4 DB2",476.69,Hard,2,,Sideswitch,,Jump punch after (Air) Enhanced Spear Ryu must hit late.
+Takeda,,Midscreen,DF1,"DB1 DF1 U+F+2,4 BF3 2,4 DB2+EX 1 U+F+2,4 DB2+EX 2,4 DB2+EX 2,4 DB2",518.72,Hard,3,,Sideswitch,,Jump punch after (Air) Enhanced Spear Ryu must hit late.
+Takeda,,Midscreen,"2,1","2,1 BF3 Hold U FF 4 BF3 2,1 DB4,F",284.08,Medium,,,Sideswitch,,
+Takeda,,Midscreen,"2,1","2,1 BF3 Hold U FF 4 BF3 2,4 DB3",302.21,Medium,,,Sideswitch,,Must repeatedly press jump punch after (Air) Rushing Nimbus Technique.
+Takeda,,Midscreen,"2,1","2,1 BF3 Hold U FF 4 BF3 2,4,1+3",310.42,Medium,,,,,Must repeatedly press jump punch after (Air) Rushing Nimbus Technique.
+Takeda,,Midscreen,"2,1","2,1 BF3 Hold U FF 4 BF3 2,4 DB2",312.48,Medium,,,,,Must repeatedly press jump punch after (Air) Rushing Nimbus Technique.
+Takeda,,Midscreen,"2,1","2,1 BF3 Hold U FF 4 BF3 2,4 DB2+EX 1 U+F+2,4 DB2",410.89,Hard,1,,,,Must repeatedly press jump punch after (Air) Rushing Nimbus Technique. Jump punch after (Air) Enhanced Spear Ryu must hit late.
+Takeda,,Midscreen,"2,1","2,1 BF3 Hold U FF 4 BF3 2,4 DB2+EX 1 U+F+2,4 DB2+EX 1 U+F+2,4 DB2",475.26,Hard,2,,,,Must repeatedly press jump punch after (Air) Rushing Nimbus Technique. Jump punch after (Air) Enhanced Spear Ryu must hit late.
+Takeda,,Midscreen,"2,1","2,1 BF3 Hold U FF 4 BF3 2,4 DB2+EX 1 U+F+2,4 DB2+EX 1 U+F+2,4 DB2+EX 2,4 DB2",510.75,Hard,3,,,,Must repeatedly press jump punch after (Air) Rushing Nimbus Technique. Jump punch after (Air) Enhanced Spear Ryu must hit late.
+Takeda,,Midscreen,"2,1","2,1 BF3 Hold U FF 3 SS+EX EX",432.51,Medium,,,"Fatal Blow, Sideswitch",,
+Takeda,,Midscreen,"2,1","2,1 BF3 Hold U FF 4 BF3 2,4 DB2+EX 3 SS+EX EX",508.46,Medium,1,,Fatal Blow,,Must repeatedly press jump punch after (Air) Rushing Nimbus Technique.
+Takeda,,Midscreen,"B+2,1","B+2,1 BF3 Hold U FF 4 BF3 2,1 DB4,F",285.08,Medium,,,Sideswitch,,Must repeatedly press jump punch after (Air) Rushing Nimbus Technique.
+Takeda,,Midscreen,"B+2,1","B+2,1 BF3 Hold U FF 4 BF3 2,4 DB3",303.21,Medium,,,Sideswitch,,Must repeatedly press jump punch after (Air) Rushing Nimbus Technique.
+Takeda,,Midscreen,"B+2,1","B+2,1 BF3 Hold U FF 4 BF3 2,4,1+3",311.42,Medium,,,,,Must repeatedly press jump punch after (Air) Rushing Nimbus Technique.
+Takeda,,Midscreen,"B+2,1","B+2,1 BF3 Hold U FF 4 BF3 2,4 DB2",313.48,Medium,,,,,Must repeatedly press jump punch after (Air) Rushing Nimbus Technique.
+Takeda,,Midscreen,"B+2,1","B+2,1 BF3 Hold U FF 4 BF3 2,4 DB2+EX 1 U+F+2,4 DB2",411.89,Hard,1,,,,Must repeatedly press jump punch after (Air) Rushing Nimbus Technique. Jump punch after (Air) Enhanced Spear Ryu must hit late.
+Takeda,,Midscreen,"B+2,1","B+2,1 BF3 Hold U FF 4 BF3 2,4 DB2+EX 1 U+F+2,4 DB2+EX 1 U+F+2,4 DB2",476.26,Hard,2,,,,Must repeatedly press jump punch after (Air) Rushing Nimbus Technique. Jump punch after (Air) Enhanced Spear Ryu must hit late.
+Takeda,,Midscreen,"B+2,1","B+2,1 BF3 Hold U FF 4 BF3 2,4 DB2+EX 1 U+F+2,4 DB2+EX 1 U+F+2,4 DB2+EX 2,4 DB2",511.75,Hard,3,,,,Must repeatedly press jump punch after (Air) Rushing Nimbus Technique. Jump punch after (Air) Enhanced Spear Ryu must hit late.
+Takeda,,Midscreen,"B+2,1","B+2,1 BF3 Hold U FF 3 SS+EX EX",433.51,Medium,,,"Fatal Blow, Sideswitch",,
+Takeda,,Midscreen,"B+2,1","B+2,1 BF3 Hold U FF 4 BF3 2,4 DB2+EX 3 SS+EX EX",509.46,Medium,1,,Fatal Blow,,Must repeatedly press jump punch after (Air) Rushing Nimbus Technique.
+Takeda,,Midscreen,(Air) DB2+EX,"(Air) DB2+EX 1 U+F+2,4 BF3 2,1 DB4,F",296.11,Medium,1,,,,Jump punch after (Air) Enhanced Spear Ryu must hit late.
+Takeda,,Midscreen,(Air) DB2+EX,"(Air) DB2+EX 1 U+F+2,4 BF3 2,4 DB3",313.40,Medium,1,,,,Jump punch after (Air) Enhanced Spear Ryu must hit late.
+Takeda,,Midscreen,(Air) DB2+EX,"(Air) DB2+EX 1 U+F+2,4 BF3 2,4,1+3",321.23,Medium,1,,Sideswitch,,Jump punch after (Air) Enhanced Spear Ryu must hit late.
+Takeda,,Midscreen,(Air) DB2+EX,"(Air) DB2+EX 1 U+F+2,4 BF3 2,4 DB2",323.19,Medium,1,,Sideswitch,,Jump punch after (Air) Enhanced Spear Ryu must hit late.
+Takeda,,Midscreen,(Air) DB2+EX,"(Air) DB2+EX 1 U+F+2,4 BF3 2,4 DB2+EX 1 U+F+2,4 DB2",417.03,Hard,2,,Sideswitch,,Jump punch after (Air) Enhanced Spear Ryu must hit late.
+Takeda,,Midscreen,(Air) DB2+EX,"(Air) DB2+EX 1 U+F+2,4 BF3 2,4 DB2+EX 1 U+F+2,4 DB2+EX 2,4 DB2",468.78,Hard,3,,Sideswitch,,Jump punch after (Air) Enhanced Spear Ryu must hit late.
+Takeda,,Midscreen,DB4+EX,"DB4+EX U+F+2,4 BF3 2,1 DB4,F",254.01,Medium,1,,,,
+Takeda,,Midscreen,DB4+EX,"DB4+EX U+F+2,4 BF3 2,4 DB3",273.22,Medium,1,,,,
+Takeda,,Midscreen,DB4+EX,"DB4+EX U+F+2,4 BF3 2,4,1+3",281.92,Medium,1,,Sideswitch,,
+Takeda,,Midscreen,DB4+EX,"DB4+EX U+F+2,4 BF3 2,4 DB2",284.10,Medium,1,,Sideswitch,,
+Takeda,,Midscreen,DB4+EX,"DB4+EX U+F+2,4 BF3 2,4 DB2+EX 1 U+F+2,4 DB2",388.37,Hard,2,,Sideswitch,,Jump punch after (Air) Enhanced Spear Ryu must hit late.
+Takeda,,Midscreen,DB4+EX,"DB4+EX U+F+2,4 BF3 2,4 DB2+EX 1 U+F+2,4 DB2+EX 2,4 DB2",445.86,Hard,3,,Sideswitch,,Jump punch after (Air) Enhanced Spear Ryu must hit late.
+Takeda,,Midscreen,DF4,"DF4 DF4 DF4+EX U+F+2,4 BF3 2,1 DB4,F",264.97,Medium,1,,,,
+Takeda,,Midscreen,DF4,"DF4 DF4 DF4+EX U+F+2,4 BF3 2,4 DB3",281.45,Medium,1,,,,
+Takeda,,Midscreen,DF4,"DF4 DF4 DF4+EX U+F+2,4 BF3 2,4,1+3",288.91,Medium,1,,Sideswitch,,
+Takeda,,Midscreen,DF4,"DF4 DF4 DF4+EX U+F+2,4 BF3 2,4 DB2",290.77,Medium,1,,Sideswitch,,
+Takeda,,Midscreen,DF4,"DF4 DF4 DF4+EX U+F+2,4 BF3 2,4 DB2+EX 1 U+F+2,4 DB2",380.20,Hard,2,,Sideswitch,,Jump punch after (Air) Enhanced Spear Ryu must hit late.
+Takeda,,Midscreen,DF4,"DF4 DF4 DF4+EX U+F+2,4 BF3 2,4 DB2+EX 1 U+F+2,4 DB2+EX 2,4 DB2",429.51,Hard,3,,Sideswitch,,Jump punch after (Air) Enhanced Spear Ryu must hit late.
+Takeda,,Midscreen,THROW,"DB1 THROW Hold 1 U+F+2,4 BF3 2,1 DB4,F",190.01,Medium,,,Sideswitch,,
+Takeda,,Midscreen,THROW,"DB1 THROW Hold 1 U+F+2,4 BF3 2,4 DB3",201.31,Medium,,,Sideswitch,,
+Takeda,,Midscreen,THROW,"DB1 THROW Hold 1 U+F+2,4 BF3 2,4,1+3",206.42,Medium,,,,,
+Takeda,,Midscreen,THROW,"DB1 THROW Hold 1 U+F+2,4 BF3 2,4 DB2",207.70,Medium,,,,,
+Takeda,,Midscreen,THROW,"DB1 THROW Hold 1 U+F+2,4 BF3 2,4 DB2+EX 1 U+F+2,4 DB2",269.04,Hard,1,,,,Jump punch after (Air) Enhanced Spear Ryu must hit late.
+Takeda,,Midscreen,THROW,"DB1 THROW Hold 1 U+F+2,4 BF3 2,4 DB2+EX 1 U+F+2,4 DB2+EX 2,4 DB2",302.86,Hard,2,,,,Jump punch after (Air) Enhanced Spear Ryu must hit late.
+Takeda,,Midscreen,THROW,"DB1 THROW Hold 1 U+F+2,4 BF3 2,4 DB2+EX 1 U+F+2,4 DB2+EX 2,4 DB2+EX 2,4 DB2",327.44,Hard,3,,,,Jump punch after (Air) Enhanced Spear Ryu must hit late.
+Takeda,,Corner,"1,2","1,2 BF2+EX,F U+F+2,4 BF3 2,1 DB4",306.55,Medium,1,,,,
+Takeda,,Corner,"1,2","1,2 BF2+EX,F U+F+2,4 BF3 2,4 DB3",323.03,Medium,1,,,,
+Takeda,,Corner,"1,2","1,2 BF2+EX,F U+F+2,4 BF3 2,4 DB2+EX 1 U+F+3 DB4,B",397.11,Hard,2,,,,Jump punch after (Air) Enhanced Spear Ryu must hit late.
+Takeda,,Corner,"1,2","1,2 BF2+EX,F U+F+2,4 BF3 2,4 DB2+EX 1 U+F+2,4 DB2+EX 3 DB4,B",453.14,Hard,3,,,,Jump punch after (Air) Enhanced Spear Ryu must hit late.
+Takeda,,Corner,"2,1","2,1 BF3 Hold U FF 4 BF3 2,4,1+3",310.42,Medium,,,,,Must repeatedly press jump punch after (Air) Rushing Nimbus Technique.
+Takeda,,Corner,"2,1","2,1 BF3 Hold U FF 4 BF3 2,4 DB2",312.48,Medium,,,,,Must repeatedly press jump punch after (Air) Rushing Nimbus Technique.
+Takeda,,Corner,"2,1","2,1 BF3 Hold U FF 4 BF3 2,4 DB2+EX 4 DB4",368.79,Hard,1,,,,Must repeatedly press jump punch after (Air) Rushing Nimbus Technique.
+Takeda,,Corner,"2,1","2,1 BF3 Hold U FF 4 BF3 2,4 DB2+EX 1 U+F+2,4 DB2",410.89,Hard,1,,,,Must repeatedly press jump punch after (Air) Rushing Nimbus Technique. Jump punch after (Air) Enhanced Spear Ryu must hit late.
+Takeda,,Corner,"2,1","2,1 BF3 Hold U FF 4 BF3 2,4 DB2+EX 1 U+F+2,4 DB2+EX 1 U+F+2,4 DB2",475.26,Hard,2,,,,Must repeatedly press jump punch after (Air) Rushing Nimbus Technique. Jump punch after (Air) Enhanced Spear Ryu must hit late.
+Takeda,,Corner,"2,1","2,1 BF3 Hold U FF 4 BF3 2,4 DB2+EX 1 U+F+2,4 DB2+EX 1 U+F+2,4 DB2+EX 2,4 DB2",510.75,Hard,3,,,,Must repeatedly press jump punch after (Air) Rushing Nimbus Technique. Jump punch after (Air) Enhanced Spear Ryu must hit late.
+Takeda,,Corner,"2,1","2,1 BF3 Hold U FF 3 SS+EX EX",432.51,Medium,,,"Fatal Blow, Sideswitch",,
+Takeda,,Corner,"2,1","2,1 BF3 Hold U FF 4 BF3 2,4 DB2+EX 3 SS+EX EX",508.46,Medium,1,,Fatal Blow,,Must repeatedly press jump punch after (Air) Rushing Nimbus Technique.
+Takeda,,Corner,"B+2,1","B+2,1 BF3 Hold U FF 4 BF3 2,4,1+3",311.42,Medium,,,,,Must repeatedly press jump punch after (Air) Rushing Nimbus Technique.
+Takeda,,Corner,"B+2,1","B+2,1 BF3 Hold U FF 4 BF3 2,4 DB2",313.48,Medium,,,,,Must repeatedly press jump punch after (Air) Rushing Nimbus Technique.
+Takeda,,Corner,"B+2,1","B+2,1 BF3 Hold U FF 4 BF3 2,4 DB2+EX 4 DB4",369.79,Hard,1,,,,Must repeatedly press jump punch after (Air) Rushing Nimbus Technique.
+Takeda,,Corner,"B+2,1","B+2,1 BF3 Hold U FF 4 BF3 2,4 DB2+EX 1 U+F+2,4 DB2",411.89,Hard,1,,,,Must repeatedly press jump punch after (Air) Rushing Nimbus Technique. Jump punch after (Air) Enhanced Spear Ryu must hit late.
+Takeda,,Corner,"B+2,1","B+2,1 BF3 Hold U FF 4 BF3 2,4 DB2+EX 1 U+F+2,4 DB2+EX 1 U+F+2,4 DB2",476.26,Hard,2,,,,Must repeatedly press jump punch after (Air) Rushing Nimbus Technique. Jump punch after (Air) Enhanced Spear Ryu must hit late.
+Takeda,,Corner,"B+2,1","B+2,1 BF3 Hold U FF 4 BF3 2,4 DB2+EX 1 U+F+2,4 DB2+EX 1 U+F+2,4 DB2+EX 2,4 DB2",511.75,Hard,3,,,,Must repeatedly press jump punch after (Air) Rushing Nimbus Technique. Jump punch after (Air) Enhanced Spear Ryu must hit late.
+Takeda,,Corner,"B+2,1","B+2,1 BF3 Hold U FF 3 SS+EX EX",433.51,Medium,,,"Fatal Blow, Sideswitch",,
+Takeda,,Corner,"B+2,1","B+2,1 BF3 Hold U FF 4 BF3 2,4 DB2+EX 3 SS+EX EX",509.46,Medium,1,,Fatal Blow,,Must repeatedly press jump punch after (Air) Rushing Nimbus Technique.
+Takeda,,Corner,(Air) DB2+EX,"(Air) DB2+EX 1 U+F+2,4 BF3 2,1 DB4,B",296.11,Medium,1,,,,Jump punch after (Air) Enhanced Spear Ryu must hit late.
+Takeda,,Corner,(Air) DB2+EX,"(Air) DB2+EX 1 U+F+2,4 BF3 2,4 DB3",313.40,Medium,1,,,,Jump punch after (Air) Enhanced Spear Ryu must hit late.
+Takeda,,Corner,(Air) DB2+EX,"(Air) DB2+EX 1 U+F+2,4 BF3 2,4 DB2+EX 2,1 DB4,B",382.61,Medium,2,,,,Jump punch after (Air) Enhanced Spear Ryu must hit late.
+Takeda,,Corner,(Air) DB2+EX,"(Air) DB2+EX 1 U+F+2,4 BF3 2,4 DB2+EX 2,4 DB3",395.18,Medium,2,,,,Jump punch after (Air) Enhanced Spear Ryu must hit late.
+Takeda,,Corner,(Air) DB2+EX,"(Air) DB2+EX 1 U+F+2,4 BF3 2,4 DB2+EX 1 U+F+2,4 DB2+EX 3 DB4,B",449.98,Hard,3,,,,Jump punch after (Air) Enhanced Spear Ryu must hit late.
+Takeda,,Corner,(Air) DB2+EX,"DB4+EX U+F+2,4 BF3 U+F+2,1 DB4,B",254.01,Medium,1,,,,
+Takeda,,Corner,(Air) DB2+EX,"DB4+EX U+F+2,4 BF3 U+F+2,4 DB3",273.22,Medium,1,,,,
+Takeda,,Corner,(Air) DB2+EX,"DB4+EX U+F+2,4 BF3 2,4 DB2+EX 1 U+F+3 DB4,B",359.63,Hard,2,,,,Jump punch after (Air) Enhanced Spear Ryu must hit late.
+Takeda,,Corner,(Air) DB2+EX,"DB4+EX U+F+2,4 BF3 2,4 DB2+EX 1 U+F+2,4 DB2+EX 3 DB4,B",424.98,Hard,3,,,,Jump punch after (Air) Enhanced Spear Ryu must hit late.
+Takeda,,Corner,DB4+EX,"DB4+EX U+F+2,4 BF3 2,1 DB4,B",254.01,Medium,1,,,,
+Takeda,,Corner,DB4+EX,"DB4+EX U+F+2,4 BF3 2,4 DB3",273.22,Medium,1,,,,
+Takeda,,Corner,DB4+EX,"DB4+EX U+F+2,4 BF3 2,4 DB2+EX 1 U+F+3 DB4,B",359.63,Hard,2,,,,Jump punch after (Air) Enhanced Spear Ryu must hit late.
+Takeda,,Corner,DB4+EX,"DB4+EX U+F+2,4 BF3 2,4 DB2+EX 1 U+F+2,4 DB2+EX 3 DB4,B",424.98,Hard,3,,,,Jump punch after (Air) Enhanced Spear Ryu must hit late.
+Takeda,,Corner,DF4,"DF4 DF4 DF4+EX U+F+2,4 BF3 2,1 DB4",264.97,Medium,1,,,,
+Takeda,,Corner,DF4,"DF4 DF4 DF4+EX U+F+2,4 BF3 2,4 DB3",281.45,Medium,1,,,,
+Takeda,,Corner,DF4,"DF4 DF4 DF4+EX U+F+2,4 BF3 2,4 DB2+EX 1 U+F+3 DB4,B",355.56,Hard,2,,,,Jump punch after (Air) Enhanced Spear Ryu must hit late.
+Takeda,,Corner,DF4,"DF4 DF4 DF4+EX U+F+2,4 BF3 2,4 DB2+EX 1 U+F+2,4 DB2+EX 3 DB4,B",411.60,Hard,3,,,,Jump punch after (Air) Enhanced Spear Ryu must hit late.
+Takeda,,Corner,THROW,"DB1 THROW Hold 1 U+F+2,4 BF3 2,1 DB4",190.01,Medium,,,Sideswitch,,Must be cornered.
+Takeda,,Corner,THROW,"DB1 THROW Hold 1 U+F+2,4 BF3 2,4 DB3",201.31,Medium,,,Sideswitch,,Must be cornered.
+Takeda,,Corner,THROW,"DB1 THROW Hold 1 U+F+2,4 BF3 2,4 DB2+EX 2,1 DB4",246.55,Medium,1,,Sideswitch,,Must be cornered.
+Takeda,,Corner,THROW,"DB1 THROW Hold 1 U+F+2,4 BF3 2,4 DB2+EX 1 U+F+2,4 DB3",264.86,Hard,1,,Sideswitch,,Must be cornered. Jump punch after (Air) Enhanced Spear Ryu must hit late.
+Takeda,,Corner,THROW,"DB1 THROW Hold 1 U+F+2,4 BF3 2,4 DB2+EX 1 U+F+2,4 DB2+EX 3 DB4,B",290.58,Hard,2,,Sideswitch,,Must be cornered. Jump punch after (Air) Enhanced Spear Ryu must hit late.
+Takeda,,Corner,THROW,"DB1 THROW Hold 1 U+F+2,4 BF3 2,4 DB2+EX 1 U+F+2,4 DB2+EX 2,4 DB3",299.82,Hard,2,,Sideswitch,,Must be cornered. Jump punch after (Air) Enhanced Spear Ryu must hit late.
+Takeda,,Corner,THROW,"DB1 THROW Hold 1 U+F+2,4 BF3 2,4 DB2+EX 1 U+F+2,4 DB2+EX 2,4 DB2+EX 3 DB4,B",318.51,Hard,3,,Sideswitch,,Must be cornered. Jump punch after (Air) Enhanced Spear Ryu must hit late.
+Takeda,,Corner,THROW,"DB1 THROW Hold 1 U+F+2,4 BF3 2,4 DB2+EX 1 U+F+2,4 DB2+EX 2,4 DB2+EX 2,4 DB3",325.23,Hard,3,,Sideswitch,,Must be cornered. Jump punch after (Air) Enhanced Spear Ryu must hit late.
+Tanya,,Midscreen,"B+2,3","B+2,3 2,1+3 DB4",207.41,Easy,,,Sideswitch,,
+Tanya,,Midscreen,"B+2,3","B+2,3 2,1+3 BF4",209.71,Easy,,,,,
+Tanya,,Midscreen,"F+2,1,1","F+2,1,1 BF4+EX FF F+4 FF 2,1+3 DB4",312.40,Medium,1,,,https://www.youtube.com/watch?v=J_W5Bz3ZuRc,
+Tanya,,Midscreen,"F+2,1,1","F+2,1,1 BF4+EX FF F+4 FF 2,1+3 BF4",314.37,Medium,1,,Sideswitch,,
+Tanya,,Midscreen,"F+2,1,1","F+2,1,1 BF4+EX B+2,3 4 DB4",314.60,Medium,1,,Sideswitch,,
+Tanya,,Midscreen,F+4,"F+4 U+F+1,3,3",215.39,Easy,,,,,
+Tanya,,Midscreen,F+4,"F+4 B+2,3 4 BF4",242.52,Medium,,,Sideswitch,,
+Tanya,,Midscreen,F+4,"F+4 FF F+4 FF 2,1+3 DB4",246.90,Medium,,,Sideswitch,,
+Tanya,,Midscreen,F+4,"F+4 B+2,3 4 DB4",249.60,Medium,,,,,
