@@ -1,13 +1,14 @@
 # MK1-FrameDataBot
 ## Overview
 
-This code could be streamlined further but is structured well enough to be readable.
+Main.py handles listening for an @mention for activation, as well as managing Discord embeds, thumbnails, and formatting responses. Responses.py contains the main query logic, ~~including web scraping from MK1.KombatAkademy.com~~, formatting, query normalization, and alias handling.
 
-Main.py handles listening for an @mention for activation, as well as managing Discord embeds, thumbnails, and formatting responses. Responses.py contains the main query logic, including web scraping from MK1.KombatAkademy.com, formatting, query normalization, and alias handling.
+Update: The MK1.KombatAkademy.com has been discontinued. The owner of the project has given me the necessary files to continue this bot's functionality. Main.py and responses.py have been updated to accomodate this change
 
 ## Functionality
 
 After being @mentioned, the bot expects two additional words: the character name and the input you want to search for. If "ALL" is used instead of the input, the bot will return a list of all inputs found on Kombat Akademy for that character. Due to the way the data is structured, some data may display inaccurately.
+
 The script has some leniency with misspelling character names. As of this commit, you are allowed 2 mispellings.
 If no match for the character's name or input is found, the help message will be returned.
 
@@ -26,4 +27,4 @@ Examples:
     
 
 ## Link to add bot to server
-https://discord.com/oauth2/authorize?client_id=1263851539429199872&response_type=code&redirect_uri=https%3A%2F%2Fdiscordapp.com%2Foauth2%2Fauthorize%3F%26client_id%3D1263851539429199872%26scope%3Dbot&integration_type=0&scope=guilds.join+applications.commands+activities.read
+https://discord.com/oauth2/authorize?client_id=1263851539429199872&permissions=67584&integration_type=0&scope=bot
