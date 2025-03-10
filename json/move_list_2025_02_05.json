@@ -26422,7 +26422,7 @@
     "notes": ""
   },
   {
-    "char_name": "Omni-Man",
+    "char_name": "Omni Man",
     "category": "Basic Attacks",
     "subcategory": "Normal Attacks",
     "parent_command": 1,
@@ -26443,7 +26443,7 @@
     "notes": ""
   },
   {
-    "char_name": "Omni-Man",
+    "char_name": "Omni Man",
     "category": "Basic Attacks",
     "subcategory": "Normal Attacks",
     "parent_command": 1,
@@ -26464,7 +26464,7 @@
     "notes": ""
   },
   {
-    "char_name": "Omni-Man",
+    "char_name": "Omni Man",
     "category": "Basic Attacks",
     "subcategory": "Normal Attacks",
     "parent_command": "",
@@ -26485,7 +26485,7 @@
     "notes": ""
   },
   {
-    "char_name": "Omni-Man",
+    "char_name": "Omni Man",
     "category": "Basic Attacks",
     "subcategory": "Normal Attacks",
     "parent_command": "B+1",
@@ -26506,7 +26506,7 @@
     "notes": "Cancelable on Hit into Jump"
   },
   {
-    "char_name": "Omni-Man",
+    "char_name": "Omni Man",
     "category": "Basic Attacks",
     "subcategory": "Normal Attacks",
     "parent_command": "B+1",
@@ -26527,7 +26527,7 @@
     "notes": ""
   },
   {
-    "char_name": "Omni-Man",
+    "char_name": "Omni Man",
     "category": "Basic Attacks",
     "subcategory": "Normal Attacks",
     "parent_command": "",
@@ -26548,7 +26548,7 @@
     "notes": ""
   },
   {
-    "char_name": "Omni-Man",
+    "char_name": "Omni Man",
     "category": "Basic Attacks",
     "subcategory": "Normal Attacks",
     "parent_command": "",
@@ -26569,7 +26569,7 @@
     "notes": ""
   },
   {
-    "char_name": "Omni-Man",
+    "char_name": "Omni Man",
     "category": "Basic Attacks",
     "subcategory": "Normal Attacks",
     "parent_command": 2,
@@ -26590,7 +26590,7 @@
     "notes": ""
   },
   {
-    "char_name": "Omni-Man",
+    "char_name": "Omni Man",
     "category": "Basic Attacks",
     "subcategory": "Normal Attacks",
     "parent_command": 2,
@@ -26611,7 +26611,7 @@
     "notes": ""
   },
   {
-    "char_name": "Omni-Man",
+    "char_name": "Omni Man",
     "category": "Basic Attacks",
     "subcategory": "Normal Attacks",
     "parent_command": "",
@@ -26632,7 +26632,7 @@
     "notes": ""
   },
   {
-    "char_name": "Omni-Man",
+    "char_name": "Omni Man",
     "category": "Basic Attacks",
     "subcategory": "Normal Attacks",
     "parent_command": "",
@@ -26653,7 +26653,7 @@
     "notes": "On Kounter or Punish Hit, can be Jump Canceled with U+EX or U+F+EX for 2 bars of Super Meter\nHas Armor when Jump Canceled, and pulls in victim while disabling their Kombo Breaker and Kameos"
   },
   {
-    "char_name": "Omni-Man",
+    "char_name": "Omni Man",
     "category": "Basic Attacks",
     "subcategory": "Normal Attacks",
     "parent_command": "",
@@ -26674,7 +26674,7 @@
     "notes": ""
   },
   {
-    "char_name": "Omni-Man",
+    "char_name": "Omni Man",
     "category": "Basic Attacks",
     "subcategory": "Normal Attacks",
     "parent_command": "",
@@ -26695,7 +26695,7 @@
     "notes": ""
   },
   {
-    "char_name": "Omni-Man",
+    "char_name": "Omni Man",
     "category": "Basic Attacks",
     "subcategory": "Normal Attacks",
     "parent_command": "",
@@ -26716,7 +26716,7 @@
     "notes": ""
   },
   {
-    "char_name": "Omni-Man",
+    "char_name": "Omni Man",
     "category": "Basic Attacks",
     "subcategory": "Normal Attacks",
     "parent_command": "",
@@ -26737,7 +26737,7 @@
     "notes": ""
   },
   {
-    "char_name": "Omni-Man",
+    "char_name": "Omni Man",
     "category": "Basic Attacks",
     "subcategory": "Normal Attacks",
     "parent_command": "",
@@ -26758,7 +26758,7 @@
     "notes": ""
   },
   {
-    "char_name": "Omni-Man",
+    "char_name": "Omni Man",
     "category": "Basic Attacks",
     "subcategory": "Normal Attacks",
     "parent_command": "",
@@ -26779,7 +26779,7 @@
     "notes": ""
   },
   {
-    "char_name": "Omni-Man",
+    "char_name": "Omni Man",
     "category": "Basic Attacks",
     "subcategory": "Normal Attacks",
     "parent_command": "F+4",
@@ -26800,7 +26800,7 @@
     "notes": ""
   },
   {
-    "char_name": "Omni-Man",
+    "char_name": "Omni Man",
     "category": "Basic Attacks",
     "subcategory": "Normal Attacks",
     "parent_command": "F+4",
@@ -26821,7 +26821,7 @@
     "notes": ""
   },
   {
-    "char_name": "Omni-Man",
+    "char_name": "Omni Man",
     "category": "Basic Attacks",
     "subcategory": "Normal Attacks",
     "parent_command": "",
@@ -26842,7 +26842,7 @@
     "notes": ""
   },
   {
-    "char_name": "Omni-Man",
+    "char_name": "Omni Man",
     "category": "Basic Attacks",
     "subcategory": "Aerial Attacks",
     "parent_command": "",
@@ -26863,7 +26863,7 @@
     "notes": ""
   },
   {
-    "char_name": "Omni-Man",
+    "char_name": "Omni Man",
     "category": "Basic Attacks",
     "subcategory": "Aerial Attacks",
     "parent_command": "U+F+1",
@@ -26884,7 +26884,7 @@
     "notes": ""
   },
   {
-    "char_name": "Omni-Man",
+    "char_name": "Omni Man",
     "category": "Basic Attacks",
     "subcategory": "Aerial Attacks",
     "parent_command": "U+F+1",
@@ -26905,7 +26905,7 @@
     "notes": ""
   },
   {
-    "char_name": "Omni-Man",
+    "char_name": "Omni Man",
     "category": "Basic Attacks",
     "subcategory": "Aerial Attacks",
     "parent_command": "",
@@ -26926,7 +26926,7 @@
     "notes": ""
   },
   {
-    "char_name": "Omni-Man",
+    "char_name": "Omni Man",
     "category": "Basic Attacks",
     "subcategory": "Aerial Attacks",
     "parent_command": "U+F+2",
@@ -26947,7 +26947,7 @@
     "notes": ""
   },
   {
-    "char_name": "Omni-Man",
+    "char_name": "Omni Man",
     "category": "Basic Attacks",
     "subcategory": "Aerial Attacks",
     "parent_command": "U+F+2",
@@ -26968,7 +26968,7 @@
     "notes": ""
   },
   {
-    "char_name": "Omni-Man",
+    "char_name": "Omni Man",
     "category": "Basic Attacks",
     "subcategory": "Aerial Attacks",
     "parent_command": "U+F+2",
@@ -26989,7 +26989,7 @@
     "notes": ""
   },
   {
-    "char_name": "Omni-Man",
+    "char_name": "Omni Man",
     "category": "Basic Attacks",
     "subcategory": "Aerial Attacks",
     "parent_command": "",
@@ -27010,7 +27010,7 @@
     "notes": ""
   },
   {
-    "char_name": "Omni-Man",
+    "char_name": "Omni Man",
     "category": "Basic Attacks",
     "subcategory": "Throws",
     "parent_command": "",
@@ -27031,7 +27031,7 @@
     "notes": "Performed when Kameo is unavailable\nSee Kameo Moves for Toward Throw featuring Kameo"
   },
   {
-    "char_name": "Omni-Man",
+    "char_name": "Omni Man",
     "category": "Basic Attacks",
     "subcategory": "Throws",
     "parent_command": "",
@@ -27052,7 +27052,7 @@
     "notes": ""
   },
   {
-    "char_name": "Omni-Man",
+    "char_name": "Omni Man",
     "category": "Basic Attacks",
     "subcategory": "Breakers",
     "parent_command": "",
@@ -27073,7 +27073,7 @@
     "notes": "Costs 3 bars of Super Meter\nKameo must be available"
   },
   {
-    "char_name": "Omni-Man",
+    "char_name": "Omni Man",
     "category": "Basic Attacks",
     "subcategory": "Taunts",
     "parent_command": "",
@@ -27094,7 +27094,7 @@
     "notes": ""
   },
   {
-    "char_name": "Omni-Man",
+    "char_name": "Omni Man",
     "category": "Special Moves",
     "subcategory": "Special Moves",
     "parent_command": "",
@@ -27115,7 +27115,7 @@
     "notes": ""
   },
   {
-    "char_name": "Omni-Man",
+    "char_name": "Omni Man",
     "category": "Special Moves",
     "subcategory": "Special Moves",
     "parent_command": "BF1",
@@ -27136,7 +27136,7 @@
     "notes": "Costs 1 bar of Super Meter\nDestroys opponent's projectiles"
   },
   {
-    "char_name": "Omni-Man",
+    "char_name": "Omni Man",
     "category": "Special Moves",
     "subcategory": "Special Moves",
     "parent_command": "",
@@ -27157,7 +27157,7 @@
     "notes": ""
   },
   {
-    "char_name": "Omni-Man",
+    "char_name": "Omni Man",
     "category": "Special Moves",
     "subcategory": "Special Moves",
     "parent_command": "BF1",
@@ -27178,7 +27178,7 @@
     "notes": "Costs 1 bar of Super Meter\nDestroys opponent's projectiles"
   },
   {
-    "char_name": "Omni-Man",
+    "char_name": "Omni Man",
     "category": "Special Moves",
     "subcategory": "Special Moves",
     "parent_command": "",
@@ -27199,7 +27199,7 @@
     "notes": ""
   },
   {
-    "char_name": "Omni-Man",
+    "char_name": "Omni Man",
     "category": "Special Moves",
     "subcategory": "Special Moves",
     "parent_command": "BF2",
@@ -27220,7 +27220,7 @@
     "notes": "Costs 1 bar of Super Meter\nHas Armor"
   },
   {
-    "char_name": "Omni-Man",
+    "char_name": "Omni Man",
     "category": "Special Moves",
     "subcategory": "Special Moves",
     "parent_command": "",
@@ -27241,7 +27241,7 @@
     "notes": ""
   },
   {
-    "char_name": "Omni-Man",
+    "char_name": "Omni Man",
     "category": "Special Moves",
     "subcategory": "Special Moves",
     "parent_command": "BF2",
@@ -27262,7 +27262,7 @@
     "notes": "Costs 1 bar of Super Meter\nHas Armor"
   },
   {
-    "char_name": "Omni-Man",
+    "char_name": "Omni Man",
     "category": "Special Moves",
     "subcategory": "Special Moves",
     "parent_command": "",
@@ -27283,7 +27283,7 @@
     "notes": "Dodges Projectile Attacks"
   },
   {
-    "char_name": "Omni-Man",
+    "char_name": "Omni Man",
     "category": "Special Moves",
     "subcategory": "Special Moves",
     "parent_command": "DB3",
@@ -27304,7 +27304,7 @@
     "notes": "Dodges High, Mid, and Projectile Attacks\nCosts 1 bar of Super Meter"
   },
   {
-    "char_name": "Omni-Man",
+    "char_name": "Omni Man",
     "category": "Special Moves",
     "subcategory": "Special Moves",
     "parent_command": "DB3",
@@ -27325,7 +27325,7 @@
     "notes": ""
   },
   {
-    "char_name": "Omni-Man",
+    "char_name": "Omni Man",
     "category": "Special Moves",
     "subcategory": "Special Moves",
     "parent_command": "DB3",
@@ -27346,7 +27346,7 @@
     "notes": ""
   },
   {
-    "char_name": "Omni-Man",
+    "char_name": "Omni Man",
     "category": "Special Moves",
     "subcategory": "Special Moves",
     "parent_command": "DB3",
@@ -27367,7 +27367,7 @@
     "notes": ""
   },
   {
-    "char_name": "Omni-Man",
+    "char_name": "Omni Man",
     "category": "Special Moves",
     "subcategory": "Special Moves",
     "parent_command": "DB3",
@@ -27388,7 +27388,7 @@
     "notes": ""
   },
   {
-    "char_name": "Omni-Man",
+    "char_name": "Omni Man",
     "category": "Special Moves",
     "subcategory": "Special Moves",
     "parent_command": "DB3",
@@ -27409,7 +27409,7 @@
     "notes": ""
   },
   {
-    "char_name": "Omni-Man",
+    "char_name": "Omni Man",
     "category": "Special Moves",
     "subcategory": "Special Moves",
     "parent_command": "DB3",
@@ -27430,7 +27430,7 @@
     "notes": ""
   },
   {
-    "char_name": "Omni-Man",
+    "char_name": "Omni Man",
     "category": "Special Moves",
     "subcategory": "Special Moves",
     "parent_command": "",
@@ -27451,7 +27451,7 @@
     "notes": "Dodges Projectile Attacks"
   },
   {
-    "char_name": "Omni-Man",
+    "char_name": "Omni Man",
     "category": "Special Moves",
     "subcategory": "Special Moves",
     "parent_command": "DB3",
@@ -27472,7 +27472,7 @@
     "notes": "Dodges High, Mid, and Projectile Attacks\nCosts 1 bar of Super Meter"
   },
   {
-    "char_name": "Omni-Man",
+    "char_name": "Omni Man",
     "category": "Special Moves",
     "subcategory": "Special Moves",
     "parent_command": "DB3",
@@ -27493,7 +27493,7 @@
     "notes": ""
   },
   {
-    "char_name": "Omni-Man",
+    "char_name": "Omni Man",
     "category": "Special Moves",
     "subcategory": "Special Moves",
     "parent_command": "DB3",
@@ -27514,7 +27514,7 @@
     "notes": ""
   },
   {
-    "char_name": "Omni-Man",
+    "char_name": "Omni Man",
     "category": "Special Moves",
     "subcategory": "Special Moves",
     "parent_command": "DB3",
@@ -27535,7 +27535,7 @@
     "notes": ""
   },
   {
-    "char_name": "Omni-Man",
+    "char_name": "Omni Man",
     "category": "Special Moves",
     "subcategory": "Special Moves",
     "parent_command": "DB3",
@@ -27556,7 +27556,7 @@
     "notes": ""
   },
   {
-    "char_name": "Omni-Man",
+    "char_name": "Omni Man",
     "category": "Special Moves",
     "subcategory": "Special Moves",
     "parent_command": "DB3",
@@ -27577,7 +27577,7 @@
     "notes": ""
   },
   {
-    "char_name": "Omni-Man",
+    "char_name": "Omni Man",
     "category": "Special Moves",
     "subcategory": "Special Moves",
     "parent_command": "DB3",
@@ -27598,7 +27598,7 @@
     "notes": ""
   },
   {
-    "char_name": "Omni-Man",
+    "char_name": "Omni Man",
     "category": "Special Moves",
     "subcategory": "Special Moves",
     "parent_command": "",
@@ -27619,7 +27619,7 @@
     "notes": ""
   },
   {
-    "char_name": "Omni-Man",
+    "char_name": "Omni Man",
     "category": "Special Moves",
     "subcategory": "Special Moves",
     "parent_command": "",
@@ -27640,7 +27640,7 @@
     "notes": ""
   },
   {
-    "char_name": "Omni-Man",
+    "char_name": "Omni Man",
     "category": "Special Moves",
     "subcategory": "Special Moves",
     "parent_command": "",
@@ -27661,7 +27661,7 @@
     "notes": "Costs 1 bar of Super Meter for each consecutive use of Fly Toward/Away"
   },
   {
-    "char_name": "Omni-Man",
+    "char_name": "Omni Man",
     "category": "Special Moves",
     "subcategory": "Special Moves",
     "parent_command": "",
@@ -27682,7 +27682,7 @@
     "notes": "Costs 1 bar of Super Meter for each consecutive use of Fly Toward/Away"
   },
   {
-    "char_name": "Omni-Man",
+    "char_name": "Omni Man",
     "category": "Special Moves",
     "subcategory": "Fatal Blow",
     "parent_command": "",
