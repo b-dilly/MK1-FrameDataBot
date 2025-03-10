@@ -26401,7 +26401,7 @@
     "notes": "Must be at 30% health or less\nKameo must be available\nPress Basic Attack buttons during hits to influence damage (with Fatal Blow Damage Boost ON in Tournament Settings)"
   },
   {
-    "char_name": "Omni-Man",
+    "char_name": "Omni Man",
     "category": "Basic Attacks",
     "subcategory": "Normal Attacks",
     "parent_command": "",
