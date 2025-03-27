@@ -201,7 +201,7 @@ def levenshtein_distance(s1, s2):
 
     return distances[-1]
 def get_best_match(user_input, mispelling_tolerance):
-    characters = ['Ashrah', 'Baraka', 'Conan', 'Cyrax', 'Ermac', 'General Shao', 'Ghostface', 'Geras', 'Havik', 'Homelander', 'Johnny Cage', 'Kenshi', 'Kitana', 'Kung Lao', 'Li Mei', 'Liu Kang', 'Mileena', 'Nitara', 'Noob Saibot', 'Omni Man', 'Peacemaker', 'Quan Chi', 'Raiden', 'Rain', 'Reiko', 'Reptile', 'Scorpion', 'Sektor', 'Shang Tsung', 'Sindel', 'Smoke', 'Sub-Zero', 'T-1000', 'Takeda', 'Tanya', 'k.Cyrax', 'k.Darrius', 'k.Ferra', 'k.Frost', 'k.Goro', 'k.Janet Cage', 'k.Jax', 'k.Kano', 'k.Khameleon', 'k.Kung Lao', 'k.Mavado', 'k.Motaro', 'k.Sareena', 'k.Scorpion', 'k.Sektor', 'k.Shujinko', 'k.Sonya', 'k.Stryker', 'k.Sub Zero', 'k.Tremor']
+    characters = ['Ashrah', 'Baraka', 'Conan', 'Cyrax', 'Ermac', 'General Shao', 'Ghostface', 'Geras', 'Havik', 'Homelander', 'Johnny Cage', 'Kenshi', 'Kitana', 'Kung Lao', 'Li Mei', 'Liu Kang', 'Mileena', 'Nitara', 'Noob Saibot', 'Omni Man', 'Peacemaker', 'Quan Chi', 'Raiden', 'Rain', 'Reiko', 'Reptile', 'Scorpion', 'Sektor', 'Shang Tsung', 'Sindel', 'Smoke', 'Sub-Zero', 'T-1000', 'Takeda', 'Tanya', 'k.Cyrax', 'k.Darrius', 'k.Ferra', 'k.Frost', 'k.Goro', 'k.Janet Cage', 'k.Jax', 'k.Kano', 'k.Khameleon', 'k.Kung Lao', 'k.Mavado', 'k.Motaro', 'k.Sareena', 'k.Scorpion', 'k.Sektor', 'k.Shujinko', 'k.Sonya', 'k.Stryker', 'k.Sub-Zero', 'k.Tremor']
     best_match = None
     lowest_distance = float('inf')
 
